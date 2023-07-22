@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity"
+        android:background="@color/colorPrimaryLight">
+
+        <TextView
+            android:id="@+id/tv_materi"
+            android:layout_width="128dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="152dp"
+            android:padding="@dimen/normal_100"
+            android:text="Materi"
+            android:textColor="@color/black"
+            android:textSize="@dimen/h5"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteY="5dp" />
+
+        <androidx.recyclerview.widget.RecyclerView
+
+            android:id="@+id/materi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="@dimen/large_150"
+            android:layout_marginTop="@dimen/small_50"
+            android:clipToPadding="false"
+            android:orientation="vertical"
+            android:padding="@dimen/small_100"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            app:layout_constraintTop_toBottomOf="@+id/tv_materi"
+            tools:layout_editor_absoluteX="48dp"
+            tools:listitem="@layout/item_material" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

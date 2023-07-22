@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity"
+    android:background="@drawable/back">
+    <TextView
+        android:id="@+id/text_view_tag_line"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="sans-serif-medium"
+        android:text="Menu Utama"
+        android:textColor="@color/black"
+        android:textSize="@dimen/h4"
+        android:textStyle="bold"
+        android:layout_marginTop="100dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <Button
+        android:id="@+id/btn_materi"
+        android:layout_width="362dp"
+        android:layout_height="63dp"
+        android:layout_marginTop="44dp"
+        android:background="@drawable/bg_btn_auth_color_primary"
+        android:text="Materi"
+        android:textColor="@color/white"
+        android:textSize="@dimen/normal_150"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/text_view_tag_line" />
+
+    <Button
+        android:id="@+id/btn_quiz"
+        android:layout_width="362dp"
+        android:layout_height="63dp"
+        android:layout_marginTop="44dp"
+        android:background="@drawable/bg_btn_auth_color_primary"
+        android:text="Quiz"
+        android:textColor="@color/white"
+        android:textSize="@dimen/normal_150"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btn_materi" />
+
+    <Button
+        android:id="@+id/btn_history"
+        android:layout_width="362dp"
+        android:layout_height="63dp"
+        android:layout_marginTop="44dp"
+        android:background="@drawable/bg_btn_auth_color_primary"
+        android:text="Riwayat Quiz"
+        android:textColor="@color/white"
+        android:textSize="@dimen/normal_150"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btn_quiz" />
+
+    <Button
+        android:id="@+id/btn_about"
+        android:layout_width="362dp"
+        android:layout_height="63dp"
+        android:layout_marginTop="44dp"
+        android:background="@drawable/bg_btn_auth_color_primary"
+        android:text="About"
+        android:textColor="@color/white"
+        android:textSize="@dimen/normal_150"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btn_history" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

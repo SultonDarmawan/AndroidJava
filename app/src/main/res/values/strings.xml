@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Frozen</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="or">OR</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="user">User</string>
+    <string name="default_text">-</string>
+    <string name="change_language">Change Language</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_home">Welcome Home</string>
+    <string name="tag_line">Panduan Belajar HTML dan CSS Dasar</string>
+    <string name="search">Search</string>
+    <string name="your_materials">Your Materials</string>
+    <string name="please_field_your_email">Please field your email</string>
+    <string name="please_use_valid_email">Please use valid email</string>
+    <string name="please_field_your_password">Please field your password</string>
+    <string name="please_wait">Please wait ....</string>
+    <string name="success">Success</string>
+    <string name="error">Error</string>
+    <string name="please_field_your_name">Please field your name</string>
+    <string name="please_field_your_confirm_password">Please field your confirm password</string>
+    <string name="please_field_your_password_more_than_8">Please field your password more than 8</string>
+    <string name="please_field_your_confirm_password_more_than_8">Please field your confirm password more than 8</string>
+    <string name="your_password_didnt_match">Your password did\'nt match</string>
+    <string name="please_field_your_old_password">Please field your old password</string>
+    <string name="please_input_your_old_password_more_than_8">Please input your old password more than 8</string>
+    <string name="please_field_your_new_password">Please field your new password</string>
+    <string name="please_input_your_new_password_more_than_8">Please input your new password more than 8</string>
+    <string name="please_field_your_confirm_new_password">Please field your confirm new password</string>
+    <string name="please_input_your_confirm_new_password_more_than_8">Please input your confirm new password more than 8</string>
+    <string name="success_change_pass">Congratulation, your password has been change</string>
+    <string name="success_register">Congratulation, your account has been register</string>
+    <string name="success_forgot_pass">Congratulation, your link reset password has been sent to your email, please check it!</string>
+    <string-array name="data_name">
+        <item>Present Tense</item>
+        <item>Past Tense</item>
+        <item>Future Tense</item>
+
+
+    </string-array>
+
+    <integer-array name="data_foto">
+        <item>@drawable/present_tense</item>
+        <item>@drawable/past_tense</item>
+        <item>@drawable/future_tense</item>
+    </integer-array>
+
+    <string-array name="tenses">
+        <item> Simple Present Tense adalah tenses yang paling banyak digunakan dalam bahasa inggris. \nJka melihat pada kata Simple berarti sederhana, sedangkan present adalah sekarang.\nRumus : S + V1 + O \n\n\nPresent Continous \nbentuk kata kerja yang digunakan untuk menyatakan aksi yang sedang berlangsung sekarang (present) atau rencana di masa depan (future).\nRumus : S + V1 + ing + O</item>
+        <item> Simple past tense digunakan untuk membicarakan suatu kejadian yang terjadi di masa lampau dan berakhir pula di masa lampau dalam waktu yang spesifik. Kalimat dalam simple past tense ditandai dengan kata kerja kedua (verb2) yang menunjukkan waktu lampau.. \nRumus : S + V2 + O \n\n\nPast Countinous \n\nPast continuous tense dibentuk dengan auxiliary verb “be”, berupa was atau were, karena waktu terjadinya adalah di masa lampau (past). \nRumus : S + be(was/were) + Ving + Complement</item>
+        <item> Simple future tense merupakan tenses untuk menjelaskan suatu peristiwa yang belum mulai dan akan terjadi di masa yang akan datang. Kalimat pada simple future tense dapat ditandai dengan penggunaan kata will, shall, dan going to. \nRumus : S + sahall/will + V1 + O \n\n\nFuture Countinous Tense \n\n Future Countinous tense digunakan untuk menyatakan suatu peristiwa yang akan terjadi atau dilakukan pada waktu tertentu. \nRumus : S + will/be + Ving + O</item>
+
+    </string-array>
+
+    <string-array name="contoh">
+        <item>Prenset tense \n1. I always go to school every 7 o\'clock  \n2. My mother cleans the bathroom every twice a week \n\nPresent Countinous tense \n\n1. I am Playing football right now \n2. I am not writing this letter to express my feeling</item>
+        <item> Past tense \n\n1. My mom and I went to the zoo yesterday (Saya dan ibu pergi ke kebun binatang kemarin) \n2. I played football last week (Saya bermain bola minggu lalu)  \n\nPast Countinous Tese : \n\n1. He was traveling to Venice. (Dia dulu sedang berlibur ke Venice.)\n2. She was eating a burger. (Dia dulu sedang makan burger.)</item>
+        <item> Simple future tense \n\nI will be a teacher (Saya akan menjadi seorang guru) \nHe will not join our sport club (Dia tidak mau bergabung dengan klub olahraga kami) \n\nFuture Countinous tense : \n\n1. I am going to paint my bedroom tomorrow (Saya akan mengecat kamar saya esok hari)  \n2. she will be dining here at 9 p.m tomorrow (dia akan makan malam disini jam 9 malam besok)</item>
+
+    </string-array>
+</resources>
+
