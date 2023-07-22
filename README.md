@@ -69,7 +69,7 @@ Berikut adalah langkah-langkah untuk menggunakan aplikasi QuizEng:
 Berikut adalah panduan instalasi aplikasi QuizEng:
 
 1. Langkah pertama instalasi.
-   - Download file apk [QuizEng](https://twitter.com/veridetta) berikut.
+   - Download file apk [QuizEng](https://github.com/veridetta/QuizEng/blob/master/app/build/intermediates/apk/debug/app-debug.apk) berikut.
 
 2. Langkah kedua instalasi.
    - Silahkan install di hp android anda
