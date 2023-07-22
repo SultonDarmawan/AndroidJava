@@ -38,6 +38,7 @@ Aplikasi ini memiliki beberapa fitur menarik, di antaranya:
 ## Tampilan Aplikasi
 
 Berikut beberapa tampilan menarik dari aplikasi:
+
 ![Home](https://github.com/veridetta/QuizEng/blob/master/image/Screenshot_20230722_140253.png)
 ![Materi 1](https://github.com/veridetta/QuizEng/blob/master/image/Screenshot_20230722_140352.png) ![Materi 1](https://github.com/veridetta/QuizEng/blob/master/image/Screenshot_20230722_140435.png)
 ![Quiz 1](https://github.com/veridetta/QuizEng/blob/master/image/Screenshot_20230722_140508.png) ![Quiz 2](https://github.com/veridetta/QuizEng/blob/master/image/Screenshot_20230722_140518.png) ![Quiz 3](https://github.com/veridetta/QuizEng/blob/master/image/Screenshot_20230722_140603.png) ![Quiz 4](https://github.com/veridetta/QuizEng/blob/master/image/Screenshot_20230722_140622.png)
