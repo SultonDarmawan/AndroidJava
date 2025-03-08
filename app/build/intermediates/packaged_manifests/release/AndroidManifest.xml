@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="24"
+        android:targetSdkVersion="33" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <permission
+        android:name="com.example.myapplication2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.example.myapplication2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:extractNativeLibs="false"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="E-MORPH"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication2" >
+        <activity
+            android:name="com.example.myapplication2.HistoryActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication2.LatFuture"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication2.LatPast"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication2.LatPresent"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication2.ResultActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication2.QuestionActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication2.HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication2.AboutActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication2.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication2.Materi"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication2.Materi2"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication2.Materi3"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication2.SplashActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.example.myapplication2.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+    </application>
+
+</manifest>

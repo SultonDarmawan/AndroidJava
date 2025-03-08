@@ -1,0 +1,163 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myapplication2"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <permission
+13-->[androidx.core:core:1.10.1] C:\Users\Administrator\.gradle\caches\transforms-3\700cc40563a413f29c25611d716d2a28\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+14        android:name="com.example.myapplication2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.10.1] C:\Users\Administrator\.gradle\caches\transforms-3\700cc40563a413f29c25611d716d2a28\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.10.1] C:\Users\Administrator\.gradle\caches\transforms-3\700cc40563a413f29c25611d716d2a28\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.example.myapplication2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.10.1] C:\Users\Administrator\.gradle\caches\transforms-3\700cc40563a413f29c25611d716d2a28\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.10.1] C:\Users\Administrator\.gradle\caches\transforms-3\700cc40563a413f29c25611d716d2a28\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:7:5-62:19
+20        android:allowBackup="true"
+20-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:8:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.10.1] C:\Users\Administrator\.gradle\caches\transforms-3\700cc40563a413f29c25611d716d2a28\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+22        android:dataExtractionRules="@xml/data_extraction_rules"
+22-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:9:9-65
+23        android:debuggable="true"
+24        android:extractNativeLibs="false"
+25        android:fullBackupContent="@xml/backup_rules"
+25-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:10:9-54
+26        android:icon="@mipmap/ic_launcher"
+26-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:11:9-43
+27        android:label="E-MORPH"
+27-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:12:9-32
+28        android:roundIcon="@mipmap/ic_launcher_round"
+28-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:13:9-54
+29        android:supportsRtl="true"
+29-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:14:9-35
+30        android:theme="@style/Theme.MyApplication2" >
+30-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:15:9-52
+31        <activity
+31-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:17:9-19:40
+32            android:name="com.example.myapplication2.HistoryActivity"
+32-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:18:13-44
+33            android:exported="false" />
+33-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:19:13-37
+34        <activity
+34-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:20:9-22:40
+35            android:name="com.example.myapplication2.LatFuture"
+35-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:21:13-38
+36            android:exported="false" />
+36-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:22:13-37
+37        <activity
+37-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:23:9-25:40
+38            android:name="com.example.myapplication2.LatPast"
+38-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:24:13-36
+39            android:exported="false" />
+39-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:25:13-37
+40        <activity
+40-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:26:9-28:40
+41            android:name="com.example.myapplication2.LatPresent"
+41-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:27:13-39
+42            android:exported="false" />
+42-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:28:13-37
+43        <activity
+43-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:29:9-31:40
+44            android:name="com.example.myapplication2.ResultActivity"
+44-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:30:13-43
+45            android:exported="false" />
+45-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:31:13-37
+46        <activity
+46-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:32:9-34:40
+47            android:name="com.example.myapplication2.QuestionActivity"
+47-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:33:13-45
+48            android:exported="false" />
+48-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:34:13-37
+49        <activity
+49-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:35:9-37:40
+50            android:name="com.example.myapplication2.HomeActivity"
+50-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:36:13-41
+51            android:exported="false" />
+51-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:37:13-37
+52        <activity
+52-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:38:9-40:40
+53            android:name="com.example.myapplication2.AboutActivity"
+53-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:39:13-42
+54            android:exported="false" />
+54-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:40:13-37
+55        <activity
+55-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:41:9-43:40
+56            android:name="com.example.myapplication2.MainActivity"
+56-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:42:13-41
+57            android:exported="false" />
+57-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:43:13-37
+58        <activity
+58-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:44:9-46:40
+59            android:name="com.example.myapplication2.Materi"
+59-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:45:13-35
+60            android:exported="false" />
+60-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:46:13-37
+61        <activity
+61-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:47:9-49:40
+62            android:name="com.example.myapplication2.Materi2"
+62-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:48:13-36
+63            android:exported="false" />
+63-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:49:13-37
+64        <activity
+64-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:50:9-52:40
+65            android:name="com.example.myapplication2.Materi3"
+65-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:51:13-36
+66            android:exported="false" />
+66-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:52:13-37
+67        <activity
+67-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:53:9-61:20
+68            android:name="com.example.myapplication2.SplashActivity"
+68-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:54:13-43
+69            android:exported="true" >
+69-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:55:13-36
+70            <intent-filter>
+70-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:56:13-60:29
+71                <action android:name="android.intent.action.MAIN" />
+71-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:57:17-69
+71-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:57:25-66
+72
+73                <category android:name="android.intent.category.LAUNCHER" />
+73-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:59:17-77
+73-->C:\Users\Administrator\AndroidStudioProjects\apliaksi\QuizEng\app\src\main\AndroidManifest.xml:59:27-74
+74            </intent-filter>
+75        </activity>
+76
+77        <provider
+77-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\f7e343524c67da9b0e0cc5572e597fa4\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+78            android:name="androidx.startup.InitializationProvider"
+78-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\f7e343524c67da9b0e0cc5572e597fa4\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+79            android:authorities="com.example.myapplication2.androidx-startup"
+79-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\f7e343524c67da9b0e0cc5572e597fa4\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+80            android:exported="false" >
+80-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\f7e343524c67da9b0e0cc5572e597fa4\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+81            <meta-data
+81-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\f7e343524c67da9b0e0cc5572e597fa4\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+82                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+82-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\f7e343524c67da9b0e0cc5572e597fa4\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+83                android:value="androidx.startup" />
+83-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\f7e343524c67da9b0e0cc5572e597fa4\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+84            <meta-data
+84-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Administrator\.gradle\caches\transforms-3\ea5fc94777bd17ccffa81ea9fd685b67\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+85                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+85-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Administrator\.gradle\caches\transforms-3\ea5fc94777bd17ccffa81ea9fd685b67\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+86                android:value="androidx.startup" />
+86-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Administrator\.gradle\caches\transforms-3\ea5fc94777bd17ccffa81ea9fd685b67\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+87        </provider>
+88    </application>
+89
+90</manifest>

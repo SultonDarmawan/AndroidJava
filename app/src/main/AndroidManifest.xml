@@ -9,7 +9,7 @@
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
-        android:label="Wallstreet"
+        android:label="E-MORPH"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication2"
@@ -43,6 +43,12 @@
             android:exported="false" />
         <activity
             android:name=".Materi"
+            android:exported="false" />
+        <activity
+            android:name=".Materi2"
+            android:exported="false" />
+        <activity
+            android:name=".Materi3"
             android:exported="false" />
         <activity
             android:name=".SplashActivity"

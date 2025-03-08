@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Materi">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        app:elevation="0dp"
+        android:theme="@style/ThemeOverlay.MaterialComponents.Dark.ActionBar">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize"
+            app:navigationIcon="@drawable/ic_back">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/tvTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Metamorfosis Tanpa Perubahan"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+        </androidx.appcompat.widget.Toolbar>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/bg_gradient"
+            android:padding="16dp">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/startMateri"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="3dp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="4dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="16dp"
+                    android:gravity="center_horizontal">
+
+                    <TextView
+                        android:id="@+id/materi"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:fontFamily="@font/game"
+                        android:layerType="software"
+                        android:shadowDx="4"
+                        android:shadowDy="4"
+                        android:shadowRadius="3"
+                        android:strokeWidth="2"
+                        android:text="Metamorfosis"
+                        android:textColor="@color/black"
+                        android:textSize="26sp"
+                        android:textStyle="bold"/>
+
+                    <ImageView
+                        android:id="@+id/imageView3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:adjustViewBounds="true"
+                        android:src="@drawable/metamorfosis"
+                        android:layout_marginBottom="16dp" />
+
+                    <TextView
+                        android:id="@+id/materi1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Contoh"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:justificationMode="inter_word"
+                        android:layout_marginBottom="8dp" />
+
+                    <TextView
+                        android:id="@+id/materi2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Materi"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:justificationMode="inter_word"
+                        android:layout_marginBottom="16dp" />
+
+                    <TextView
+                        android:id="@+id/materi3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/contohMet"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:justificationMode="inter_word"
+                        android:layout_marginBottom="16dp" />
+
+                    <TextView
+                        android:id="@+id/materi4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/contohMet1"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:justificationMode="inter_word"
+                        android:layout_marginBottom="16dp" />
+
+                    <ImageView
+                        android:id="@+id/imageView4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:adjustViewBounds="true"
+                        android:src="@drawable/metamorfosis3"
+                        android:layout_marginBottom="16dp" />
+
+                    <TextView
+                        android:id="@+id/materi5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/materi111"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:justificationMode="inter_word"
+                        android:layout_marginBottom="16dp" />
+
+                    <TextView
+                        android:id="@+id/materi6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/contohMet2"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:justificationMode="inter_word"
+                        android:layout_marginBottom="16dp" />
+
+                    <ImageView
+                        android:id="@+id/imageView5"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:adjustViewBounds="true"
+                        android:src="@drawable/sapi"
+                        android:layout_marginBottom="16dp" />
+
+                    <TextView
+                        android:id="@+id/materi7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/materi222"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:justificationMode="inter_word"
+                        android:layout_marginBottom="16dp" />
+
+                    <TextView
+                        android:id="@+id/materi8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/contohMet3"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:justificationMode="inter_word"
+                        android:layout_marginBottom="16dp" />
+
+                    <ImageView
+                        android:id="@+id/imageView6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:adjustViewBounds="true"
+                        android:src="@drawable/kambing"
+                        android:layout_marginBottom="16dp" />
+
+                    <TextView
+                        android:id="@+id/materi9"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/materi333"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:justificationMode="inter_word"
+                        android:layout_marginBottom="16dp" />
+
+                    <Button
+                        android:id="@+id/btn_Lat"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Latihan"
+                        android:textSize="16sp"
+                        android:padding="8dp"
+                        app:cornerRadius="20dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginBottom="16dp"
+                        android:textColor="@color/white"
+                        app:backgroundTint="@color/black"/>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
