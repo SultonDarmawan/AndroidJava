@@ -4,66 +4,65 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/bg_gradient"
     tools:context=".AboutActivity">
 
     <TextView
+        android:id="@+id/about"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/about"
-        android:gravity="center"
+        android:fontFamily="@font/game"
         android:text="About"
-        android:textSize="40sp"
+        android:textColor="@color/black"
+        android:textSize="50dp"
         android:textStyle="bold"
+        android:shadowColor="#99FFFFFF"
+        android:shadowDx="5"
+        android:shadowDy="5"
+        android:shadowRadius="6"
+        android:layout_marginTop="40dp"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        android:layout_marginTop="25dp"
+        app:layout_constraintEnd_toEndOf="parent"/>
 
-        />
-
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="355dp"
-        android:layout_height="386dp"
-        android:layout_marginTop="100dp"
-
-        android:src="@drawable/foto_about"
-        app:layout_constraintEnd_toEndOf="parent"
+    <androidx.cardview.widget.CardView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        app:cardBackgroundColor="@color/white"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="8dp"
+        app:layout_constraintTop_toBottomOf="@id/about"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintEnd_toEndOf="parent">
 
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
 
-    <TextView
-        android:layout_width="176dp"
-        android:layout_height="36dp"
-        android:text="Developed By"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="@+id/imageView2"
-        app:layout_constraintHorizontal_bias="0.692"
-        app:layout_constraintStart_toStartOf="@+id/imageView2"
-        app:layout_constraintTop_toTopOf="parent"
-        android:textStyle="bold"
-        app:layout_constraintVertical_bias="0.717" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Developed By"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/game"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:layout_gravity="center_horizontal"
+                android:paddingBottom="8dp"/>
 
-    <TextView
-        android:layout_width="205dp"
-        android:layout_height="75dp"
-        android:text="Muhamad Raul Gonzales \n50420764 \n Informatika"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="@+id/imageView2"
-        app:layout_constraintHorizontal_bias="0.826"
-        app:layout_constraintStart_toStartOf="@+id/imageView2"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.85" />
-
-    <ImageView
-        android:layout_width="106dp"
-        android:layout_height="137dp"
-        android:layout_marginTop="496dp"
-        android:src="@drawable/capture"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.095"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Difa \nUniversitas Wiraraja \nSistem Informasi"
+                android:textSize="16sp"
+                android:textColor="@color/black"
+                android:justificationMode="inter_word"
+                android:layout_gravity="center_horizontal"/>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

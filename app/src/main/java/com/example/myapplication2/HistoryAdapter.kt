@@ -29,8 +29,8 @@ class HistoryAdapter(private val quizHistoryList: List<QuizResult>) : RecyclerVi
         private val textViewDate: TextView = itemView.findViewById(R.id.textViewDate)
 
         fun bindData(quizResult: QuizResult, noUrut: Int) {
-            textViewNoUrut.text = "Nomo Pengerjaan : $noUrut"
-            textViewScore.text = "Score: ${quizResult.score} dari total 10 soal"
+            textViewNoUrut.text = "Nomor Pengerjaan : $noUrut"
+            textViewScore.text = "Score: ${quizResult.score} dari total 15 soal"
             textViewDate.text = "Date: ${quizResult.date}, Time: ${quizResult.time}"
         }
     }

@@ -9,50 +9,50 @@ object QuestionLat {
     private val objectId = arrayOf(1, 2, 3, 4, 5)
 
     private val objectQuestion = arrayOf(
-        "I play football   \nTermasuk kedalam tenses manakah kalimat tersebut",
-        "Present Tense adalah Tenses yang digunakan untuk menggambarkan",
-        "Rumus dari present tense adalah",
-        "jika menggunakan V + ing  \nTermasuk kedalam tenses apakah kalimat tersebut",
-        "contoh dari kalimat present tense yang benar adalah",
+        "Proses pertumbuhan dan perkembangan makhluk hidup mulai dari lahir atau menetas hingga dewasa disebut ?",
+        "Tahapan daur hidup kumbang setelah dari telur adalah menjadi ?",
+        "Metamorfosis tidak sempurna tidak mengalami masa ",
+        "Perubahan bentuk dalam siklus kehidupan hewan di sebut",
+        "Hewan berikut ini yang mengalami metamorfosis tidak sempurna adalah",
 
         )
 
     private val objectOptionOne = arrayOf(
-        "Present Tense",
-        "Masa sekarang",
-        "S + V1 + O",
-        "Present Continous Tense",
-        "I play football in field",
+        "Daur hidup",
+        "kepompong",
+        "Larva",
+        "Daur hidup",
+        "Nyamuk",
     )
 
     private val objectOptionTwo = arrayOf(
-        "Past Tense",
-        "Masa lampau",
-        "S + V2 + O",
-        "Future Tense",
-        "I cooked a cake yesterday",
+        "Perkembangbiakan",
+        "Larva",
+        "Telur",
+        "Perkembangbiakan",
+        "Capung",
 
         )
 
     private val objectOptionThree = arrayOf(
-        "Past Perfect Tense",
-        "Masa depan",
-        "S + V3 + O",
-        "Past Tense",
-        "i am playing football with my friends",
+        "Metamorfosis",
+        "kupa",
+        "nimfa",
+        "Metamorfosis",
+        "Katak",
 
         )
 
     private val objectOptionFour = arrayOf(
-        "Present Perfect Tense",
-        "semua jawaban salah",
-        "S + V1 + ing + O",
-        "semua jawaban salah",
-        "Mercury",
+        "Pertumbuhan",
+        "Kumbang Dewasa",
+        "Pupa",
+        "Pertumbuhan",
+        "Kumbang",
 
         )
 
-    private val objectAnswer = arrayOf(1, 1, 1, 1, 1)
+    private val objectAnswer = arrayOf(1, 2, 4, 3, 2)
 
     fun getQuestions(): ArrayList<Questions> {
         val questionList = ArrayList<Questions>()
@@ -80,50 +80,50 @@ object QuestionLat {
     private val objectId2 = arrayOf(1, 2, 3, 4, 5)
 
     private val objectQuestion2 = arrayOf(
-        "I cooked a cake yesterday  \nTermasuk kedalam tenses manakah kalimat tersebut",
-        "Past Tense adalah Tenses yang digunakan untuk menggambarkan",
-        "Rumus dari Past tense adalah",
-        "I made a homework two days ago \nTermasuk kedalam tenses apakah kalimat tersebut",
-        "contoh dari kalimat past  tense yang benar adalah",
+        "Hewan yang mengalami metamorfosis sempurna, kecuali",
+        "Hewan yang daur hidupnya mengalami metamorfosis adalah",
+        "Nama lain dari pupa adalah",
+        "Berikut ini hewan yang mengalami metamorfosis sempurna adalah",
+        "Daur hidup ayam dimulai saat ",
 
         )
 
     private val objectOptionOne2 = arrayOf(
-        "Past tense",
-        "Masa lampau",
-        "S + V2 + O",
-        "Past tense",
-        "I made a cake two days ago",
+        "Kupu-kupu",
+        "Cicak",
+        "Larva",
+        "kecoa dan jangkrik",
+        "Kelahiran dari perut induknya",
     )
 
     private val objectOptionTwo2 = arrayOf(
-        "Present Tense",
-        "Masa Sekarang",
-        "S + V1 + O",
-        "Future Tense",
-        "I cook a cake ",
+        "Katak",
+        "Capung",
+        "Ulat",
+        "Nyamuk dan Belalang",
+        "Menetas dari telur",
 
         )
 
     private val objectOptionThree2 = arrayOf(
-        "Present continous tense",
-        "a dan b salah",
-        "S + V1 + ing + O",
-        "Present Continous tense",
-        "i am playing football with my friends",
+        "Lalat",
+        "Ular",
+        "Kepompong",
+        "nyamuk dan kupu-kupu",
+        "Membelah dir",
 
         )
 
     private val objectOptionFour2 = arrayOf(
-        "future tense",
-        "Masa yang akan datang",
-        "S + will + tobe + verb",
-        "Semua jawaban salah",
-        "Mercury",
+        "Belalang",
+        "Ayam",
+        "Telur",
+        "Katak dan Belalang",
+        "Bertunas",
 
         )
 
-    private val objectAnswer2 = arrayOf(1, 1, 1, 1, 1)
+    private val objectAnswer2 = arrayOf(4, 2, 3, 3, 2)
 
     fun getQuestions2(): ArrayList<Questions> {
         val questionList = ArrayList<Questions>()
@@ -151,50 +151,50 @@ object QuestionLat {
     private val objectId3 = arrayOf(1, 2, 3, 4, 5)
 
     private val objectQuestion3 = arrayOf(
-        " 10 years Later  \nTermasuk kedalam tenses manakah kalimat tersebut",
-        "Future Tense adalah Tenses yang digunakan untuk menggambarkan",
-        "Rumus dari future tense adalah",
-        "I will be a teacher \nTermasuk kedalam tenses apakah kalimat tersebut",
-        "contoh dari kalimat future tense yang benar adalah",
+        "Yang merupakan proses daur hidup pada nyamuk adalah",
+        "Berikut ini hewan yang mengalami tahap jentik-jentik dalam daur hidupnya adalah",
+        "Ulat kemudian menjadi",
+        "Kecebong bernafas dengan",
+        "Kupu-kupu dalam daur hidupnya akan dikeluarkan dari",
 
         )
 
     private val objectOptionOne3 = arrayOf(
-        "Future Tense ",
-        "Masa depan",
-        "S + will/shall + subject + verb",
-        "Future Tense",
-        "I will be a teacher",
+        "Telur – pupa – jentik-jentik – nyamuk",
+        "Nyamuk ",
+        "Kupu-kupu dewasa",
+        "Trakhea",
+        "Nimfa",
     )
 
     private val objectOptionTwo3 = arrayOf(
-        "Present Tense",
-        "Masa lampau",
-        "S + V1 + O",
-        "Past Tense",
-        "I cooked a cake yesterday",
+        "Telur – belatung – pupa – nyamuk",
+        "Kecoa",
+        "Nimfa",
+        "Insang",
+        "Ulat",
 
         )
 
     private val objectOptionThree3 = arrayOf(
-        "Past Tense",
-        "Masa sekarang",
-        "S + V1 + ing + O",
-        "Present Continous tense",
-        "i am playing football with my friends",
+        "Telur – jentik-jentik – kecebong – nyamuk",
+        "Katak",
+        "Larva",
+        "Paru-paru",
+        "Telur",
 
         )
 
     private val objectOptionFour3 = arrayOf(
-        "Present Perfect Tense",
-        "Tidak ada jawaban yang benar",
-        "S + V2 + O",
-        "ketiga jawaban salah",
-        "Mercury",
+        "Telur – jentik-jentik – pupa – nyamuk",
+        "Lalat",
+        "Kepompong",
+        "Kulit",
+        "Kepompong",
 
         )
 
-    private val objectAnswer3 = arrayOf(1, 1, 1, 1, 1)
+    private val objectAnswer3 = arrayOf(4, 1, 4, 2, 4)
 
     fun getQuestions3(): ArrayList<Questions> {
         val questionList = ArrayList<Questions>()

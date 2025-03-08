@@ -1,95 +1,304 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Materi">
 
-
-    <androidx.constraintlayout.widget.ConstraintLayout
+    <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        tools:context=".Materi">
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        app:elevation="0dp"
+        android:theme="@style/ThemeOverlay.MaterialComponents.Dark.ActionBar">
 
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize"
+            app:navigationIcon="@drawable/ic_back">
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/materi"
-            android:gravity="center"
-            android:text="Present Tense"
-            android:textSize="40sp"
-            android:textStyle="bold"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            android:layout_marginTop="25dp"
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
 
-            />
+                <TextView
+                    android:id="@+id/tvTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Metamorfosis Sempurna"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
 
-        <TextView
-            android:id="@+id/penjelasan"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="216dp"
-            android:gravity="center"
-            android:text="materi"
-            android:textSize="20sp"
-            app:layout_constraintEnd_toEndOf="@id/materi"
-            app:layout_constraintHorizontal_bias="0.495"
+            </RelativeLayout>
 
-            app:layout_constraintStart_toStartOf="@id/materi"
-            app:layout_constraintTop_toBottomOf="@+id/materi" />
+        </androidx.appcompat.widget.Toolbar>
+    </com.google.android.material.appbar.AppBarLayout>
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/contoh"
-            android:text="Contoh"
-            android:textSize="20sp"
-            app:layout_constraintTop_toBottomOf="@id/penjelasan"
-            app:layout_constraintStart_toStartOf="@id/penjelasan"
-            android:layout_marginTop="25sp"
-            android:layout_marginStart="10sp"
-            />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/materiContoh"
-            android:gravity="center"
-            android:text="materi"
-            android:textSize="20sp"
-            app:layout_constraintTop_toBottomOf="@id/contoh"
-            app:layout_constraintStart_toStartOf="@id/penjelasan"
-            app:layout_constraintEnd_toEndOf="@id/penjelasan"
-            android:layout_marginTop="20dp"/>
-
-        <Button
-            android:id="@+id/btn_Lat"
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="72dp"
-            android:text="Latihan"
-            android:textSize="18sp"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.0"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@id/materiContoh" />
+            android:orientation="vertical"
+            android:background="@drawable/bg_gradient"
+            android:padding="16dp">
 
-        <ImageView
-            android:id="@+id/imageView3"
-            android:layout_width="356dp"
-            android:layout_height="153dp"
-            android:layout_marginTop="44dp"
-            android:src="@drawable/present_tense"
-            app:layout_constraintEnd_toEndOf="@+id/materi"
-            app:layout_constraintHorizontal_bias="0.495"
-            app:layout_constraintStart_toStartOf="@+id/materi"
-            app:layout_constraintTop_toBottomOf="@+id/materi" />
+            <androidx.cardview.widget.CardView
+                android:id="@+id/startMateri"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="3dp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="4dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="16dp"
+                    android:gravity="center_horizontal">
+
+                    <TextView
+                        android:id="@+id/materi"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:fontFamily="@font/game"
+                        android:layerType="software"
+                        android:shadowDx="4"
+                        android:shadowDy="4"
+                        android:shadowRadius="3"
+                        android:strokeWidth="2"
+                        android:text="Metamorfosis"
+                        android:textColor="@color/black"
+                        android:textSize="26sp"
+                        android:textStyle="bold" />
+
+                    <ImageView
+                        android:id="@+id/imageView3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:adjustViewBounds="true"
+                        android:src="@drawable/metamorfosis2"
+                        android:layout_marginBottom="16dp" />
+
+                    <TextView
+                        android:id="@+id/materi1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Contoh"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:justificationMode="inter_word"
+                        android:layout_marginBottom="8dp" />
+
+                    <TextView
+                        android:id="@+id/materi2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Materi"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:justificationMode="inter_word"
+                        android:layout_marginBottom="16dp" />
+
+                    <ImageView
+                        android:id="@+id/imageView4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:adjustViewBounds="true"
+                        android:src="@drawable/telur"
+                        android:layout_marginBottom="16dp" />
+
+                    <TextView
+                        android:id="@+id/materi3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/materi1"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:justificationMode="inter_word"
+                        android:layout_marginBottom="16dp" />
+
+                    <ImageView
+                        android:id="@+id/imageView5"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:adjustViewBounds="true"
+                        android:src="@drawable/ulat"
+                        android:layout_marginBottom="16dp" />
+
+                    <TextView
+                        android:id="@+id/materi4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/materi2"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:justificationMode="inter_word"
+                        android:layout_marginBottom="16dp" />
+
+                    <ImageView
+                        android:id="@+id/imageView6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:adjustViewBounds="true"
+                        android:src="@drawable/kepompong"
+                        android:layout_marginBottom="16dp" />
+
+                    <TextView
+                        android:id="@+id/materi5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/materi3"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:justificationMode="inter_word"
+                        android:layout_marginBottom="16dp" />
 
 
-    </androidx.constraintlayout.widget.ConstraintLayout>
+                    <ImageView
+                        android:id="@+id/imageView7"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:adjustViewBounds="true"
+                        android:src="@drawable/kupu"
+                        android:layout_marginBottom="16dp" />
 
-</ScrollView>
+                    <TextView
+                        android:id="@+id/materi6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/materi4"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:justificationMode="inter_word"
+                        android:layout_marginBottom="16dp" />
+
+                    <TextView
+                        android:id="@+id/materi7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/contoh"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:justificationMode="inter_word"
+                        android:layout_marginBottom="16dp" />
+
+                    <TextView
+                        android:id="@+id/materi8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/contoh1"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:justificationMode="inter_word"
+                        android:layout_marginBottom="16dp" />
+
+
+                    <ImageView
+                        android:id="@+id/imageView8"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:adjustViewBounds="true"
+                        android:src="@drawable/kupu_kupu"
+                        android:layout_marginBottom="16dp" />
+
+                    <TextView
+                        android:id="@+id/materi9"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/contoh11"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:justificationMode="inter_word"
+                        android:layout_marginBottom="16dp" />
+
+
+                    <TextView
+                        android:id="@+id/materi10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/contoh2"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:justificationMode="inter_word"
+                        android:layout_marginBottom="16dp" />
+
+
+                    <ImageView
+                        android:id="@+id/imageView9"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:adjustViewBounds="true"
+                        android:src="@drawable/nyamuk"
+                        android:layout_marginBottom="16dp" />
+
+                    <TextView
+                        android:id="@+id/materi11"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/contoh22"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:justificationMode="inter_word"
+                        android:layout_marginBottom="16dp" />
+
+                    <TextView
+                        android:id="@+id/materi12"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/contoh3"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:justificationMode="inter_word"
+                        android:layout_marginBottom="16dp" />
+
+
+                    <ImageView
+                        android:id="@+id/imageView10"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:adjustViewBounds="true"
+                        android:src="@drawable/katak"
+                        android:layout_marginBottom="16dp" />
+
+                    <TextView
+                        android:id="@+id/materi13"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/contoh33"
+                        android:textColor="@color/black"
+                        android:textSize="18sp"
+                        android:justificationMode="inter_word"
+                        android:layout_marginBottom="16dp" />
+
+                    <Button
+                        android:id="@+id/btn_Lat"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Latihan"
+                        android:textSize="16sp"
+                        android:padding="8dp"
+                        app:cornerRadius="20dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginBottom="16dp"
+                        android:textColor="@color/white"
+                        app:backgroundTint="@color/black"/>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

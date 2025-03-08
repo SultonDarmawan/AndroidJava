@@ -3,14 +3,23 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@drawable/bg_gradient"
     android:padding="16dp">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:fontFamily="@font/game"
         android:text="History Quiz"
-        android:textSize="24sp"
+        android:textColor="@color/black"
+        android:textSize="24dp"
         android:textStyle="bold"
+        android:shadowColor="#99FFFFFF"
+        android:shadowDx="4"
+        android:shadowDy="4"
+        android:shadowRadius="3"
+        android:strokeWidth="2"
+        android:layerType="software"
         android:layout_gravity="center"
         android:layout_marginBottom="16dp" />
 

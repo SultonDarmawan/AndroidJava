@@ -6,232 +6,341 @@ object DataQuestions {
 
     private val objectId = arrayOf(
         // Present Tense (ID 1-10)
-        1, 2, 3, 4, 5, 6, 7, 8, 9, 10,
+        1, 2, 3, 4, 5, 6, 7, 8, 9, 10,11, 12, 13, 14, 15,
         // Past Tense (ID 11-20)
-        11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+        16, 17, 18, 19, 20,1, 22, 23, 24, 25, 26, 27, 28, 29, 30,
         // Future Tense (ID 21-30)
-        21, 22, 23, 24, 25, 26, 27, 28, 29, 30
+        31,32,33,34,35,36,37,38,39,40,41,42,43,44,45
     )
 
     private val objectQuestion = arrayOf(
         // Present Tense
-        "I play football in the yard.",
-        "She sings beautifully.",
-        "They speak English fluently.",
-        "The train departs at 9 AM.",
-        "My sister watches TV in the evening.",
-        "He eats breakfast every morning.",
-        "The sun rises in the east.",
-        "The teacher explains the lesson.",
-        "The birds sing in the tree.",
-        "The cat chases the mouse.",
+        "Proses pertumbuhan dan perkembangan makhluk hidup mulai dari lahir atau menetas hingga dewasa disebut ?",
+        "Tahapan daur hidup kumbang setelah dari telur adalah menjadi ?",
+        "Metamorfosis tidak sempurna tidak mengalami masa ",
+        "Perubahan bentuk dalam siklus kehidupan hewan di sebut",
+        "Hewan berikut ini yang mengalami metamorfosis tidak sempurna adalah",
+        "Hewan yang mengalami metamorfosis sempurna, kecuali",
+        "Hewan yang daur hidupnya mengalami metamorfosis adalah",
+        "Nama lain dari pupa adalah",
+        "Berikut ini hewan yang mengalami metamorfosis sempurna adalah",
+        "Daur hidup ayam dimulai saat ",
+        "Yang merupakan proses daur hidup pada nyamuk adalah",
+        "Berikut ini hewan yang mengalami tahap jentik-jentik dalam daur hidupnya adalah",
+        "Ulat kemudian menjadi",
+        "Kecebong bernafas dengan",
+        "Kupu-kupu dalam daur hidupnya akan dikeluarkan dari",
         // ... add more present tense questions (10 in total)
 
         // Past Tense
-        "I cooked a cake yesterday.",
-        "They went to the beach last summer.",
-        "She finished her homework last night.",
-        "He visited his grandparents last week.",
-        "We watched a movie at the cinema.",
-        "The dog barked loudly last night.",
-        "She danced at the party.",
-        "They played soccer in the park.",
-        "I visited Paris last year.",
-        "The children studied for the exam.",
+        "Berikut ini yang merupakan tahapan metamorfosis kupu-kupu adalah",
+        "Perhatikan soal di bawah ini:\n1. Ayam\n" +
+                "\n" +
+                "2. Harimau\n" +
+                "\n" +
+                "3. Singa\n" +
+                "\n" +
+                "4. Kelinci\n" +
+                "\n" +
+                "5. Sapi\n" +
+                "\n" +
+                "Contoh hewan yang bisa diternak masyarakat dengan aman adalah",
+        "Pada siklus hidup kupu-kupu yang dapat merugikan petani pada fase ",
+        "Perhatikan hewan-hewan berikut ini\n" +
+                "\n" +
+                "1. Ayam\n" +
+                "\n" +
+                "2. Ulat sutera\n" +
+                "\n" +
+                "3. Sapi\n" +
+                "\n" +
+                "4. Domba\n" +
+                "\n" +
+                "5. Ikan\n" +
+                "\n" +
+                "Hewan yang dapat dijadikan sumber bahan pangan adalah nomor",
+        "Pelestarian hewan dan tumbuhan adalah tanggung jawab",
+        "Kucing menghasilkan anak dengan cara",
+        "Yang membedakan aantara kecoa muda dengan kecoa dewasa ialah",
+        "Contoh Contoh hewan yang daur hidupnya tidak mengalami metamorfosis adalah",
+        "Urutan daur hidup pada kupu-kupu adalah",
+        "Hewan yang daur hidupnya mengalami metamorfosis tidak sempurna adalah capungkarena dalam daur hidupnya tidak ada fase",
+        "Setelah memasuki tahap telur, tahapan selanjutnya dalam daur hidup kupu-kupu yaitu",
+        "Tahap memakan daun dalam daur kupu-kupu terjadi pada masa",
+        "Kupu-kupu mengalami tahap kepompong dalam daur hidupnya. Hewan yang memilikidaur hidup seperti kupu-kupu adalah",
+        "Metamorfosis sempurna terjadi pada",
+        "Tahapan daur hidup kecoak yang benar yaitu",
         // ... add more past tense questions (10 in total)
 
         // Future Tense
-        "I will visit my grandparents next week.",
-        "She is going to become a teacher.",
-        "We will have a meeting tomorrow.",
-        "They are leaving for vacation next month.",
-        "He will buy a new car soon.",
-        "She is meeting her friends in the evening.",
-        "I am going to learn to play the guitar.",
-        "The school will organize a field trip.",
-        "They will arrive at the airport at 6 PM.",
-        "We are going to celebrate his birthday.",
+
+        "Perhatikan hewan-hewan berikut ini\n" +
+                "\n" +
+                "1. Ayam\n" +
+                "\n" +
+                "2. Ulat sutera\n" +
+                "\n" +
+                "3. Sapi\n" +
+                "\n" +
+                "4. Domba\n" +
+                "\n" +
+                "5. Ikan\n" +
+                "\n" +
+                "Hewan yang dapat dijadikan sumber bahan pangan adalah nomor",
+        "Pelestarian hewan dan tumbuhan adalah tanggung jawab",
+        "Kucing menghasilkan anak dengan cara",
+        "Yang membedakan aantara kecoa muda dengan kecoa dewasa ialah",
+        "Contoh Contoh hewan yang daur hidupnya tidak mengalami metamorfosis adalah",
+        "Urutan daur hidup pada kupu-kupu adalah",
+        "Hewan yang daur hidupnya mengalami metamorfosis tidak sempurna adalah capungkarena dalam daur hidupnya tidak ada fase",
+        "Tahapan daur hidup kumbang setelah dari telur adalah menjadi ?",
+        "Metamorfosis tidak sempurna tidak mengalami masa ",
+        "Perubahan bentuk dalam siklus kehidupan hewan di sebut",
+        "Hewan berikut ini yang mengalami metamorfosis tidak sempurna adalah",
+        "Hewan yang mengalami metamorfosis sempurna, kecuali",
+        "Hewan yang daur hidupnya mengalami metamorfosis adalah",
+        "Nama lain dari pupa adalah",
+        "Berikut ini hewan yang mengalami metamorfosis sempurna adalah"
         // ... add more future tense questions (10 in total)
     )
 
     private val objectOptionOne = arrayOf(
         // Present Tense
-        "play",
-        "sings",
-        "speaks",
-        "departs",
-        "watches",
-        "eats",
-        "rises",
-        "explains",
-        "sing",
-        "chases",
+
+        "Daur hidup",
+        "kepompong",
+        "Larva",
+        "Daur hidup",
+        "Nyamuk",
+        "Kupu-kupu",
+        "Cicak",
+        "Larva",
+        "kecoa dan jangkrik",
+        "Kelahiran dari perut induknya",
+        "Telur – pupa – jentik-jentik – nyamuk",
+        "Nyamuk ",
+        "Kupu-kupu dewasa",
+        "Trakhea",
+        "Nimfa",
         // ... add more present tense options (10 in total)
 
         // Past Tense
-        "cooked",
-        "went",
-        "finished",
-        "visited",
-        "watched",
-        "barked",
-        "danced",
-        "played",
-        "visited",
-        "studied",
+        "Telur - kepompong - larva - kupu-kupu",
+        "1,2,3",
+        "Kepompong",
+        "1,2,3",
+        "Pemerintah",
+        "Bertelur ",
+        "Kecoa muda dan kecoa dewasa memiliki kaki",
+        "Kecoa",
+        "Ulat – telur – kepompong – kupu-kupu",
+        "Kepompong dan capung",
+        "Pua",
+        "telur",
+        "semut",
+        "belalang",
+        "telur – nimfa – kecoak",
         // ... add more past tense options (10 in total)
 
         // Future Tense
-        "will visit",
-        "is going to become",
-        "will have",
-        "are leaving",
-        "will buy",
-        "is meeting",
-        "am going to learn",
-        "will organize",
-        "will arrive",
-        "are going to celebrate",
+        "1,2,3",
+        "Pemerintah",
+        "Bertelur ",
+        "Kecoa muda dan kecoa dewasa memiliki kaki",
+        "Kecoa",
+        "Ulat – telur – kepompong – kupu-kupu",
+        "Kepompong dan capung","kepompong",
+        "Larva",
+        "Daur hidup",
+        "Nyamuk",
+        "Kupu-kupu",
+        "Cicak",
+        "Larva",
+        "kecoa dan jangkrik"
         // ... add more future tense options (10 in total)
     )
 
     private val objectOptionTwo = arrayOf(
         // Present Tense
-        "plays",
-        "sing",
-        "speaking",
-        "depart",
-        "watch",
-        "ate",
-        "rise",
-        "explain",
-        "sings",
-        "chase",
+        "Perkembangbiakan",
+        "Larva",
+        "Telur",
+        "Perkembangbiakan",
+        "Capung",
+        "Katak",
+        "Capung",
+        "Ulat",
+        "Nyamuk dan Belalang",
+        "Menetas dari telur",
+        "Telur – belatung – pupa – nyamuk",
+        "Kecoa",
+        "Nimfa",
+        "Insang",
+        "Ulat",
         // ... add more present tense options (10 in total)
 
         // Past Tense
-        "cooking",
-        "gone",
-        "finish",
-        "visits",
-        "watches",
-        "bark",
-        "dancing",
-        "playing",
-        "visit",
-        "study",
+        "Telur - larva - pupa - kupu-kupu",
+        "1,4,5",
+        "Ulat",
+        "1,3,5",
+        "Presiden",
+        "Beranak dan bertelur",
+        "Kecoa dewasa tidak bersayap",
+        "Kupu-kupu",
+        "Telur – kepompong – ulat – kupu-kupu",
+        "Ulat dan kempompong",
+        "ulat",
+        "kepompong",
+        "nyamuk ",
+        "kecoa",
+        "telur – kecoak – nimfa",
         // ... add more past tense options (10 in total)
 
         // Future Tense
-        "visits",
-        "will become",
-        "having",
-        "will leave",
-        "buys",
-        "meet",
-        "going to learn",
-        "organize",
-        "arrive",
-        "celebrate",
+        "1,3,5",
+        "Presiden",
+        "Beranak dan bertelur",
+        "Kecoa dewasa tidak bersayap",
+        "Kupu-kupu",
+        "Telur – kepompong – ulat – kupu-kupu",
+        "Ulat dan kempompong","Larva",
+        "Telur",
+        "Perkembangbiakan",
+        "Capung",
+        "Katak",
+        "Capung",
+        "Ulat",
+        "Nyamuk dan Belalang"
         // ... add more future tense options (10 in total)
     )
 
     private val objectOptionThree = arrayOf(
         // Present Tense
-        "playing",
-        "sang",
-        "speak",
-        "departing",
-        "watched",
-        "eat",
-        "rising",
-        "explaining",
-        "song",
-        "chased",
+        "Metamorfosis",
+        "kupa",
+        "nimfa",
+        "Metamorfosis",
+        "Katak",
+        "Lalat",
+        "Ular",
+        "Kepompong",
+        "nyamuk dan kupu-kupu",
+        "Membelah dir",
+        "Telur – jentik-jentik – kecebong – nyamuk",
+        "Katak",
+        "Larva",
+        "Paru-paru",
+        "Telur",
+
         // ... add more present tense options (10 in total)
 
         // Past Tense
-        "cook",
-        "go",
-        "finishing",
-        "visited",
-        "watching",
-        "barking",
-        "dance",
-        "plays",
-        "visited",
-        "studies",
+        "Telur - jentik-jentik - larva - kupu-kupu",
+        "2,3,5",
+        "Telur",
+        "2,3,4",
+        "Kita semua",
+        "Membelah diri",
+        "Kecoa muda tidak bersayap",
+        "Kucing",
+        "Telur – ulat – kepompong – kupu-kupu",
+        "Telur dan ulat",
+        "kepompong",
+        "Kupu-kupu dewasa",
+        "kecoak ",
+        "Nyamuk",
+        "kecoak – nimfa – telur",
         // ... add more past tense options (10 in total)
 
         // Future Tense
-        "will visiting",
-        "becoming",
-        "has",
-        "is leaving",
-        "buying",
-        "will meet",
-        "to learn",
-        "will organizing",
-        "are arriving",
-        "going to celebrating",
+        "2,3,4",
+        "Kita semua",
+        "Membelah diri",
+        "Kecoa muda tidak bersayap",
+        "Kucing",
+        "Telur – ulat – kepompong – kupu-kupu",
+        "Telur dan ulat","kupa",
+        "nimfa",
+        "Metamorfosis",
+        "Katak",
+        "Lalat",
+        "Ular",
+        "Kepompong",
+        "nyamuk dan kupu-kupu"
         // ... add more future tense options (10 in total)
     )
 
     private val objectOptionFour = arrayOf(
         // Present Tense
-        "played",
-        "is singing",
-        "spoken",
-        "departs",
-        "watches",
-        "eaten",
-        "rose",
-        "explains",
-        "sang",
-        "chased",
+        "Pertumbuhan",
+        "Kumbang Dewasa",
+        "Pupa",
+        "Pertumbuhan",
+        "Kumbang",
+        "Belalang",
+        "Ayam",
+        "Telur",
+        "Katak dan Belalang",
+        "Bertunas",
+        "Telur – jentik-jentik – pupa – nyamuk",
+        "Lalat",
+        "Kepompong",
+        "Kulit",
+        "Kepompong",
         // ... add more present tense options (10 in total)
 
         // Past Tense
-        "cook",
-        "went",
-        "finishes",
-        "visiting",
-        "watched",
-        "barked",
-        "danced",
-        "play",
-        "visits",
-        "study",
+        "Telur - ulat - kepompong - kupu-kupu",
+        "3,4,5",
+        "Kupu-kupu",
+        "1,2,5",
+        "Petugas kabun Binatang",
+        "Beranak ",
+        "Kecoa muda tidak memiliki kaki",
+        "Nyamuk ",
+        "Kupu-kupu – ulat – telur – kepompong",
+        "Nimfa dan kepompong",
+        "kupu-kupu",
+        "kepompong",
+        "Belalang",
+        "Kucing",
+        "nimfa – telur – kecoak",
         // ... add more past tense options (10 in total)
 
         // Future Tense
-        "visited",
-        "to become",
-        "having",
-        "leaves",
-        "bought",
-        "meets",
-        "learn",
-        "organized",
-        "arrives",
-        "celebrates",
+        "1,2,5",
+        "Petugas kabun Binatang",
+        "Beranak ",
+        "Kecoa muda tidak memiliki kaki",
+        "Nyamuk ",
+        "Kupu-kupu – ulat – telur – kepompong",
+        "Nimfa dan kepompong",
+        "Kumbang Dewasa",
+        "Pupa",
+        "Pertumbuhan",
+        "Kumbang",
+        "Belalang",
+        "Ayam",
+        "Telur",
+        "Katak dan Belalang"
         // ... add more future tense options (10 in total)
     )
 
     private val objectAnswer = arrayOf(
         // Present Tense
-        1, 2, 3, 1, 2, 3, 1, 2, 3, 4,
+        1, 2, 4, 3, 2, 4, 2, 3, 3, 2,4, 1, 4, 2, 4,
         // Past Tense
-        1, 2, 3, 4, 1, 2, 3, 4, 1, 2,
+        1, 2, 2, 2, 3, 4, 3, 3, 3, 2,2, 2, 2, 3, 1,
         // Future Tense
-        1, 2, 3, 4, 1, 2, 3, 4, 1, 2
+        2, 3, 4, 3, 3, 3, 2, 2, 4, 3, 2, 4, 2, 3, 3
     )
 
     fun getQuestions(): ArrayList<Questions> {
         val questionList = ArrayList<Questions>()
 
         // Create a list of question indices and shuffle them
-        val shuffledIndices = objectId.indices.toMutableList().apply { shuffle() }.take(10)
+        val shuffledIndices = objectId.indices.toMutableList().apply { shuffle() }.take(15)
 
         // Add questions to the questionList in the shuffled order
         for (index in shuffledIndices) {

@@ -98,3 +98,4 @@ Jika Anda memiliki pertanyaan atau masukan lebih lanjut mengenai aplikasi QuizEn
 - Twitter: [@veridetta](https://twitter.com/veridetta)
 
 Terima kasih telah menggunakan QuizEng! 😊
+# Android

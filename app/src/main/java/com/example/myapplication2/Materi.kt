@@ -1,6 +1,9 @@
 package com.example.myapplication2
 
 import android.content.Intent
+import android.graphics.Bitmap
+import android.graphics.BitmapFactory
+import android.graphics.drawable.BitmapDrawable
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.bumptech.glide.Glide
@@ -23,23 +26,13 @@ class Materi : AppCompatActivity() {
         setContentView(binding.root)
         setData()
 
-        name = intent.getStringExtra(EXTRA_NAME).toString()
-        supportActionBar?.title = name
+        setSupportActionBar(binding.toolbar)
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
-        supportActionBar?.setLogo(R.drawable.ic_back)
-        supportActionBar?.setDisplayUseLogoEnabled(true)
+        supportActionBar?.setHomeButtonEnabled(true)
 
         binding.btnLat.setOnClickListener{
-            if (name == "Present Tense"){
-                val intent = Intent(this@Materi, LatPresent::class.java)
-                startActivity(intent)
-            } else if (name == "Past Tense") {
-                val intent = Intent(this@Materi, LatPast::class.java)
-                startActivity(intent)
-            } else{
-                val intent = Intent(this@Materi, LatFuture::class.java)
-                startActivity(intent)
-            }
+            val intent = Intent(this@Materi, LatPast::class.java)
+            startActivity(intent)
         }
     }
 
@@ -51,12 +44,16 @@ class Materi : AppCompatActivity() {
 
     private fun setData() {
         val dataMateri = intent.getParcelableExtra<tense>(EXTRA_MATERI) as tense
-        with(binding) {
 
+        with(binding) {
             materi.text = dataMateri.name
-            penjelasan.text = dataMateri.materi
-            materiContoh.text = dataMateri.contoh
+            materi1.text = dataMateri.materi
+            materi2.text = dataMateri.contoh
             imageView3.setImageResource(dataMateri.foto)
         }
+
+        // Tambahkan ini untuk menginisialisasi name
+        name = dataMateri.name
     }
+
 }

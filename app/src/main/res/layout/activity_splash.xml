@@ -8,22 +8,29 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="212dp"
-        android:layout_height="223dp"
+        android:layout_width="500dp"
+        android:layout_height="500dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.208"
-        app:tint="@color/colorPrimary"
-        android:src="@drawable/baseline_library_books_150" />
+        android:src="@drawable/logo" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Wallstreet"
-        android:textSize="30dp"
+        android:fontFamily="@font/game"
+        android:text="E-MORPH"
+        android:textColor="@color/white"
+        android:textSize="50sp"
         android:textStyle="bold"
+        android:shadowColor="#99040000"
+        android:shadowDx="4"
+        android:shadowDy="4"
+        android:shadowRadius="3"
+        android:strokeWidth="2"
+        android:layerType="software"
         app:layout_constraintEnd_toEndOf="@+id/imageView"
         app:layout_constraintStart_toStartOf="@+id/imageView"
         app:layout_constraintTop_toBottomOf="@+id/imageView"

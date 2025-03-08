@@ -1,6 +1,9 @@
 package com.example.myapplication2
 
 import android.content.Intent
+import android.graphics.Bitmap
+import android.graphics.BitmapFactory
+import android.graphics.drawable.BitmapDrawable
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
@@ -24,16 +27,17 @@ class MainActivity : AppCompatActivity() {
         list.addAll(getListTense)
         showRecyclerList()
 
-        supportActionBar?.title = "Materi"
-
+        setSupportActionBar(binding.toolbar)
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
-        supportActionBar?.setLogo(R.drawable.ic_back)
-        supportActionBar?.setDisplayUseLogoEnabled(true)
+        supportActionBar?.setHomeButtonEnabled(true)
+
+
     }
 
+
     override fun onSupportNavigateUp(): Boolean {
-        onBackPressed()
-        return super.onSupportNavigateUp()
+        onBackPressedDispatcher.onBackPressed()
+        return true
     }
 
     private val getListTense: ArrayList<tense>
@@ -66,10 +70,23 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun showSelectedHero(hero: tense) {
-        val intent = Intent(this@MainActivity, Materi::class.java)
-        intent.putExtra(Materi.EXTRA_MATERI, hero)
-        intent.putExtra(Materi.EXTRA_NAME, hero.name)
-        startActivity(intent)
+        if (hero.name == "Metamorfosis Sempurna") {
+            val intent = Intent(this@MainActivity, Materi::class.java)
+            intent.putExtra(Materi.EXTRA_MATERI, hero)
+            intent.putExtra(Materi.EXTRA_NAME, hero.name)
+            startActivity(intent)
+        } else if (hero.name == "Metamorfosis Tidak Sempurna") {
+            val intent = Intent(this@MainActivity, Materi2::class.java)
+            intent.putExtra(Materi.EXTRA_MATERI, hero)
+            intent.putExtra(Materi.EXTRA_NAME, hero.name)
+            startActivity(intent)
+        } else {
+            val intent = Intent(this@MainActivity, Materi3::class.java)
+            intent.putExtra(Materi.EXTRA_MATERI, hero)
+            intent.putExtra(Materi.EXTRA_NAME, hero.name)
+            startActivity(intent)
+        }
     }
+
 
 }

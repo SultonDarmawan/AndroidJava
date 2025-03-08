@@ -4,73 +4,169 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".HomeActivity"
-    android:background="@drawable/back">
+    android:background="@drawable/bg_gradient"
+    tools:context=".HomeActivity">
+
+    <!-- Title -->
+
+    <!-- Grid Layout for Menu Buttons -->
+
     <TextView
         android:id="@+id/text_view_tag_line"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:fontFamily="sans-serif-medium"
+        android:fontFamily="@font/game"
         android:text="Menu Utama"
         android:textColor="@color/black"
-        android:textSize="@dimen/h4"
+        android:textSize="50sp"
         android:textStyle="bold"
-        android:layout_marginTop="100dp"
+        android:shadowColor="#99FFFFFF"
+        android:shadowDx="4"
+        android:shadowDy="4"
+        android:shadowRadius="3"
+        android:strokeWidth="2"
+        android:layerType="software"
+        app:layout_constraintBottom_toTopOf="@+id/grid_layout"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"/>
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
 
-    <Button
-        android:id="@+id/btn_materi"
-        android:layout_width="362dp"
-        android:layout_height="63dp"
-        android:layout_marginTop="44dp"
-        android:background="@drawable/bg_btn_auth_color_primary"
-        android:text="Materi"
-        android:textColor="@color/white"
-        android:textSize="@dimen/normal_150"
+
+    <GridLayout
+        android:id="@+id/grid_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="196dp"
+        android:columnCount="2"
+        android:padding="16dp"
+        android:rowCount="2"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/text_view_tag_line" />
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent">
 
-    <Button
-        android:id="@+id/btn_quiz"
-        android:layout_width="362dp"
-        android:layout_height="63dp"
-        android:layout_marginTop="44dp"
-        android:background="@drawable/bg_btn_auth_color_primary"
-        android:text="Quiz"
-        android:textColor="@color/white"
-        android:textSize="@dimen/normal_150"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/btn_materi" />
+        <!-- Menu Items -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_margin="3dp"
+            app:cardBackgroundColor="@color/white"
+            app:cardCornerRadius="20dp"
+            app:cardElevation="12dp">
 
-    <Button
-        android:id="@+id/btn_history"
-        android:layout_width="362dp"
-        android:layout_height="63dp"
-        android:layout_marginTop="44dp"
-        android:background="@drawable/bg_btn_auth_color_primary"
-        android:text="Riwayat Quiz"
-        android:textColor="@color/white"
-        android:textSize="@dimen/normal_150"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/btn_quiz" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
 
-    <Button
-        android:id="@+id/btn_about"
-        android:layout_width="362dp"
-        android:layout_height="63dp"
-        android:layout_marginTop="44dp"
-        android:background="@drawable/bg_btn_auth_color_primary"
-        android:text="About"
-        android:textColor="@color/white"
-        android:textSize="@dimen/normal_150"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/btn_history" />
+                <ImageView
+                    android:id="@+id/btnMateri"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:background="@android:color/transparent"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/materi" />
 
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Materi"
+                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_margin="3dp"
+            app:cardBackgroundColor="@color/white"
+            app:cardCornerRadius="20dp"
+            app:cardElevation="12dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/btnQuiz"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:src="@drawable/quiz" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Quiz"
+                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_margin="3dp"
+            app:cardBackgroundColor="@color/white"
+            app:cardCornerRadius="20dp"
+            app:cardElevation="12dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/btnHistory"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:src="@drawable/history" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Riwayat"
+                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_margin="3dp"
+            app:cardBackgroundColor="@color/white"
+            app:cardCornerRadius="20dp"
+            app:cardElevation="12dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/btnAbout"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:src="@drawable/about" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="About"
+                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </GridLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

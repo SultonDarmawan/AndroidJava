@@ -41,31 +41,102 @@
     <string name="success_register">Congratulation, your account has been register</string>
     <string name="success_forgot_pass">Congratulation, your link reset password has been sent to your email, please check it!</string>
     <string-array name="data_name">
-        <item>Present Tense</item>
-        <item>Past Tense</item>
-        <item>Future Tense</item>
+        <item>Metamorfosis Sempurna</item>
+        <item>Metamorfosis Tidak Sempurna</item>
+        <item>Metamorfosis Tanpa Perubahan</item>
 
 
     </string-array>
 
     <integer-array name="data_foto">
-        <item>@drawable/present_tense</item>
-        <item>@drawable/past_tense</item>
-        <item>@drawable/future_tense</item>
+        <item>@drawable/metamorfosis</item>
+        <item>@drawable/metamorfosis2</item>
+        <item>@drawable/metamorfosis3</item>
     </integer-array>
 
     <string-array name="tenses">
-        <item> Simple Present Tense adalah tenses yang paling banyak digunakan dalam bahasa inggris. \nJka melihat pada kata Simple berarti sederhana, sedangkan present adalah sekarang.\nRumus : S + V1 + O \n\n\nPresent Continous \nbentuk kata kerja yang digunakan untuk menyatakan aksi yang sedang berlangsung sekarang (present) atau rencana di masa depan (future).\nRumus : S + V1 + ing + O</item>
-        <item> Simple past tense digunakan untuk membicarakan suatu kejadian yang terjadi di masa lampau dan berakhir pula di masa lampau dalam waktu yang spesifik. Kalimat dalam simple past tense ditandai dengan kata kerja kedua (verb2) yang menunjukkan waktu lampau.. \nRumus : S + V2 + O \n\n\nPast Countinous \n\nPast continuous tense dibentuk dengan auxiliary verb “be”, berupa was atau were, karena waktu terjadinya adalah di masa lampau (past). \nRumus : S + be(was/were) + Ving + Complement</item>
-        <item> Simple future tense merupakan tenses untuk menjelaskan suatu peristiwa yang belum mulai dan akan terjadi di masa yang akan datang. Kalimat pada simple future tense dapat ditandai dengan penggunaan kata will, shall, dan going to. \nRumus : S + sahall/will + V1 + O \n\n\nFuture Countinous Tense \n\n Future Countinous tense digunakan untuk menyatakan suatu peristiwa yang akan terjadi atau dilakukan pada waktu tertentu. \nRumus : S + will/be + Ving + O</item>
+        <item> Metamorfosis sempurna adalah metamorfosis yang dalam perkembangannya menuju dewasa mengalami perubahan bentuk tubuh, penampilan dan perilaku yang berbeda. Perubahan bentuk yang berbeda ini dimulai dari fase telur. Setelah fase telur sudah dilewati, maka fase selanjutnya yakni fase larva. Setelah fase larva akan menghasilkan fase pupa. Fase terakhir dari metamorfosis sempurna adalah fase imago atau dewasa.</item>
+        <item> Metamorfosis tidak sempurna adalah metamorfosis yang dalam perkembangannya menuju dewasa mengalami perubahan bentuk tubuh, penampilan dan perilaku yang hampir sama atau tidak jauh berbeda.
+            \n Jika pada metamorfosis sempurna terjadi tahapan yang berbeda-beda, lain halnya dengan metamorfosis tidak sempurna yang hanya melewati tahapan yang hampir sama. Tahapan-tahapan itu dimulai dari hewan bertelur, kemudian menjadi nimfa, kemudian nimfa ini akan tumbuh menjadi dewasa (imago). Metamorfosis tidak sempurna dikenal dengan sebutan hemimetabola.</item>
+        <item> Mtemorfosis tanpa perubahan adalah siklus hidup yang tidak mengalami perubahan bentuk sejak lahir atau menetas hingga dewasa. Pada siklus ini hewan hanya mengalami peningkatan pada bentuk ukuran tubuh. Berikut ini contoh siklus hidup hewan tanpa mengalami metamorfosis.</item>
 
     </string-array>
 
     <string-array name="contoh">
-        <item>Prenset tense \n1. I always go to school every 7 o\'clock  \n2. My mother cleans the bathroom every twice a week \n\nPresent Countinous tense \n\n1. I am Playing football right now \n2. I am not writing this letter to express my feeling</item>
-        <item> Past tense \n\n1. My mom and I went to the zoo yesterday (Saya dan ibu pergi ke kebun binatang kemarin) \n2. I played football last week (Saya bermain bola minggu lalu)  \n\nPast Countinous Tese : \n\n1. He was traveling to Venice. (Dia dulu sedang berlibur ke Venice.)\n2. She was eating a burger. (Dia dulu sedang makan burger.)</item>
-        <item> Simple future tense \n\nI will be a teacher (Saya akan menjadi seorang guru) \nHe will not join our sport club (Dia tidak mau bergabung dengan klub olahraga kami) \n\nFuture Countinous tense : \n\n1. I am going to paint my bedroom tomorrow (Saya akan mengecat kamar saya esok hari)  \n2. she will be dining here at 9 p.m tomorrow (dia akan makan malam disini jam 9 malam besok)</item>
+        <item> Di bawah ini akan dijelaskan tahapan-tahapan yang terjadi pada metamorfosis sempurna.</item>
+        <item> Di bawah ini akan dijelaskan tahapan-tahapan yang terjadi pada metamorfosis tidak sempurna.</item>
+        <item> Di bawah ini akan dijelaskan tahapan-tahapan yang terjadi pada metamorfosis tanpa perubahan.</item>
 
     </string-array>
+
+
+
+    <string name="materi1"><b>a. Fase telur.</b> \nFase telur menjadi fase pertama dari hasil perkembangbiakan pada hewan. Pada fase ini telur-telur-telur yang dihasilkan oleh betina berasal dari hasil fertilisasi yang terjadi pada hewan berkelamin jantan. Sel telur yang bertemu dengan sel sperma akan mengakibatkan terjadinya pembelahan. Pada proses pembelahan ini waktu yang dibutuhkan bervariasi tergantung dari jenis hewannya.</string>
+    <string name="materi2"><b>b. Fase larva.</b> \nSetelah melewati fase telur, tahapan selanjutnya yang terjadi di metamorfosis sempurna adalah fase larva. Fase larva ini merupakan fase yang di mana hewan muda sudah mulai aktif untuk mencari makan. Makanan yang didapatkan sangat mudah karena sang induk sudah mempersiapkan jika anakannya berkembang tidak perlu repot-repot untuk mencari makanan</string>
+    <string name="materi3"><b>c. Fase pupa.</b> \nFase pupa bisa dikatakan sebagai fase transisi karena terjadinya perubahan wujud dari larva menjadi wujud hewan yang lebih besar. Perubahan wujud yang lebih besar membuat hewan memiliki suatu rangka luar yang bisa melindungi tubuh dan rangka luar itu dinamakan kokon. Meskipun sudah terlindungi oleh kokon, tubuh pupa akan tetap melakukan pembentukan metabolisme dan melakukan pembentukan hewan menuju hewan yang dewasa.</string>
+    <string name="materi4"><b>d. Fase imago.</b> \nPada waktu yang sudah ditentukan, maka pupa akan keluar dari cangkangnya. Pupa yang keluar dari cangkangnya akan memiliki wujud hewan yang baru dan menandakan bahwa hewan yang mengalami metamorfosis sempurna sudah tumbuh menjadi dewasa. Pada fase ini, hewan sudah harus membiasakan dirinya menghadapi predator-predator lainnya.</string>
+
+    <string name="contoh"><b>Contoh Hewan dengan Metamorfosis Sempurna</b></string>
+
+    <string name="contoh1"><b>1. Kupu-Kupu.</b></string>
+    <string name="contoh2"><b>2. Nyamuk.</b></string>
+    <string name="contoh3"><b>3. Katak.</b></string>
+
+    <string name="contoh11">Siapa yang tidak kenal dengan hewan kupu-kupu. Hewan ini sering kita temui pada bunga-bunga yang memiliki nektar. Kupu-kupu sering hinggap di bunga karena nektar bunga menjadi makanan utama dari kupu-kupu.\nKupu-kupu menjadi hewan yang tergolong ke dalam metamorfosis sempurna karena perubahan wujud dari hewan muda menuju ke dewasa sangat berbeda. Untuk lebih jelasnya mari kita simak gambar di bawah ini.\nBerdasarkan gambar di atas, metamorfosis pada kupu-kupu dimulai dari telur yang berasal dari perkawinan kupu-kupu jantan dengan kupu-kupu betina. Kemudian, telur itu berubah menjadi ulat yang biasa kita temukan pada dedaunan. Lalu, ulat berubah menjadi kepompong atau pupa dengan cangkang untuk melindungi tubuh. Setelah beberapa lama, kepompong akan berubah menjadi kupu-kupu muda dan beberapa hari kemudian akan berubah menjadi kupu-kupu dewasa.</string>
+    <string name="contoh22">Contoh hewan berikutnya yang mengalami metamorfosis sempurna adalah nyamuk. Hewan ini sering kita temui pada malam hari dan terkadang nyamuk mengganggu tidur seseorang, baik itu karena suaranya atau karena gigitannya.\nMeskipun nyamuk sangat suka terbang, tetapi indukan nyamuk akan menyimpan telurnya di permukaan air yang tenang. Oleh sebab itu, kita harus rajin membersihkan bak mandi supaya tidak ada telur nyamuk.\nBerdasarkan gambar di atas, telur menjadi fase awal terjadinya metamorfosis sempurna pada nyamuk. Setelah telur menetas akan berubah menjadi seekor larva. Larva ini akan beradaptasi untuk mencari makan supaya bisa melanjutkan hidupnya ke fase pupa. Setelah fase larva sudah selesai, selanjutnya adalah fase pupa. Fase terakhir dari metamorfosis pada nyamuk adalah nyamuk menjadi</string>
+    <string name="contoh33">Musim hujan menjadi musim yang sangat disenangi oleh hewan katak. Hal ini dikarenakan pada musim ini air banyak yang turun ke permukaan, sehingga katak akan bebas berloncat-loncat.\nKatak termasuk ke dalam kategori hewan yang mengalami metamorfosis sempurna. Hal itu dapat dilihat pada bentuk kecebong yang sangat berbeda dengan bentuk katak ketika dewasa. Perbedaan itulah yang menyebabkan katak menjadi hewan bermetamorfosis sempurna.\nBerdasarkan gambar di atas, telur menjadi fase awal dari metamorfosis sempurna katak. Kemudian dilanjutkan dengan telur yang berubah menjadi kecebong tanpa kaki. Setelah mengalami perkembangan, kecebong memiliki dua kaki. Kaki kecebong yang berjumlah semakin bertambah dibarengi tubuh kecebong yang ikut mengalami perubahan, sehingga menjadi katak muda. Katak muda pun berkembang menjadi katak dewasa yang kemudian berkembang biak dan menghasilkan telur-telur katak.</string>
+
+    <string name="materi11"><b>a. Fase telur.</b> \nFase telur ini merupakan fase yang sama seperti hewan dengan metamorfosis sempurna. Telur yang dihasilkan dari hasil perkawinan antara hewan jantan dan betina akan diletakkan di habitat aslinya. Bukan hanya diletakkan di habitat aslinya, tetapi sang induk akan memastikan apakah telur yang diletakkan sudah aman dari serangan predator atau belum. Jika belum aman dari serangan predator, maka sang induk akan mencari tempat yang baru.</string>
+    <string name="materi22"><b>b. Fase nimfa.</b> \nFae kdua dari metamorfosis tidak sempurna adalah fase nimfa. Fase nimfa ini berbeda dengan fase larva yang ada di metamorfosisi sempurna. Fase larva wujud hewan muda akan berbeda dengan wujud hewan yang sudah dewasa. Sementera itu, fase nimfa wujud hewan muda akan sama dengan wujud hewan dewasa hanya saja ukurannya berbeda.</string>
+    <string name="materi33"><b>c. Fase imago.</b> \nFase imago menandakan bahwa hewan bermetamorfosis tidak sempurna sudah melewati fase nimfa. Jika dilihat dengan saksama, maka tubuh atau wujud (tampak dari luar) dari fase nimfa ke imago hanya mengalami perubahan ukuran tubuh saja.
+        \nFase imago adalah fase dewasa yang terjadi pada hewan dengan metamorfosis sempurna dan tidak sempurna. Pada fase imago, seluruh organ tubuh dan organ reproduksi sudah mengalami kematangan. Organ reproduksi yang sudah mengalami kematangan, maka hewan bisa melakukan perkembangbiakan dan mengulangi siklus metamorfosis tidak sempurna.</string>
+
+    <string name="contohMater"><b>Contoh Hewan Metamorfosis Tidak Sempurna</b></string>
+
+    <string name="contohMater1"><b>1. Belalang</b></string>
+    <string name="contohMater2"><b>2. Kecoak</b></string>
+
+    <string name="contohMater11">Hewan belalang ini sering kita temukan di persawahan atau perkebunan, mulai dari belalang dengan ukuran kecil hingga belalang berukuran besar. Terkadang belalang ini dijadikan sebagai santapan oleh beberapa orang karena dianggap rasanya yang gurih.\nBelalang menjadi bagian hewan yang bermetamorfosis tidak sempurna karena perubahan dari nimfa ke belalang dewasa tidak mengalami perubahan wujud yang signifikan. Perbedaan yang terjadi pada belalang muda dengan belalang dewasa hanya sebatas pada ukuran tubuh saja.\nDari gambar di atas, belalang metamorfosis tidak sempurna belalau bermula dari telur yang berasal dari indukan atau belalang betina. Setelah telur menetas, kemudian berubah menjadi nimfa atau belalang muda. Setiap perkembangan belalang muda menuju dewasa tidak ada perubahan wujud yang signifikan kecuali ukuran tubuh belalang.</string>
+    <string name="contohMater22">ewan kecoak termasuk ke dalam jenis hewan yang suka hidup di tempat-tempat yang lembab, seperti kamar mandi. Meskipun hewan ini berukuran kecil, tetapi ia bisa terbang. Bahkan, bagi sebagian orang, hewan ini sangat menakutkan terutama pada saat terbang, apakah kamu salah satunya?\nKecoak menjadi hewan yang bermetamorfosis tidak sempurna karena bentuk tubuhnya saat muda hingga dewasa hanya berubah pada ukuran saja. Dengan kata lain, wujud dari kecoak muda hingga dewasa tidak mengalami perubahan.\nDari gambar di atas, metamorfosis tidak sempurna kecoak bermula dari telur. Lalu berubah menjadi nimfa atau kecoak muda. Setelah kecoak muda berkembang, ia akan menjadi kecoak dewasa yang memiliki tubuh yang sama dengan kecoak muda.</string>
+
+
+
+    <string name="contohMet"><b>Contoh Hewan Metamorfosis Tanpa Perubahan</b></string>
+    <string name="contohMet1"><b>a. Kucing.</b></string>
+    <string name="contohMet2"><b>a. Sapi.</b></string>
+    <string name="contohMet3"><b>a. Kambing.</b></string>
+
+    <string name="materi111">Kucing tidak mengalami metamorfosis. Metamorfosis adalah perubahan bentuk tubuh yang signifikan pada hewan, sedangkan kucing hanya mengalami pertumbuhan ukuran dan kekuatan tulang.
+        \n<b>Penjelasan</b>
+        \n1. Kucing termasuk hewan ametabola, yaitu hewan yang tidak mengalami perubahan bentuk tubuh yang ekstrim dari lahir hingga dewasa.
+        \n2. Anak kucing yang baru lahir memiliki struktur tulang yang sama dengan kucing dewasa.
+        \n3. Kucing hanya tumbuh besar, volume tulang menjadi lebih kuat, dan beratnya bertambah.
+        \n4. Kucing yang baru lahir terlihat seperti kucing dewasa.
+        \n5. Kucing yang masih muda terlihat seperti kucing dewasanya.
+        \n6. Kucing berkembang biak dengan cara melahirkan atau beranak sehingga disebut dengan vivipar.
+        \n7. Kucing betina akan mengandung anak-anaknya selama 63 sampai 67 hari.
+        \n8. Setelah lahir, anak kucing masih sangat bergantung pada induknya dalam mencari makan dan belum mampu bergerak dengan lincah. </string>
+    <string name="materi222">Sapi tidak mengalami metamorfosis. Metamorfosis adalah perubahan bentuk tubuh yang dialami hewan dalam siklus hidupnya. Sapi berkembang biak dengan cara melahirkan dan mengalami pertumbuhan tanpa perubahan bentuk tubuh.
+        \n<b>Penjelasan</b>
+        \n1. Sapi termasuk hewan mamalia yang tidak mengalami metamorfosis.
+        \n2. Mamalia muda yang baru lahir memiliki struktur tulang yang sama dengan mamalia dewasa.
+        \n3. Sapi hanya mengalami perubahan ukuran tubuh yang membesar, namun tidak mengalami perubahan bentuk.
+        \n4. Sapi akan tumbuh secara ukuran namun tidak berubah total bentuk tubuhnya.
+        \n5. Sapi kecil akan tumbuh menjadi sapi dewasa tanpa mengalami perubahan bentuk fisik.
+        \n6. Daur siklus hidup sapi dimulai dari anak sapi, sapi muda, sapi dewasa hingga melahirkan anak sapi lagi.
+        \n7. Sapi berkembang biak untuk menjaga kelangsungan hidup sapi.</string>
+    <string name="materi333">Kambing tidak mengalami metamorfosis. Metamorfosis adalah proses perkembangan biologi pada hewan yang melibatkan perubahan penampilan fisik atau struktur setelah kelahiran. Sedangkan, kambing mengalami daur hidup tanpa metamorfosis, atau disebut ametamorfosis.
+        \n<b>Daur hidup kambing</b>
+        \n1. Anak kambing lahir dengan bentuk tubuh yang mirip induknya
+        \n2. Anak kambing menyusui dari induknya
+        \n3. Anak kambing tumbuh menjadi kambing dewasa
+        \n4. Kambing dewasa bergabung dengan kambing lainnya
+        \n5. Kambing betina birahi pada usia 6–8 bulan
+        \n6. Kambing betina dikawinkan setelah dewasa tubuh pada usia 10–12
+        \n7. Kambing jantan dikawinkan setelah usia 12 bulan
+        \n8. Kambing betina mengalami ovulasi setelah pembuahan sel sperma dan sel telur berhasil
+        \n9. Kambing betina mengalami kehamilan
+        \n10. Kambing betina melahirkan</string>
+
 </resources>
 
