@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Administrator\\AndroidStudioProjects\\apliaksi\\QuizEng\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-be\\values-be.xml",
+            "outputFile": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-be\\values-be.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-3\\4d6fae0a8a3ad8aef8b3c4ed49a2c9e7\\transformed\\material-1.9.0\\res\\values-be\\values-be.xml",

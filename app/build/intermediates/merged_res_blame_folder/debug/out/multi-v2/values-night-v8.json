@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Administrator\\AndroidStudioProjects\\apliaksi\\QuizEng\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\apliaksi\\QuizEng\\app\\src\\main\\res\\values-night\\themes.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "212",
-                        "endLines": "7",
-                        "endColumns": "12",
-                        "endOffsets": "447"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "286"
-                    }
-                },
                 {
                     "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-3\\4d6fae0a8a3ad8aef8b3c4ed49a2c9e7\\transformed\\material-1.9.0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
@@ -54,6 +35,25 @@
                         "startOffsets": "291,361,445,529,625,727,829,3684",
                         "endColumns": "69,83,83,95,101,101,93,88",
                         "endOffsets": "356,440,524,620,722,824,918,3768"
+                    }
+                },
+                {
+                    "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "212",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "447"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "286"
                     }
                 }
             ]
