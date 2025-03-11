@@ -392,7 +392,7 @@
     <attr name="layout_optimizationLevel">
         <flag name="none" value="0"/>
         <flag name="legacy" value="0"/>
-        <flag name="standard" value="257"/> <!-- direct, measure caches -->
+        <flag name="standard" value="257"/> 
         <flag name="direct" value="1"/>
         <flag name="barrier" value="2"/>
         <flag name="chains" value="4"/>
@@ -621,7 +621,7 @@
     <attr format="enum" name="viewTransitionMode">
         <enum name="currentState" value="0"/>
         <enum name="allStates" value="1"/>
-        <!--        Operates independently of the rest of MotionLayout constraint set system -->
+        
         <enum name="noState" value="2"/>
     </attr>
     <attr format="enum" name="visibilityMode">
@@ -2072,6 +2072,35 @@
     <string name="contoh22">Contoh hewan berikutnya yang mengalami metamorfosis sempurna adalah nyamuk. Hewan ini sering kita temui pada malam hari dan terkadang nyamuk mengganggu tidur seseorang, baik itu karena suaranya atau karena gigitannya.\nMeskipun nyamuk sangat suka terbang, tetapi indukan nyamuk akan menyimpan telurnya di permukaan air yang tenang. Oleh sebab itu, kita harus rajin membersihkan bak mandi supaya tidak ada telur nyamuk.\nBerdasarkan gambar di atas, telur menjadi fase awal terjadinya metamorfosis sempurna pada nyamuk. Setelah telur menetas akan berubah menjadi seekor larva. Larva ini akan beradaptasi untuk mencari makan supaya bisa melanjutkan hidupnya ke fase pupa. Setelah fase larva sudah selesai, selanjutnya adalah fase pupa. Fase terakhir dari metamorfosis pada nyamuk adalah nyamuk menjadi</string>
     <string name="contoh3"><b>3. Katak.</b></string>
     <string name="contoh33">Musim hujan menjadi musim yang sangat disenangi oleh hewan katak. Hal ini dikarenakan pada musim ini air banyak yang turun ke permukaan, sehingga katak akan bebas berloncat-loncat.\nKatak termasuk ke dalam kategori hewan yang mengalami metamorfosis sempurna. Hal itu dapat dilihat pada bentuk kecebong yang sangat berbeda dengan bentuk katak ketika dewasa. Perbedaan itulah yang menyebabkan katak menjadi hewan bermetamorfosis sempurna.\nBerdasarkan gambar di atas, telur menjadi fase awal dari metamorfosis sempurna katak. Kemudian dilanjutkan dengan telur yang berubah menjadi kecebong tanpa kaki. Setelah mengalami perkembangan, kecebong memiliki dua kaki. Kaki kecebong yang berjumlah semakin bertambah dibarengi tubuh kecebong yang ikut mengalami perubahan, sehingga menjadi katak muda. Katak muda pun berkembang menjadi katak dewasa yang kemudian berkembang biak dan menghasilkan telur-telur katak.</string>
+    <string name="contoh4"><b>4. Lalat.</b></string>
+    <string name="contoh44">Lalat, seperti serangga lainnya, mengalami proses metamorfosis dalam siklus hidupnya. Lalat mengalami metamorfosis sempurna karena melalui empat tahap perkembangan, yakni telur, larva, pupa, dan dewasa. \nProses metamorfosis lalat
+        \n<b>Tahap 1: Telur</b>\nSetelah lalat jantan mengejar dan membuahi betinanya, betina pun siap untuk bertelur.  Lalat adalah makhluk soliter. Seperti serangga lainnya, jantan dan betina tidak bersatu setelah kawin dan, tidak seperti serangga yang bersarang, betina tidak merawat atau melindungi telur.
+        \n<b>Tahap 2: Larva</b> \nHanya dalam waktu sehari, larva pertama mulai muncul dari telur lalat.  Larva lalat, juga dikenal sebagai belatung, merupakan makhluk mirip cacing dengan bagian mulut bengkok yang digunakan untuk makan. Belatung tumbuh dengan cepat. Dalam waktu kurang dari dua hari, ukurannya menjadi dua kali lipat dan karena itu harus berganti kulit. Ganti kulit adalah proses yang umum terjadi pada banyak invertebrata, yakni ketika serangga yang tumbuh melepaskan eksoskeleton sebelumnya dan menumbuhkan yang baru.
+        \n<b>Tahap 3: Pupa </b> \nSetelah ganti kulit yang ketiga kali, larva lalat akan menggali jauh ke dalam zat yang telah mereka makan.  Kulit mereka akan menggelap dan mengeras saat memasuki tahap pupa atau kepompong.  Di dalam cangkang pelindung ini, larva akan sepenuhnya mengembangkan segmen tubuh dan pelengkap lalat dewasa.
+        \n<b>Tahap 4: Dewasa </b> \nSatu-satunya fitur tambahan yang terlihat pada lalat dewasa adalah benjolan bengkak di kepala, yang digunakan untuk menembus cangkang.  Karena lalat tidak memiliki gigi atau rahang untuk mengunyah, ia menggunakan kantong berisi cairan ini untuk menerobos cangkang kepompong.</string>
+    <string name="contoh5"><b>5. Lebah Madu.</b></string>
+    <string name="contoh55">Siklus hidup lebah terdiri dari empat fase, yaitu telur, larva, pupa, dan lebah dewasa. Berikut ini adalah penjelasan dari masing-masing siklus hidup lebah. \n1. Fase telur \nSebutir telur lebah berkembang menjadi macam-macam jenis lebah dalam waktu yang berbeda-beda. Telur menjadi lebah pekerja dewasa dalam waktu 18 sampai 22 hari. Sedangkan menjadi lebah ratu 16 hari dan lebah jantan 24 hari. Telur lebah berukuran sebesar butiran beras. Dalam sekali bertelur, lebah ratu bisa menghasilkan 2.000 hingga 3.000 butir telur per hari. Telur yang dibuahi akan menjadi lebah betina, bisa lebah pekerja atau lebah ratu. Sedangkan telur yang tidak dibuahi akan menjadi lebah jantan. \n2. Fase larva \nSetelah 3 hari sejak telur dihasilkan oleh lebah ratu, telur akan berubah menjadi larva. Larva lebah tidak memiliki kaki dan mata. Larva akan diberi makan oleh lebah pekerja selama 3 sampai 4 hari. Khusus larva lebah ratu hanya akan diberi makan royal jelly selama hidupnya. Royal jelly adalah zat yang diproduksi dari kelenjar di kepala dan kelenjar ludah lebah. Royal jelly diproduksi oleh lebah pekerja muda yang berusia 5 sampai 14 hari. Setelah 6 hari, larva akan memproduksi selapis kulit di luar tubuhnya dan selnya akan ditutupi oleh lebah pekerja dengan wax. Selanjutnya, larva berubah menjadi pupa.\n3. Fase pupa \nFase ini sama seperti fase kepompong pada hewan dengan metamorfosis sempurna lainnya, seperti kupu-kupu. Pada fase ini terjadi pembentukan tubuh lebah, lengkap dengan kepala dan sayapnya. \n4. Fase lebah dewasa \nSetelah menjadi pupa selama setidaknya 12 hari, pengeraman selesai. Lebah pekerja muda akan muncul dan menggerogoti sarang lebah agar lebah dewasa bisa muncul dan mulai bekerja menjalankan tugasnya masing-masing.</string>
+    <string name="contoh6"><b>6. Semut.</b></string>
+    <string name="contoh66">Semut adalah serangga yang mengalami metamorfosis sempurna. Tahapan metamorfosis semut ini, yaitu telur, lalu larva, berikutnya pupa (kepompong), kemudian imago (semut dewasa). Berikut uraian lengkapnya.
+        \n<b>1. Telur</b>\n
+        Setelah melakukan perkawinan, seorang ratu akan meletakkan telur yang dibuahi dan yang tida dibuahi olehnya. Telur yang tak dibuahi akan menjadi jantan, dan yang dibuahi akan menjadi betina.
+        Telur semut bentuknya oval dan kecil. Warnanya putih hampir transparan. Telur tersebut membutuhkan waktu seminggu hingga dua minggu untuk bisa menetas tergantung dengan jenis spesiesnya
+        \n<b>2. Larva</b>\n
+        Larva adalah semut kecil yang tak memiliki mata dan kaki. Larva akan menjalani moulting yang ditandai dengan tumbuhnya rambut berbentuk pengait. Bentuk ini akan memudahkan semut pekerja membawa larva ke sarangnya.
+        Larva dibawa oleh  para semut pekerja karena belum memiliki mata dan kaki. Pada tahap ini, larva akan berganti bulu beberapa kali, tergantung bagaimana semut pekerja memberinya makan.
+        \n<b>3. Pupa</b>\n
+        Saat larva telah cukup besar, ia lama-kelamaan akan berubah menjadi pupa. Tahap ini semut lebih dikenal dengan nama kepompong. Bentuk dari kepompong ini mirip dengan semut dewasa, hanya saja kaki dan antenanya terlipat.
+        \n<b>4.  Semut Dewasa</b>\n
+        Semut akan menetas dari pupa setelah mencapai 6 hingga 10 minggu. Proses perkembangan semut yang berawal dari telur sampai dewasa ini umumnya berlangsung beberapa minggu hingga beberapa bulan, tergantung dengan jenis spesiesnya.</string>
+    <string name="contoh7"><b>7. Ngengat.</b></string>
+    <string name="contoh77">Dalam buku Cari Tahu Hewan-Hewan Bertubuh Kecil oleh Fatiharifah (2019:58), ngengat adalah serangga yang sangat mirip dengan kupu-kupu. Memiliki sayap, memakan nextar dan cairan lainnya dengan warna yang bermacam-macam.
+        Ngengat dapat berkamuflase mengubah warna tubuh sesuai dengan lingkungannya sebagai cara mempertahankan diri dari musuh. Ciri lain dari hewan ini yaitu metamorfosis ngengat termasuk dalam metarmorfosis sempurna dengan tahapan sebagai berikut.
+        \n<b>1. Telur</b>\nSetelah kawin, betina akan bertelur pada tanaman yang akan menjadi makanan bagi keturunannya. Embrio berkembang di dalam telur selama 30 hari, dengan waktu 7 hingga 10 hari untuk larva berkembang di dalam telur.
+        \n<b>2. Larva</b>\nUlat atau larva yang baru menetas akan memakan cangkangnya sebagai nutrisi terbaik dan setelah itu ulat akan memakan tanaman inang. Seperti serangga lainnya, ulat juga mengalami berbagai tahap pergantian kulit. Untuk mempertahankan hidupnya ulat akan memakan cangkang yang tersisa agar bisa mendaur ulang nutrisi dan protein pada tubuhnya. Proses makan dan pergantian kulit ini berlanjut hingga memasuki tahap pupa.
+        \n<b>3. Pupa</b>\nPupa merupakan tahap istirahat setelah larva tumbuh sempurna dan berhenti makan. Saat menjadi ulat, ngengat memiliki kemampuan memintal sejenis sutra yang dihasilkan dari proteinnya sendiri yang disebut dengan kepompong. Di dalam kepompong, ulat berubah menjadi ngengat bersayap yang sudah berkembang sempurna. Penghancuran jaringan yang dikenal sebagai histolisis terjadi selama tahap ini. Setelah sekitar 2 minggu, ulat berubah menjadi ngengat bersayap dan keluar dari kepompong.
+        \n<b>4. Imago</b>\nImago dikenal juga sebagai ngengat dewasa. Tahap ini dimulai ketika ngengat keluar dari kepompong dengan kondisi sayap keriput dan kulit bengkak.
+        Selama jam-jam pertama kedewasaan, ngengat memompa cairan ke pembuluh darah sayapnya untuk melebarkan sayap tersebut. Setelah bagian tubuh ngengat kokoh dan kaku, ngengat tersebut terbang keluar untuk mencari makan dan kawin.
+        </string>
     <string name="contohMater"><b>Contoh Hewan Metamorfosis Tidak Sempurna</b></string>
     <string name="contohMater1"><b>1. Belalang</b></string>
     <string name="contohMater11">Hewan belalang ini sering kita temukan di persawahan atau perkebunan, mulai dari belalang dengan ukuran kecil hingga belalang berukuran besar. Terkadang belalang ini dijadikan sebagai santapan oleh beberapa orang karena dianggap rasanya yang gurih.\nBelalang menjadi bagian hewan yang bermetamorfosis tidak sempurna karena perubahan dari nimfa ke belalang dewasa tidak mengalami perubahan wujud yang signifikan. Perbedaan yang terjadi pada belalang muda dengan belalang dewasa hanya sebatas pada ukuran tubuh saja.\nDari gambar di atas, belalang metamorfosis tidak sempurna belalau bermula dari telur yang berasal dari indukan atau belalang betina. Setelah telur menetas, kemudian berubah menjadi nimfa atau belalang muda. Setiap perkembangan belalang muda menuju dewasa tidak ada perubahan wujud yang signifikan kecuali ukuran tubuh belalang.</string>
@@ -2080,7 +2109,7 @@
     <string name="contohMet"><b>Contoh Hewan Metamorfosis Tanpa Perubahan</b></string>
     <string name="contohMet1"><b>a. Kucing.</b></string>
     <string name="contohMet2"><b>b. Sapi.</b></string>
-    <string name="contohMet3"><b>c. Kambing.</b></string>
+    <string name="contohMet3"><b>c. Ayam.</b></string>
     <string name="default_text">-</string>
     <string name="email">Email</string>
     <string name="error">Error</string>
@@ -2138,18 +2167,17 @@
     <string name="materi3"><b>c. Fase pupa.</b> \nFase pupa bisa dikatakan sebagai fase transisi karena terjadinya perubahan wujud dari larva menjadi wujud hewan yang lebih besar. Perubahan wujud yang lebih besar membuat hewan memiliki suatu rangka luar yang bisa melindungi tubuh dan rangka luar itu dinamakan kokon. Meskipun sudah terlindungi oleh kokon, tubuh pupa akan tetap melakukan pembentukan metabolisme dan melakukan pembentukan hewan menuju hewan yang dewasa.</string>
     <string name="materi33"><b>c. Fase imago.</b> \nFase imago menandakan bahwa hewan bermetamorfosis tidak sempurna sudah melewati fase nimfa. Jika dilihat dengan saksama, maka tubuh atau wujud (tampak dari luar) dari fase nimfa ke imago hanya mengalami perubahan ukuran tubuh saja.
         \nFase imago adalah fase dewasa yang terjadi pada hewan dengan metamorfosis sempurna dan tidak sempurna. Pada fase imago, seluruh organ tubuh dan organ reproduksi sudah mengalami kematangan. Organ reproduksi yang sudah mengalami kematangan, maka hewan bisa melakukan perkembangbiakan dan mengulangi siklus metamorfosis tidak sempurna.</string>
-    <string name="materi333">Kambing tidak mengalami metamorfosis. Metamorfosis adalah proses perkembangan biologi pada hewan yang melibatkan perubahan penampilan fisik atau struktur setelah kelahiran. Sedangkan, kambing mengalami daur hidup tanpa metamorfosis, atau disebut ametamorfosis.
-        \n<b>Daur hidup kambing</b>
-        \n1. Anak kambing lahir dengan bentuk tubuh yang mirip induknya
-        \n2. Anak kambing menyusui dari induknya
-        \n3. Anak kambing tumbuh menjadi kambing dewasa
-        \n4. Kambing dewasa bergabung dengan kambing lainnya
-        \n5. Kambing betina birahi pada usia 6–8 bulan
-        \n6. Kambing betina dikawinkan setelah dewasa tubuh pada usia 10–12
-        \n7. Kambing jantan dikawinkan setelah usia 12 bulan
-        \n8. Kambing betina mengalami ovulasi setelah pembuahan sel sperma dan sel telur berhasil
-        \n9. Kambing betina mengalami kehamilan
-        \n10. Kambing betina melahirkan</string>
+    <string name="materi333">Siklus hidup ayam terdiri dari empat tahap, yaitu inkubasi dan penetasan, anak ayam, ayam remaja, dan ayam dewasa.
+        \nTahapan siklus hidup ayam
+        \nInkubasi dan penetasan: Telur yang telah dibuahi dierami selama 21 hari sebelum menetas.
+        \nAnak ayam: Setelah menetas, anak ayam akan menghabiskan hari-hari pertama hidup di bawah sayap induknya.
+        \nAyam remaja: Pada tahap ini, ayam terlihat kurus, tubuhnya lebih dominan kaki, dan terlihat agak tidak proporsional dibandingkan dengan ayam dewasa.
+        \nAyam dewasa: Ayam dewasa telah dapat bertelur dan siklus ini berulang terus.
+        \n\nPerkembangbiakan ayam
+        \nAyam betina kawin dengan ayam jantan pada musim semi dan musim panas.
+        \nSetelah bertelur, ayam betina siap untuk membentuk telur baru.
+        \nSisa sperma ayam jantan masih cukup untuk memfertilisasi telur hingga seminggu kemudian.
+        \nSuhu yang dibutuhkan untuk mengerami telur adalah suhu tubuh induknya. </string>
     <string name="materi4"><b>d. Fase imago.</b> \nPada waktu yang sudah ditentukan, maka pupa akan keluar dari cangkangnya. Pupa yang keluar dari cangkangnya akan memiliki wujud hewan yang baru dan menandakan bahwa hewan yang mengalami metamorfosis sempurna sudah tumbuh menjadi dewasa. Pada fase ini, hewan sudah harus membiasakan dirinya menghadapi predator-predator lainnya.</string>
     <string name="material_clock_display_divider" translatable="false">:</string>
     <string description="Description for the toggle to choose between AM and PM [CHAR_LIMIT=NONE]" name="material_clock_toggle_content_description">Select AM or PM</string>
@@ -2693,8 +2721,8 @@
   </style>
     <style name="Base.Theme.MaterialComponents.Light.DialogWhenLarge" parent="Theme.MaterialComponents.Light"/>
     <style name="Base.Theme.MyApplication2" parent="Theme.MaterialComponents.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        
+        
 
     </style>
     <style name="Base.ThemeOverlay.AppCompat" parent="Platform.ThemeOverlay.AppCompat"/>
@@ -9239,11 +9267,11 @@
     <declare-styleable name="ActionBar">
         
         <attr name="navigationMode">
-            <!-- Normal static title text -->
+            
             <enum name="normal" value="0"/>
-            <!-- The action bar will use a selection list for navigation. -->
+            
             <enum name="listMode" value="1"/>
-            <!-- The action bar will use a series of horizontal tabs for navigation. -->
+            
             <enum name="tabMode" value="2"/>
         </attr>
         
@@ -9411,45 +9439,32 @@
   </declare-styleable>
     <declare-styleable name="AppBarLayout_Layout">
     <attr name="layout_scrollFlags">
-      <!-- Disable scrolling on the view. This flag should not be combined with any of the other
-           scroll flags. -->
+      
       <flag name="noScroll" value="0x0"/>
 
-      <!-- The view will be scroll in direct relation to scroll events. This flag needs to be
-           set for any of the other flags to take effect. If any sibling views
-           before this one do not have this flag, then this value has no effect. -->
+      
       <flag name="scroll" value="0x1"/>
 
-      <!-- When exiting (scrolling off screen) the view will be scrolled until it is
-           'collapsed'. The collapsed height is defined by the view's minimum height. -->
+      
       <flag name="exitUntilCollapsed" value="0x2"/>
 
-      <!-- When entering (scrolling on screen) the view will scroll on any downwards
-           scroll event, regardless of whether the scrolling view is also scrolling. This
-           is commonly referred to as the 'quick return' pattern. -->
+      
       <flag name="enterAlways" value="0x4"/>
 
-      <!-- An additional flag for 'enterAlways' which modifies the returning view to
-           only initially scroll back to it's collapsed height. Once the scrolling view has
-           reached the end of it's scroll range, the remainder of this view will be scrolled
-           into view. -->
+      
       <flag name="enterAlwaysCollapsed" value="0x8"/>
 
-      <!-- Upon a scroll ending, if the view is only partially visible then it will be
-           snapped and scrolled to it's closest edge. -->
+      
       <flag name="snap" value="0x10"/>
 
-      <!-- An additional flag to be used with 'snap'. If set, the view will be snapped to its
-           top and bottom margins, as opposed to the edges of the view itself. -->
+      
       <flag name="snapMargins" value="0x20"/>
     </attr>
 
     <attr format="enum" name="layout_scrollEffect">
-      <!-- No effect will be applied to this child when its parent
-           AppBarLayout's offset changes.-->
+      
       <enum name="none" value="0"/>
-      <!-- This view will be compressed (masked and parallaxed) when it reaches
-           the top of the screen and continues to scroll out of view.-->
+      
       <enum name="compress" value="1"/>
     </attr>
 
@@ -9469,22 +9484,17 @@
 
         
         <attr name="tintMode">
-            <!-- The tint is drawn on top of the drawable.
-                 [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc] -->
+            
             <enum name="src_over" value="3"/>
-            <!-- The tint is masked by the alpha channel of the drawable. The drawable’s
-                 color channels are thrown out. [Sa * Da, Sc * Da] -->
+            
             <enum name="src_in" value="5"/>
-            <!-- The tint is drawn above the drawable, but with the drawable’s alpha
-                 channel masking the result. [Da, Sc * Da + (1 - Sa) * Dc] -->
+            
             <enum name="src_atop" value="9"/>
-            <!-- Multiplies the color and alpha channels of the drawable with those of
-                 the tint. [Sa * Da, Sc * Dc] -->
+            
             <enum name="multiply" value="14"/>
-            <!-- [Sa + Da - Sa * Da, Sc + Dc - Sc * Dc] -->
+            
             <enum name="screen" value="15"/>
-            <!-- Combines the tint and icon color and alpha channels, clamping the
-                 result to valid color values. Saturate(S + D) -->
+            
             <enum name="add" value="16"/>
         </attr>
     </declare-styleable>
@@ -9496,22 +9506,17 @@
         <attr format="color" name="tickMarkTint"/>
         
         <attr name="tickMarkTintMode">
-            <!-- The tint is drawn on top of the drawable.
-                 [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc] -->
+            
             <enum name="src_over" value="3"/>
-            <!-- The tint is masked by the alpha channel of the drawable. The drawable’s
-                 color channels are thrown out. [Sa * Da, Sc * Da] -->
+            
             <enum name="src_in" value="5"/>
-            <!-- The tint is drawn above the drawable, but with the drawable’s alpha
-                 channel masking the result. [Da, Sc * Da + (1 - Sa) * Dc] -->
+            
             <enum name="src_atop" value="9"/>
-            <!-- Multiplies the color and alpha channels of the drawable with those of
-                 the tint. [Sa * Da, Sc * Dc] -->
+            
             <enum name="multiply" value="14"/>
-            <!-- [Sa + Da - Sa * Da, Sc + Dc - Sc * Dc] -->
+            
             <enum name="screen" value="15"/>
-            <!-- Combines the tint and drawable color and alpha channels, clamping the
-                 result to valid color values. Saturate(S + D) -->
+            
             <enum name="add" value="16"/>
         </attr>
     </declare-styleable>
@@ -9532,10 +9537,9 @@
         <attr name="android:textAppearance"/>
         
         <attr format="enum" name="autoSizeTextType">
-            <!-- No auto-sizing (default). -->
+            
             <enum name="none" value="0"/>
-            <!-- Uniform horizontal and vertical text size scaling to fit within the
-            container. -->
+            
             <enum name="uniform" value="1"/>
         </attr>
         
@@ -9567,22 +9571,17 @@
         <attr format="color" name="drawableTint"/>
         
         <attr name="drawableTintMode">
-            <!-- The tint is drawn on top of the drawable.
-                 [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc] -->
+            
             <enum name="src_over" value="3"/>
-            <!-- The tint is masked by the alpha channel of the drawable. The drawable’s
-                 color channels are thrown out. [Sa * Da, Sc * Da] -->
+            
             <enum name="src_in" value="5"/>
-            <!-- The tint is drawn above the drawable, but with the drawable’s alpha
-                 channel masking the result. [Da, Sc * Da + (1 - Sa) * Dc] -->
+            
             <enum name="src_atop" value="9"/>
-            <!-- Multiplies the color and alpha channels of the drawable with those of
-                 the tint. [Sa * Da, Sc * Dc] -->
+            
             <enum name="multiply" value="14"/>
-            <!-- [Sa + Da - Sa * Da, Sc + Dc - Sc * Dc] -->
+            
             <enum name="screen" value="15"/>
-            <!-- Combines the tint and drawable color and alpha channels, clamping the
-                 result to valid color values. Saturate(S + D) -->
+            
             <enum name="add" value="16"/>
         </attr>
         
@@ -9971,13 +9970,13 @@
     <attr format="integer" name="maxCharacterCount"/>
     <attr format="integer" name="number"/>
     <attr name="badgeGravity">
-      <!-- Gravity.TOP | Gravity.END -->
+      
       <enum name="TOP_END" value="8388661"/>
-      <!-- Gravity.TOP | Gravity.START -->
+      
       <enum name="TOP_START" value="8388659"/>
-      <!-- Gravity.BOTTOM | Gravity.END -->
+      
       <enum name="BOTTOM_END" value="8388693"/>
-      <!-- Gravity.BOTTOM | Gravity.START -->
+      
       <enum name="BOTTOM_START" value="8388691"/>
     </attr>
     
@@ -9993,11 +9992,9 @@
 
     
     <attr name="offsetAlignmentMode">
-      <!-- The offsets begin at the edge of the anchor. -->
+      
       <enum name="edge" value="0"/>
-      <!-- Follows the legacy offset alignment behavior. The horizontal offset begins at a variable
-           permanent inset from the edge of the anchor, and the vertical offset begins at the center
-           of the badge aligned with the edge of the anchor. -->
+      
       <enum name="legacy" value="1"/>
     </attr>
 
@@ -10023,32 +10020,20 @@
     <attr name="trackColor"/>
     
     <attr name="showAnimationBehavior">
-      <!-- No animation used; appears immediately. -->
+      
       <enum name="none" value="0"/>
-      <!--
-        Expands from the bottom edge to the top edge for the linear type;
-        expands from the inner edge to the outer edge for the circular type.
-      -->
+      
       <enum name="outward" value="1"/>
-      <!--
-        Expands from the top edge to the bottom edge for the linear type;
-        expands from the outer edge to the inner edge for the circular type.
-      -->
+      
       <enum name="inward" value="2"/>
     </attr>
     
     <attr name="hideAnimationBehavior">
-      <!-- No animation used; disappears immediately. -->
+      
       <enum name="none" value="0"/>
-      <!--
-        Collapses from the bottom edge to the top edge for the linear type;
-        collapses from the inner edge to the outer edge for the circular type.
-      -->
+      
       <enum name="outward" value="1"/>
-      <!--
-        Collapses from the top edge to the bottom edge for the linear type;
-        collapses from the outer edge to the inner edge for the circular type.
-      -->
+      
       <enum name="inward" value="2"/>
     </attr>
     
@@ -10065,23 +10050,23 @@
     <attr name="elevation"/>
     
     <attr name="fabAlignmentMode">
-      <!-- Mode that aligns the fab to the center. -->
+      
       <enum name="center" value="0"/>
-      <!-- Mode that aligns the fab to the end. -->
+      
       <enum name="end" value="1"/>
     </attr>
     
     <attr name="fabAnchorMode">
-      <!-- Mode that anchors the fab embedded inside the BottomAppBar. -->
+      
       <enum name="embed" value="0"/>
-      <!-- Mode that anchors the fab to be cradled within the top edge of the BottomAppBar. -->
+      
       <enum name="cradle" value="1"/>
     </attr>
     
     <attr name="fabAnimationMode">
-      <!-- Mode that scales the fab down to a point, moves it, then scales the fab back to its normal size. -->
+      
       <enum name="scale" value="0"/>
-      <!-- Mode that slides the fab from one alignment mode to the next. -->
+      
       <enum name="slide" value="1"/>
     </attr>
     
@@ -10106,10 +10091,9 @@
     <attr name="paddingRightSystemWindowInsets"/>
     
     <attr name="menuAlignmentMode">
-      <!-- Mode that aligns the menu automatically to avoid the FAB. Menu will be aligned at the end
-           when the FAB is center aligned, and start when the FAB is end aligned. -->
+      
       <enum name="auto" value="0"/>
-      <!-- Mode that aligns the menu to the start. -->
+      
       <enum name="start" value="1"/>
     </attr>
   </declare-styleable>
@@ -10124,7 +10108,7 @@
     <declare-styleable name="BottomSheetBehavior_Layout">
     
     <attr format="dimension" name="behavior_peekHeight">
-      <!-- Peek at the 16:9 ratio keyline of its parent -->
+      
       <enum name="auto" value="-1"/>
     </attr>
     
@@ -10149,19 +10133,17 @@
     <attr name="backgroundTint"/>
     
     <attr name="behavior_saveFlags">
-      <!-- This flag will preserve the peekHeight on configuration change. -->
+      
       <flag name="peekHeight" value="0x1"/>
-      <!-- This flag will preserve the fitToContents boolean value on configuration change. -->
+      
       <flag name="fitToContents" value="0x2"/>
-      <!-- This flag will preserve the hideable boolean value on configuration change. -->
+      
       <flag name="hideable" value="0x4"/>
-      <!-- This flag will preserve the skipCollapsed boolean value on configuration change. -->
+      
       <flag name="skipCollapsed" value="0x8"/>
-      <!-- This flag will preserve the all the aforementioned values on configuration change. -->
+      
       <flag name="all" value="-1"/>
-      <!-- This flag will not preserve the aforementioned values on configuration change. The only
-           value preserved will be the positional state, e.g. collapsed, hidden, expanded, etc.
-           This is the default behavior. -->
+      
       <flag name="none" value="0"/>
     </attr>
     
@@ -10190,31 +10172,31 @@
         <attr format="boolean" name="shortcutMatchRequired"/>
     </declare-styleable>
     <declare-styleable name="CardView">
-        <!-- Background color for CardView. -->
+        
         <attr format="color" name="cardBackgroundColor"/>
-        <!-- Corner radius for CardView. -->
+        
         <attr format="dimension" name="cardCornerRadius"/>
-        <!-- Elevation for CardView. -->
+        
         <attr format="dimension" name="cardElevation"/>
-        <!-- Maximum Elevation for CardView. -->
+        
         <attr format="dimension" name="cardMaxElevation"/>
-        <!-- Add padding in API v21+ as well to have the same measurements with previous versions. -->
+        
         <attr format="boolean" name="cardUseCompatPadding"/>
-        <!-- Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners. -->
+        
         <attr format="boolean" name="cardPreventCornerOverlap"/>
-        <!-- Inner padding between the edges of the Card and children of the CardView. -->
+        
         <attr format="dimension" name="contentPadding"/>
-        <!-- Inner padding between the left edge of the Card and children of the CardView. -->
+        
         <attr format="dimension" name="contentPaddingLeft"/>
-        <!-- Inner padding between the right edge of the Card and children of the CardView. -->
+        
         <attr format="dimension" name="contentPaddingRight"/>
-        <!-- Inner padding between the top edge of the Card and children of the CardView. -->
+        
         <attr format="dimension" name="contentPaddingTop"/>
-        <!-- Inner padding between the bottom edge of the Card and children of the CardView. -->
+        
         <attr format="dimension" name="contentPaddingBottom"/>
-        <!-- Workaround to read user defined minimum width -->
+        
         <attr name="android:minWidth"/>
-        <!-- Workaround to read user defined minimum height -->
+        
         <attr name="android:minHeight"/>
     </declare-styleable>
     <declare-styleable name="Carousel">
@@ -10244,22 +10226,17 @@
 
         
         <attr name="checkMarkTintMode">
-            <!-- The tint is drawn on top of the drawable.
-                 [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc] -->
+            
             <enum name="src_over" value="3"/>
-            <!-- The tint is masked by the alpha channel of the drawable. The drawable’s
-                 color channels are thrown out. [Sa * Da, Sc * Da] -->
+            
             <enum name="src_in" value="5"/>
-            <!-- The tint is drawn above the drawable, but with the drawable’s alpha
-                 channel masking the result. [Da, Sc * Da + (1 - Sa) * Dc] -->
+            
             <enum name="src_atop" value="9"/>
-            <!-- Multiplies the color and alpha channels of the drawable with those of
-                 the tint. [Sa * Da, Sc * Dc] -->
+            
             <enum name="multiply" value="14"/>
-            <!-- [Sa + Da - Sa * Da, Sc + Dc - Sc * Dc] -->
+            
             <enum name="screen" value="15"/>
-            <!-- Combines the tint and icon color and alpha channels, clamping the
-                 result to valid color values. Saturate(S + D) -->
+            
             <enum name="add" value="16"/>
         </attr>
     </declare-styleable>
@@ -10399,17 +10376,9 @@
     <attr format="dimension" name="indicatorInset"/>
     
     <attr name="indicatorDirectionCircular">
-      <!--
-        In the indeterminate mode, the spinner will spin clockwise; in the
-        determinate mode, the indicator will progress from the top (12 o'clock)
-        clockwise.
-      -->
+      
       <enum name="clockwise" value="0"/>
-      <!--
-        In the indeterminate mode, the spinner will spin counter-clockwise; in
-        the determinate mode, the indicator will progress from the top (12
-        o'clock) counter-clockwise.
-      -->
+      
       <enum name="counterclockwise" value="1"/>
     </attr>
   </declare-styleable>
@@ -10466,49 +10435,49 @@
 
     
     <attr name="collapsedTitleGravity">
-      <!-- Push title to the top of its container, not changing its size. -->
+      
       <flag name="top" value="0x30"/>
-      <!-- Push title to the bottom of its container, not changing its size. -->
+      
       <flag name="bottom" value="0x50"/>
-      <!-- Push title to the left of its container, not changing its size. -->
+      
       <flag name="left" value="0x03"/>
-      <!-- Push title to the right of its container, not changing its size. -->
+      
       <flag name="right" value="0x05"/>
-      <!-- Place title in the vertical center of its container, not changing its size. -->
+      
       <flag name="center_vertical" value="0x10"/>
-      <!-- Grow the vertical size of the title if needed so it completely fills its container. -->
+      
       <flag name="fill_vertical" value="0x70"/>
-      <!-- Place title in the horizontal center of its container, not changing its size. -->
+      
       <flag name="center_horizontal" value="0x01"/>
-      <!-- Place the title in the center of its container in both the vertical and horizontal axis, not changing its size. -->
+      
       <flag name="center" value="0x11"/>
-      <!-- Push title to the beginning of its container, not changing its size. -->
+      
       <flag name="start" value="0x00800003"/>
-      <!-- Push title to the end of its container, not changing its size. -->
+      
       <flag name="end" value="0x00800005"/>
     </attr>
 
     
     <attr name="expandedTitleGravity">
-      <!-- Push title to the top of its container, not changing its size. -->
+      
       <flag name="top" value="0x30"/>
-      <!-- Push title to the bottom of its container, not changing its size. -->
+      
       <flag name="bottom" value="0x50"/>
-      <!-- Push title to the left of its container, not changing its size. -->
+      
       <flag name="left" value="0x03"/>
-      <!-- Push title to the right of its container, not changing its size. -->
+      
       <flag name="right" value="0x05"/>
-      <!-- Place title in the vertical center of its container, not changing its size. -->
+      
       <flag name="center_vertical" value="0x10"/>
-      <!-- Grow the vertical size of the title if needed so it completely fills its container. -->
+      
       <flag name="fill_vertical" value="0x70"/>
-      <!-- Place title in the horizontal center of its container, not changing its size. -->
+      
       <flag name="center_horizontal" value="0x01"/>
-      <!-- Place the title in the center of its container in both the vertical and horizontal axis, not changing its size. -->
+      
       <flag name="center" value="0x11"/>
-      <!-- Push title to the beginning of its container, not changing its size. -->
+      
       <flag name="start" value="0x00800003"/>
-      <!-- Push title to the end of its container, not changing its size. -->
+      
       <flag name="end" value="0x00800005"/>
     </attr>
 
@@ -10518,9 +10487,9 @@
     <attr name="title"/>
     
     <attr name="titleCollapseMode">
-      <!-- The expanded title will continuously scale and translate to its final collapsed position. -->
+      
       <enum name="scale" value="0"/>
-      <!-- The expanded title will fade out and translate, and the collapsed title will fade in. -->
+      
       <enum name="fade" value="1"/>
     </attr>
     
@@ -10535,12 +10504,11 @@
   </declare-styleable>
     <declare-styleable name="CollapsingToolbarLayout_Layout">
     <attr name="layout_collapseMode">
-      <!-- The view will act as normal with no collapsing behavior. -->
+      
       <enum name="none" value="0"/>
-      <!-- The view will pin in place. -->
+      
       <enum name="pin" value="1"/>
-      <!-- The view will scroll in a parallax fashion. See the
-           layout_collapseParallaxMultiplier attribute to change the multiplier. -->
+      
       <enum name="parallax" value="2"/>
     </attr>
 
@@ -10566,22 +10534,17 @@
 
         
         <attr name="buttonTintMode">
-            <!-- The tint is drawn on top of the drawable.
-                 [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc] -->
+            
             <enum name="src_over" value="3"/>
-            <!-- The tint is masked by the alpha channel of the drawable. The drawable’s
-                 color channels are thrown out. [Sa * Da, Sc * Da] -->
+            
             <enum name="src_in" value="5"/>
-            <!-- The tint is drawn above the drawable, but with the drawable’s alpha
-                 channel masking the result. [Da, Sc * Da + (1 - Sa) * Dc] -->
+            
             <enum name="src_atop" value="9"/>
-            <!-- Multiplies the color and alpha channels of the drawable with those of
-                 the tint. [Sa * Da, Sc * Dc] -->
+            
             <enum name="multiply" value="14"/>
-            <!-- [Sa + Da - Sa * Da, Sc + Dc - Sc * Dc] -->
+            
             <enum name="screen" value="15"/>
-            <!-- Combines the tint and icon color and alpha channels, clamping the
-                 result to valid color values. Saturate(S + D) -->
+            
             <enum name="add" value="16"/>
         </attr>
     </declare-styleable>
@@ -10589,30 +10552,29 @@
         <attr name="android:orientation"/>
         <attr name="android:id"/>
 
-        <!-- Controls the initial visibility of the view.  -->
+        
         <attr name="android:visibility"/>
         <attr name="visibilityMode"/>
 
-        <!-- alpha property of the view, as a value between 0 (completely transparent) and 1
-             (completely opaque). -->
+        
         <attr name="android:alpha"/>
 
-        <!-- base z depth of the view. -->
+        
         <attr name="android:elevation"/>
 
-        <!-- rotation of the view, in degrees. -->
+        
         <attr name="android:rotation"/>
 
-        <!-- rotation of the view around the x axis, in degrees. -->
+        
         <attr name="android:rotationX"/>
 
-        <!-- rotation of the view around the y axis, in degrees. -->
+        
         <attr name="android:rotationY"/>
 
-        <!-- scale of the view in the x direction. -->
+        
         <attr name="android:scaleX"/>
 
-        <!-- scale of the view in the y direction. -->
+        
         <attr name="android:scaleY"/>
         <attr name="pivotAnchor"/>
 
@@ -10620,49 +10582,29 @@
         <attr name="android:transformPivotY"/>
         <attr name="transformPivotTarget"/>
 
-        <!-- translation in x of the view. This value is added post-layout to the left
-             property of the view, which is set by its layout. -->
+        
         <attr name="android:translationX"/>
-        <!-- translation in y of the view. This value is added post-layout to the top
-             property of the view, which is set by its layout. -->
+        
         <attr name="android:translationY"/>
-        <!-- translation in z of the view. This value is added to its elevation. -->
+        
         <attr name="android:translationZ"/>
-        <!-- Specifies the basic width of the view.  This is a required attribute
-             for any view inside of a containing layout manager.  Its value may
-             be a dimension (such as "12dip") for a constant width or one of
-             the special constants. -->
+        
         <attr name="android:layout_width"/>
-        <!-- Specifies the basic height of the view.  This is a required attribute
-             for any view inside of a containing layout manager.  Its value may
-             be a dimension (such as "12dip") for a constant height or one of
-             the special constants. -->
+        
         <attr name="android:layout_height"/>
-        <!--  Specifies extra space on the start side of this view.
-              This space is outside this view's bounds.
-              Margin values should be positive.-->
+        
         <attr name="layout_constraintWidth"/>
         <attr name="layout_constraintHeight"/>
         <attr name="android:layout_marginStart"/>
-        <!--  Specifies extra space on the bottom side of this view.
-              This space is outside this view's bounds.
-              Margin values should be positive.-->
+        
         <attr name="android:layout_marginBottom"/>
-        <!--  Specifies extra space on the top side of this view.
-              This space is outside this view's bounds.
-              Margin values should be positive.-->
+        
         <attr name="android:layout_marginTop"/>
-        <!--  Specifies extra space on the end side of this view.
-              This space is outside this view's bounds.
-              Margin values should be positive.-->
+        
         <attr name="android:layout_marginEnd"/>
-        <!--  Specifies extra space on the left side of this view.
-              This space is outside this view's bounds.
-              Margin values should be positive. -->
+        
         <attr name="android:layout_marginLeft"/>
-        <!--  Specifies extra space on the right side of this view.
-              This space is outside this view's bounds.
-              Margin values should be positive.-->
+        
         <attr name="android:layout_marginRight"/>
 
         <attr name="layout_constraintCircle"/>
@@ -10744,8 +10686,8 @@
         <attr name="flow_maxElementsWrap"/>
         <attr name="flow_horizontalGap"/>
         <attr name="flow_verticalGap"/>
-        <!--        <attr name="flow_horizontalSeparator" />-->
-        <!--        <attr name="flow_verticalSeparator" />-->
+        
+        
 
         <attr name="flow_firstHorizontalStyle"/>
         <attr name="flow_firstVerticalStyle"/>
@@ -10808,8 +10750,8 @@
         <attr name="flow_horizontalAlign"/>
         <attr name="flow_verticalBias"/>
         <attr name="flow_horizontalBias"/>
-        <!--        <attr name="flow_horizontalSeparator" />-->
-        <!--        <attr name="flow_verticalSeparator" />-->
+        
+        
 
         <attr name="flow_firstHorizontalStyle"/>
         <attr name="flow_firstVerticalStyle"/>
@@ -10914,30 +10856,29 @@
         <attr name="android:id"/>
         <attr name="motionTarget"/>
 
-        <!-- Controls the initial visibility of the view.  -->
+        
         <attr name="android:visibility"/>
         <attr name="visibilityMode"/>
 
-        <!-- alpha property of the view, as a value between 0 (completely transparent) and 1
-             (completely opaque). -->
+        
         <attr name="android:alpha"/>
 
-        <!-- base z depth of the view. -->
+        
         <attr name="android:elevation"/>
 
-        <!-- rotation of the view, in degrees. -->
+        
         <attr name="android:rotation"/>
 
-        <!-- rotation of the view around the x axis, in degrees. -->
+        
         <attr name="android:rotationX"/>
 
-        <!-- rotation of the view around the y axis, in degrees. -->
+        
         <attr name="android:rotationY"/>
 
-        <!-- scale of the view in the x direction. -->
+        
         <attr name="android:scaleX"/>
 
-        <!-- scale of the view in the y direction. -->
+        
         <attr name="android:scaleY"/>
         <attr name="pivotAnchor"/>
 
@@ -10945,49 +10886,29 @@
         <attr name="android:transformPivotY"/>
         <attr name="transformPivotTarget"/>
 
-        <!-- translation in x of the view. This value is added post-layout to the left
-             property of the view, which is set by its layout. -->
+        
         <attr name="android:translationX"/>
-        <!-- translation in y of the view. This value is added post-layout to the top
-             property of the view, which is set by its layout. -->
+        
         <attr name="android:translationY"/>
-        <!-- translation in z of the view. This value is added to its elevation. -->
+        
         <attr name="android:translationZ"/>
-        <!-- Specifies the basic width of the view.  This is a required attribute
-             for any view inside of a containing layout manager.  Its value may
-             be a dimension (such as "12dip") for a constant width or one of
-             the special constants. -->
+        
         <attr name="android:layout_width"/>
-        <!-- Specifies the basic height of the view.  This is a required attribute
-             for any view inside of a containing layout manager.  Its value may
-             be a dimension (such as "12dip") for a constant height or one of
-             the special constants. -->
+        
         <attr name="android:layout_height"/>
-        <!--  Specifies extra space on the start side of this view.
-              This space is outside this view's bounds.
-              Margin values should be positive.-->
+        
         <attr name="layout_constraintWidth"/>
         <attr name="layout_constraintHeight"/>
         <attr name="android:layout_marginStart"/>
-        <!--  Specifies extra space on the bottom side of this view.
-              This space is outside this view's bounds.
-              Margin values should be positive.-->
+        
         <attr name="android:layout_marginBottom"/>
-        <!--  Specifies extra space on the top side of this view.
-              This space is outside this view's bounds.
-              Margin values should be positive.-->
+        
         <attr name="android:layout_marginTop"/>
-        <!--  Specifies extra space on the end side of this view.
-              This space is outside this view's bounds.
-              Margin values should be positive.-->
+        
         <attr name="android:layout_marginEnd"/>
-        <!--  Specifies extra space on the left side of this view.
-              This space is outside this view's bounds.
-              Margin values should be positive. -->
+        
         <attr name="android:layout_marginLeft"/>
-        <!--  Specifies extra space on the right side of this view.
-              This space is outside this view's bounds.
-              Margin values should be positive.-->
+        
         <attr name="android:layout_marginRight"/>
 
         <attr name="layout_constraintCircleRadius"/>
@@ -11052,8 +10973,8 @@
         <attr name="flow_maxElementsWrap"/>
         <attr name="flow_horizontalGap"/>
         <attr name="flow_verticalGap"/>
-        <!--        <attr name="flow_horizontalSeparator" />-->
-        <!--        <attr name="flow_verticalSeparator" />-->
+        
+        
 
         <attr name="flow_firstHorizontalStyle"/>
         <attr name="flow_firstVerticalStyle"/>
@@ -11107,18 +11028,11 @@
         <attr name="android:translationY"/>
         <attr name="android:translationZ"/>
         <attr name="android:layout_width"/>
-        <!-- Specifies the basic height of the view.  This is a required attribute
-     for any view inside of a containing layout manager.  Its value may
-     be a dimension (such as "12dip") for a constant height or one of
-     the special constants. -->
+        
         <attr name="android:layout_height"/>
-        <!--  Specifies extra space on the start side of this view.
-      This space is outside this view's bounds.
-      Margin values should be positive.-->
+        
         <attr name="android:layout_marginStart"/>
-        <!--  Specifies extra space on the bottom side of this view.
-              This space is outside this view's bounds.
-              Margin values should be positive.-->
+        
         <attr name="android:layout_marginBottom"/>
         <attr name="android:layout_marginTop"/>
         <attr name="android:layout_marginEnd"/>
@@ -11204,8 +11118,8 @@
         <attr name="flow_maxElementsWrap"/>
         <attr name="flow_horizontalGap"/>
         <attr name="flow_verticalGap"/>
-        <!--        <attr name="flow_horizontalSeparator" />-->
-        <!--        <attr name="flow_verticalSeparator" />-->
+        
+        
 
         <attr name="flow_firstHorizontalStyle"/>
         <attr name="flow_firstVerticalStyle"/>
@@ -11232,101 +11146,86 @@
 
     </declare-styleable>
     <declare-styleable name="CoordinatorLayout">
-        <!-- A reference to an array of integers representing the
-             locations of horizontal keylines in dp from the starting edge.
-             Child views can refer to these keylines for alignment using
-             layout_keyline="index" where index is a 0-based index into
-             this array. -->
+        
         <attr format="reference" name="keylines"/>
-        <!-- Drawable to display behind the status bar when the view is set to draw behind it. -->
+        
         <attr format="color|reference" name="statusBarBackground"/>
     </declare-styleable>
     <declare-styleable name="CoordinatorLayout_Layout">
         <attr name="android:layout_gravity"/>
-        <!-- The class name of a Behavior class defining special runtime behavior
-             for this child view. -->
+        
         <attr format="string" name="layout_behavior"/>
-        <!-- The id of an anchor view that this view should position relative to. -->
+        
         <attr format="reference" name="layout_anchor"/>
-        <!-- The index of a keyline this view should position relative to.
-             android:layout_gravity will affect how the view aligns to the
-             specified keyline. -->
+        
         <attr format="integer" name="layout_keyline"/>
 
-        <!-- Specifies how an object should position relative to an anchor, on both the X and Y axes,
-             within its parent's bounds.  -->
+        
         <attr name="layout_anchorGravity">
-            <!-- Push object to the top of its container, not changing its size. -->
+            
             <flag name="top" value="0x30"/>
-            <!-- Push object to the bottom of its container, not changing its size. -->
+            
             <flag name="bottom" value="0x50"/>
-            <!-- Push object to the left of its container, not changing its size. -->
+            
             <flag name="left" value="0x03"/>
-            <!-- Push object to the right of its container, not changing its size. -->
+            
             <flag name="right" value="0x05"/>
-            <!-- Place object in the vertical center of its container, not changing its size. -->
+            
             <flag name="center_vertical" value="0x10"/>
-            <!-- Grow the vertical size of the object if needed so it completely fills its container. -->
+            
             <flag name="fill_vertical" value="0x70"/>
-            <!-- Place object in the horizontal center of its container, not changing its size. -->
+            
             <flag name="center_horizontal" value="0x01"/>
-            <!-- Grow the horizontal size of the object if needed so it completely fills its container. -->
+            
             <flag name="fill_horizontal" value="0x07"/>
-            <!-- Place the object in the center of its container in both the vertical and horizontal axis, not changing its size. -->
+            
             <flag name="center" value="0x11"/>
-            <!-- Grow the horizontal and vertical size of the object if needed so it completely fills its container. -->
+            
             <flag name="fill" value="0x77"/>
-            <!-- Additional option that can be set to have the top and/or bottom edges of
-                 the child clipped to its container's bounds.
-                 The clip will be based on the vertical gravity: a top gravity will clip the bottom
-                 edge, a bottom gravity will clip the top edge, and neither will clip both edges. -->
+            
             <flag name="clip_vertical" value="0x80"/>
-            <!-- Additional option that can be set to have the left and/or right edges of
-                 the child clipped to its container's bounds.
-                 The clip will be based on the horizontal gravity: a left gravity will clip the right
-                 edge, a right gravity will clip the left edge, and neither will clip both edges. -->
+            
             <flag name="clip_horizontal" value="0x08"/>
-            <!-- Push object to the beginning of its container, not changing its size. -->
+            
             <flag name="start" value="0x00800003"/>
-            <!-- Push object to the end of its container, not changing its size. -->
+            
             <flag name="end" value="0x00800005"/>
         </attr>
 
-        <!-- Specifies how this view insets the CoordinatorLayout and make some other views
-             dodge it. -->
+        
         <attr format="enum" name="layout_insetEdge">
-            <!-- Don't inset. -->
+            
             <enum name="none" value="0x0"/>
-            <!-- Inset the top edge. -->
+            
             <enum name="top" value="0x30"/>
-            <!-- Inset the bottom edge. -->
+            
             <enum name="bottom" value="0x50"/>
-            <!-- Inset the left edge. -->
+            
             <enum name="left" value="0x03"/>
-            <!-- Inset the right edge. -->
+            
             <enum name="right" value="0x05"/>
-            <!-- Inset the start edge. -->
+            
             <enum name="start" value="0x00800003"/>
-            <!-- Inset the end edge. -->
+            
             <enum name="end" value="0x00800005"/>
         </attr>
-        <!-- Specifies how this view dodges the inset edges of the CoordinatorLayout. -->
+        
         <attr name="layout_dodgeInsetEdges">
-            <!-- Don't dodge any edges -->
+            
             <flag name="none" value="0x0"/>
-            <!-- Dodge the top inset edge. -->
+            
             <flag name="top" value="0x30"/>
-            <!-- Dodge the bottom inset edge. -->
+            
             <flag name="bottom" value="0x50"/>
-            <!-- Dodge the left inset edge. -->
+            
             <flag name="left" value="0x03"/>
-            <!-- Dodge the right inset edge. -->
+            
             <flag name="right" value="0x05"/>
-            <!-- Dodge the start inset edge. -->
+            
             <flag name="start" value="0x00800003"/>
-            <!-- Dodge the end inset edge. -->
+            
             <flag name="end" value="0x00800005"/>
-            <!-- Dodge all the inset edges. -->
+            
             <flag name="all" value="0x77"/>
         </attr>
     </declare-styleable>
@@ -11362,7 +11261,7 @@
         <attr format="dimension" name="thickness"/>
     </declare-styleable>
     <declare-styleable name="DrawerLayout">
-        <!-- The height difference between the drawer and the base surface. Only takes effect on API 21 and above -->
+        
         <attr name="elevation"/>
     </declare-styleable>
     <declare-styleable name="ExtendedFloatingActionButton">
@@ -11370,11 +11269,11 @@
     <attr name="elevation"/>
     
     <attr name="extendStrategy">
-      <!-- Strategy to extend FAB back to the width it shrunk from. -->
+      
       <enum name="auto" value="0"/>
-      <!-- Strategy to extend FAB to wrap content. -->
+      
       <enum name="wrap_content" value="1"/>
-      <!-- Strategy to extend FAB to match parent. -->
+      
       <enum name="match_parent" value="2"/>
     </attr>
     
@@ -11406,11 +11305,11 @@
 
     
     <attr name="fabSize">
-      <!-- A size which will change based on the window size. -->
+      
       <enum name="auto" value="-1"/>
-      <!-- The normal sized button. -->
+      
       <enum name="normal" value="0"/>
-      <!-- The mini sized button. -->
+      
       <enum name="mini" value="1"/>
     </attr>
     
@@ -11459,23 +11358,14 @@
         <attr format="reference" name="fontProviderCerts"/>
         
         <attr name="fontProviderFetchStrategy">
-            <!-- The blocking font fetch works as follows.
-              First, check the local cache, then if the requested font is not cached, request the
-              font from the provider and wait until it is finished.  You can change the length of
-              the timeout by modifying fontProviderFetchTimeout.  If the timeout happens, the
-              default typeface will be used instead. -->
+            
             <enum name="blocking" value="0"/>
-            <!-- The async font fetch works as follows.
-              First, check the local cache, then if the requeted font is not cached, trigger a
-              request the font and continue with layout inflation. Once the font fetch succeeds, the
-              target text view will be refreshed with the downloaded font data. The
-              fontProviderFetchTimeout will be ignored if async loading is specified. -->
+            
             <enum name="async" value="1"/>
         </attr>
         
         <attr format="integer" name="fontProviderFetchTimeout">
-            <!-- A special value for the timeout. In this case, the blocking font fetching will not
-              timeout and wait until a reply is received from the font provider. -->
+            
             <enum name="forever" value="-1"/>
         </attr>
         
@@ -11590,7 +11480,7 @@
 
         <attr name="motionProgress"/>
 
-        <!-- interpolated -->
+        
         <attr name="android:alpha"/>
         <attr name="android:elevation"/>
         <attr name="android:rotation"/>
@@ -11640,25 +11530,23 @@
 
     </declare-styleable>
     <declare-styleable name="KeyPosition">
-        <!-- How this keyframe's deviation for linear path is calculated. -->
+        
         <attr format="enum" name="keyPositionType">
             <enum name="deltaRelative" value="0"/>
             <enum name="pathRelative" value="1"/>
             <enum name="parentRelative" value="2"/>
         </attr>
 
-        <!--  Percent distance from start to end along X axis (deltaRelative)
-              or along the path in pathRelative. -->
+        
         <attr format="float" name="percentX"/>
 
-        <!-- Percent distance from start to end along Y axis (deltaRelative)
-             or perpendicular to the path in pathRelative. -->
+        
         <attr format="float" name="percentY"/>
 
-        <!-- Percent of change in the width. Note if the width does not change this has no effect.This overrides sizePercent. -->
+        
         <attr format="float" name="percentWidth"/>
 
-        <!-- Percent of change in the width. Note if the width does not change this has no effect.This overrides sizePercent. -->
+        
         <attr format="float" name="percentHeight"/>
         <attr name="framePosition"/>
         <attr name="motionTarget"/>
@@ -11679,10 +11567,10 @@
         <attr name="waveOffset"/>
         <attr name="wavePhase"/>
 
-        <!--  The time in milliseconds before the wave decays to less than 1/256-->
+        
         <attr name="waveDecay"/>
 
-        <!-- interpolated -->
+        
         <attr name="android:alpha"/>
         <attr name="android:elevation"/>
         <attr name="android:rotation"/>
@@ -11706,10 +11594,10 @@
         <attr format="reference" name="viewTransitionOnPositiveCross"/>
         <attr format="reference" name="viewTransitionOnCross"/>
         <attr format="float" name="triggerSlack"/>
-        <!-- The id of this trigger use when a callback listens for triggers -->
+        
         <attr format="reference" name="triggerId"/>
         <attr format="boolean" name="motion_postLayoutCollision"/>
-        <!-- Trigger if the motionTarget collides with the other motionTarget-->
+        
         <attr format="reference" name="motion_triggerOnCollision"/>
     </declare-styleable>
     <declare-styleable name="Layout">
@@ -11831,32 +11719,20 @@
     <declare-styleable name="LinearProgressIndicator">
     
     <attr name="indeterminateAnimationType">
-      <!--
-        The track will be filled with three adjacent segments in iterative different colors.
-        This type is only available when there are three or more indicator
-        colors.
-      -->
+      
       <enum name="contiguous" value="0"/>
-      <!--
-        There will be two disjoint segments in the same color per cycle. The color iterates between cycles.
-      -->
+      
       <enum name="disjoint" value="1"/>
     </attr>
     
     <attr name="indicatorDirectionLinear">
-      <!-- Animated from the left end to the right end of the track. -->
+      
       <enum name="leftToRight" value="0"/>
-      <!-- Animated from the right end to the left end of the track. -->
+      
       <enum name="rightToLeft" value="1"/>
-      <!--
-        Animated from the start position to the end position of the track.
-        This will be same as the leftToRight for API before 17.
-      -->
+      
       <enum name="startToEnd" value="2"/>
-      <!--
-        Animated from the end position to the start position of the track.
-        This will be same as the rightToLeft for API before 17.
-      -->
+      
       <enum name="endToStart" value="3"/>
     </attr>
   </declare-styleable>
@@ -11914,20 +11790,17 @@
     <attr format="dimension" name="iconPadding"/>
     
     <attr name="iconGravity">
-      <!-- Push icon to the start of the button. -->
+      
       <flag name="start" value="0x1"/>
-      <!-- Push the icon to the start of the text keeping a distance equal to
-           {@code iconPadding} from the text. -->
+      
       <flag name="textStart" value="0x2"/>
-      <!-- Push icon to the end of the button. -->
+      
       <flag name="end" value="0x3"/>
-      <!-- Push the icon to the end of the text keeping a distance equal to
-           {@code iconPadding} from the text. -->
+      
       <flag name="textEnd" value="0x4"/>
-      <!-- Push the icon to the top of the button. -->
+      
       <flag name="top" value="0x10"/>
-      <!-- Push the icon to the top of the text keeping a distance equal to
-           {@code iconPadding} from the text. -->
+      
       <flag name="textTop" value="0x20"/>
     </attr>
     
@@ -11999,13 +11872,13 @@
     <attr format="dimension" name="checkedIconMargin"/>
     
     <attr name="checkedIconGravity">
-      <!-- Gravity.TOP | Gravity.END -->
+      
       <enum name="TOP_END" value="8388661"/>
-      <!-- Gravity.TOP | Gravity.START -->
+      
       <enum name="TOP_START" value="8388659"/>
-      <!-- Gravity.BOTTOM | Gravity.END -->
+      
       <enum name="BOTTOM_END" value="8388693"/>
-      <!-- Gravity.BOTTOM | Gravity.START -->
+      
       <enum name="BOTTOM_START" value="8388691"/>
     </attr>
     
@@ -12035,22 +11908,17 @@
     <attr format="reference|color" name="buttonIconTint"/>
     
     <attr name="buttonIconTintMode">
-      <!-- The tint is drawn on top of the drawable.
-           [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc] -->
+      
       <enum name="src_over" value="3"/>
-      <!-- The tint is masked by the alpha channel of the drawable. The drawable’s
-           color channels are thrown out. [Sa * Da, Sc * Da] -->
+      
       <enum name="src_in" value="5"/>
-      <!-- The tint is drawn above the drawable, but with the drawable’s alpha
-           channel masking the result. [Da, Sc * Da + (1 - Sa) * Dc] -->
+      
       <enum name="src_atop" value="9"/>
-      <!-- Multiplies the color and alpha channels of the drawable with those of
-           the tint. [Sa * Da, Sc * Dc] -->
+      
       <enum name="multiply" value="14"/>
-      <!-- [Sa + Da - Sa * Da, Sc + Dc - Sc * Dc] -->
+      
       <enum name="screen" value="15"/>
-      <!-- Combines the tint and drawable color and alpha channels, clamping the
-           result to valid color values. Saturate(S + D) -->
+      
       <enum name="add" value="16"/>
     </attr>
     
@@ -12061,11 +11929,11 @@
     <attr format="string" name="errorAccessibilityLabel"/>
     
     <attr name="checkedState">
-      <!-- The unchecked state of the checkbox. -->
+      
       <enum name="unchecked" value="0"/>
-      <!-- The checked state of the checkbox. -->
+      
       <enum name="checked" value="1"/>
-      <!-- The indeterminate state of the checkbox. -->
+      
       <enum name="indeterminate" value="2"/>
     </attr>
   </declare-styleable>
@@ -12106,22 +11974,17 @@
     <attr format="color" name="thumbIconTint"/>
     
     <attr name="thumbIconTintMode">
-      <!-- The tint is drawn on top of the drawable.
-           [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc] -->
+      
       <enum name="src_over" value="3"/>
-      <!-- The tint is masked by the alpha channel of the drawable. The drawable’s
-           color channels are thrown out. [Sa * Da, Sc * Da] -->
+      
       <enum name="src_in" value="5"/>
-      <!-- The tint is drawn above the drawable, but with the drawable’s alpha
-           channel masking the result. [Da, Sc * Da + (1 - Sa) * Dc] -->
+      
       <enum name="src_atop" value="9"/>
-      <!-- Multiplies the color and alpha channels of the drawable with those of
-           the tint. [Sa * Da, Sc * Dc] -->
+      
       <enum name="multiply" value="14"/>
-      <!-- [Sa + Da - Sa * Da, Sc + Dc - Sc * Dc] -->
+      
       <enum name="screen" value="15"/>
-      <!-- Combines the tint and drawable color and alpha channels, clamping the
-           result to valid color values. Saturate(S + D) -->
+      
       <enum name="add" value="16"/>
     </attr>
     
@@ -12130,22 +11993,17 @@
     <attr format="color" name="trackDecorationTint"/>
     
     <attr name="trackDecorationTintMode">
-      <!-- The tint is drawn on top of the drawable.
-           [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc] -->
+      
       <enum name="src_over" value="3"/>
-      <!-- The tint is masked by the alpha channel of the drawable. The drawable’s
-           color channels are thrown out. [Sa * Da, Sc * Da] -->
+      
       <enum name="src_in" value="5"/>
-      <!-- The tint is drawn above the drawable, but with the drawable’s alpha
-           channel masking the result. [Da, Sc * Da + (1 - Sa) * Dc] -->
+      
       <enum name="src_atop" value="9"/>
-      <!-- Multiplies the color and alpha channels of the drawable with those of
-           the tint. [Sa * Da, Sc * Dc] -->
+      
       <enum name="multiply" value="14"/>
-      <!-- [Sa + Da - Sa * Da, Sc + Dc - Sc * Dc] -->
+      
       <enum name="screen" value="15"/>
-      <!-- Combines the tint and drawable color and alpha channels, clamping the
-           result to valid color values. Saturate(S + D) -->
+      
       <enum name="add" value="16"/>
     </attr>
   </declare-styleable>
@@ -12176,27 +12034,21 @@
     <attr format="boolean" name="logoAdjustViewBounds"/>
     
     <attr name="logoScaleType">
-      <!-- Scale using the image matrix when drawing. See
-           {@link android.widget.ImageView#setImageMatrix(Matrix)}. -->
+      
       <enum name="matrix" value="0"/>
-      <!-- Scale the image using {@link android.graphics.Matrix.ScaleToFit#FILL}. -->
+      
       <enum name="fitXY" value="1"/>
-      <!-- Scale the image using {@link android.graphics.Matrix.ScaleToFit#START}. -->
+      
       <enum name="fitStart" value="2"/>
-      <!-- Scale the image using {@link android.graphics.Matrix.ScaleToFit#CENTER}. -->
+      
       <enum name="fitCenter" value="3"/>
-      <!-- Scale the image using {@link android.graphics.Matrix.ScaleToFit#END}. -->
+      
       <enum name="fitEnd" value="4"/>
-      <!-- Center the image in the view, but perform no scaling. -->
+      
       <enum name="center" value="5"/>
-      <!-- Scale the image uniformly (maintain the image's aspect ratio) so both dimensions
-           (width and height) of the image will be equal to or larger than the corresponding
-           dimension of the view (minus padding). The image is then centered in the view. -->
+      
       <enum name="centerCrop" value="6"/>
-      <!-- Scale the image uniformly (maintain the image's aspect ratio) so that both
-           dimensions (width and height) of the image will be equal to or less than the
-           corresponding dimension of the view (minus padding). The image is then centered in
-           the view. -->
+      
       <enum name="centerInside" value="7"/>
     </attr>
   </declare-styleable>
@@ -12284,24 +12136,15 @@
 
         
         <attr name="showAsAction">
-            <!-- Never show this item in an action bar, show it in the overflow menu instead.
-                 Mutually exclusive with "ifRoom" and "always". -->
+            
             <flag name="never" value="0"/>
-            <!-- Show this item in an action bar if there is room for it as determined
-                 by the system. Favor this option over "always" where possible.
-                 Mutually exclusive with "never" and "always". -->
+            
             <flag name="ifRoom" value="1"/>
-            <!-- Always show this item in an actionbar, even if it would override
-                 the system's limits of how much stuff to put there. This may make
-                 your action bar look bad on some screens. In most cases you should
-                 use "ifRoom" instead. Mutually exclusive with "ifRoom" and "never". -->
+            
             <flag name="always" value="2"/>
-            <!-- When this item is shown as an action in the action bar, show a text
-                 label with it even if it has an icon representation. -->
+            
             <flag name="withText" value="4"/>
-            <!-- This item's action view collapses to a normal menu
-                 item. When expanded, the action view takes over a
-                 larger segment of its container. -->
+            
             <flag name="collapseActionView" value="8"/>
         </attr>
 
@@ -12325,22 +12168,17 @@
 
         
         <attr name="iconTintMode">
-            <!-- The tint is drawn on top of the icon.
-                 [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc] -->
+            
             <enum name="src_over" value="3"/>
-            <!-- The tint is masked by the alpha channel of the icon. The icon’s
-                 color channels are thrown out. [Sa * Da, Sc * Da] -->
+            
             <enum name="src_in" value="5"/>
-            <!-- The tint is drawn above the icon, but with the icon’s alpha
-                 channel masking the result. [Da, Sc * Da + (1 - Sa) * Dc] -->
+            
             <enum name="src_atop" value="9"/>
-            <!-- Multiplies the color and alpha channels of the icon with those of
-                 the tint. [Sa * Da, Sc * Dc] -->
+            
             <enum name="multiply" value="14"/>
-            <!-- [Sa + Da - Sa * Da, Sc + Dc - Sc * Dc] -->
+            
             <enum name="screen" value="15"/>
-            <!-- Combines the tint and icon color and alpha channels, clamping the
-                 result to valid color values. Saturate(S + D) -->
+            
             <enum name="add" value="16"/>
         </attr>
 
@@ -12482,14 +12320,13 @@
     <attr name="menu"/>
     
     <attr name="labelVisibilityMode">
-      <!-- Label behaves as "labeled" when there are 3 items or less, or "selected" when there are
-           4 items or more. -->
+      
       <enum name="auto" value="-1"/>
-      <!-- Label is shown on the selected navigation item. -->
+      
       <enum name="selected" value="0"/>
-      <!-- Label is shown on all navigation items. -->
+      
       <enum name="labeled" value="1"/>
-      <!-- Label is not shown on any navigation items. -->
+      
       <enum name="unlabeled" value="2"/>
     </attr>
     
@@ -12525,14 +12362,14 @@
     <attr name="headerLayout"/>
    
     <attr name="menuGravity">
-      <!-- Navigation rail destinations will be aligned as a group at the top. This is the default behavior. -->
-      <!-- Gravity.TOP | Gravity.CENTER_HORIZONTAL-->
+      
+      
       <enum name="top" value="49"/>
-      <!-- Navigation rail destinations will be aligned as a group at the center. -->
-      <!-- Gravity.CENTER -->
+      
+      
       <enum name="center" value="17"/>
-      <!-- Navigation rail destinations will be aligned as a group at the bottom. -->
-      <!-- Gravity.BOTTOM | Gravity.CENTER_HORIZONTAL -->
+      
+      
       <enum name="bottom" value="81"/>
     </attr>
     
@@ -12666,15 +12503,14 @@
         <attr format="boolean" name="state_above_anchor"/>
     </declare-styleable>
     <declare-styleable name="PropertySet">
-        <!-- Controls the initial visibility of the view.  -->
+        
         <attr name="android:visibility"/>
         <attr name="visibilityMode"/>
 
-        <!-- alpha property of the view, as a value between 0 (completely transparent) and 1
-             (completely opaque). -->
+        
         <attr name="android:alpha"/>
 
-        <!-- calls setProgress(float) on the view if the method exist -->
+        
         <attr name="motionProgress"/>
         <attr name="layout_constraintTag"/>
     </declare-styleable>
@@ -12696,20 +12532,12 @@
         <attr format="dimension" name="paddingTopNoTitle"/>
     </declare-styleable>
     <declare-styleable name="RecyclerView">
-        <!-- Class name of the Layout Manager to be used.
-        <p/>
-        The class must ext androidx.recyclerview.widget.RecyclerViewView$LayoutManager
-        and have either a default constructor or constructor with the signature
-        (android.content.Context, android.util.AttributeSet, int, int).
-         <p/>
-         If the name starts with a '.', application package is prefixed.
-         Else, if the name contains a '.', the classname is assumed to be a full class name.
-         Else, the recycler view package naandroidx.appcompat.widgetdget) is prefixed. -->
+        
         <attr format="string" name="layoutManager"/>
 
-        <!-- ============================= -->
-        <!-- Attributes for Layout Manager -->
-        <!-- ============================= -->
+        
+        
+        
         <eat-comment/>
 
         <attr name="android:orientation"/>
@@ -12845,13 +12673,13 @@
     <attr format="dimension" name="haloRadius"/>
     
     <attr name="labelBehavior">
-      <!-- Mode that draws the label floating above the bounds of this view. -->
+      
       <enum name="floating" value="0"/>
-      <!-- Mode that draws the label within the bounds of the view. -->
+      
       <enum name="withinBounds" value="1"/>
-      <!-- Mode that prevents the label from being drawn. -->
+      
       <enum name="gone" value="2"/>
-      <!-- Mode that always draws the label. -->
+      
       <enum name="visible" value="3"/>
     </attr>
     
@@ -12903,9 +12731,9 @@
     <attr format="dimension" name="maxActionInlineWidth"/>
     
     <attr format="enum" name="animationMode">
-      <!-- Mode that corresponds to the slide in and out animations. -->
+      
       <enum name="slide" value="0"/>
-      <!-- Mode that corresponds to the fade in and out animations. -->
+      
       <enum name="fade" value="1"/>
     </attr>
     
@@ -12967,22 +12795,17 @@
         <attr format="color" name="thumbTint"/>
         
         <attr name="thumbTintMode">
-            <!-- The tint is drawn on top of the drawable.
-                 [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc] -->
+            
             <enum name="src_over" value="3"/>
-            <!-- The tint is masked by the alpha channel of the drawable. The drawable’s
-                 color channels are thrown out. [Sa * Da, Sc * Da] -->
+            
             <enum name="src_in" value="5"/>
-            <!-- The tint is drawn above the drawable, but with the drawable’s alpha
-                 channel masking the result. [Da, Sc * Da + (1 - Sa) * Dc] -->
+            
             <enum name="src_atop" value="9"/>
-            <!-- Multiplies the color and alpha channels of the drawable with those of
-                 the tint. [Sa * Da, Sc * Dc] -->
+            
             <enum name="multiply" value="14"/>
-            <!-- [Sa + Da - Sa * Da, Sc + Dc - Sc * Dc] -->
+            
             <enum name="screen" value="15"/>
-            <!-- Combines the tint and drawable color and alpha channels, clamping the
-                 result to valid color values. Saturate(S + D) -->
+            
             <enum name="add" value="16"/>
         </attr>
         
@@ -12991,22 +12814,17 @@
         <attr format="color" name="trackTint"/>
         
         <attr name="trackTintMode">
-            <!-- The tint is drawn on top of the drawable.
-                 [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc] -->
+            
             <enum name="src_over" value="3"/>
-            <!-- The tint is masked by the alpha channel of the drawable. The drawable’s
-                 color channels are thrown out. [Sa * Da, Sc * Da] -->
+            
             <enum name="src_in" value="5"/>
-            <!-- The tint is drawn above the drawable, but with the drawable’s alpha
-                 channel masking the result. [Da, Sc * Da + (1 - Sa) * Dc] -->
+            
             <enum name="src_atop" value="9"/>
-            <!-- Multiplies the color and alpha channels of the drawable with those of
-                 the tint. [Sa * Da, Sc * Dc] -->
+            
             <enum name="multiply" value="14"/>
-            <!-- [Sa + Da - Sa * Da, Sc + Dc - Sc * Dc] -->
+            
             <enum name="screen" value="15"/>
-            <!-- Combines the tint and drawable color and alpha channels, clamping the
-                 result to valid color values. Saturate(S + D) -->
+            
             <enum name="add" value="16"/>
         </attr>
         
@@ -13051,13 +12869,13 @@
     <attr format="reference" name="tabIndicator"/>
     
     <attr name="tabIndicatorGravity">
-      <!-- Align indicator to the bottom of this tab layout. -->
+      
       <enum name="bottom" value="0"/>
-      <!-- Align indicator along the center of this tab layout. -->
+      
       <enum name="center" value="1"/>
-      <!-- Align indicator to the top of this tab layout. -->
+      
       <enum name="top" value="2"/>
-      <!-- Stretch indicator to match the height and width of a tab item in this layout. -->
+      
       <enum name="stretch" value="3"/>
     </attr>
     
@@ -13066,17 +12884,11 @@
     <attr format="boolean" name="tabIndicatorFullWidth"/>
     
     <attr name="tabIndicatorAnimationMode">
-      <!-- Animate the selection indicator's left and right bounds in step with
-           each other. -->
+      
       <enum name="linear" value="0"/>
-      <!-- Animate the selection indicator's left and right bounds out of step
-           with each other, decelerating the front and accelerating the back.
-           This causes the indicator to look like it stretches between destinations
-           an then shrinks back down to fit the size of it's target tab. -->
+      
       <enum name="elastic" value="1"/>
-      <!-- Animate the selection indicator by sequentially fading it out from
-           its current destination and then fading it in at its new
-           destination. -->
+      
       <enum name="fade" value="2"/>
     </attr>
     
@@ -13223,19 +13035,15 @@
     <attr format="reference" name="errorIconTint"/>
     
     <attr name="errorIconTintMode">
-      <!-- The tint is drawn on top of the drawable.
-           [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc] -->
+      
       <enum name="src_over" value="3"/>
-      <!-- The tint is masked by the alpha channel of the drawable. The drawable’s
-           color channels are thrown out. [Sa * Da, Sc * Da] -->
+      
       <enum name="src_in" value="5"/>
-      <!-- The tint is drawn above the drawable, but with the drawable’s alpha
-           channel masking the result. [Da, Sc * Da + (1 - Sa) * Dc] -->
+      
       <enum name="src_atop" value="9"/>
-      <!-- Multiplies the color and alpha channels of the drawable with those of
-           the tint. [Sa * Da, Sc * Dc] -->
+      
       <enum name="multiply" value="14"/>
-      <!-- [Sa + Da - Sa * Da, Sc + Dc - Sc * Dc] -->
+      
       <enum name="screen" value="15"/>
     </attr>
 
@@ -13282,56 +13090,47 @@
     <attr format="color" name="startIconTint"/>
     
     <attr name="startIconTintMode">
-      <!-- The tint is drawn on top of the drawable.
-           [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc] -->
+      
       <enum name="src_over" value="3"/>
-      <!-- The tint is masked by the alpha channel of the drawable. The drawable’s
-           color channels are thrown out. [Sa * Da, Sc * Da] -->
+      
       <enum name="src_in" value="5"/>
-      <!-- The tint is drawn above the drawable, but with the drawable’s alpha
-           channel masking the result. [Da, Sc * Da + (1 - Sa) * Dc] -->
+      
       <enum name="src_atop" value="9"/>
-      <!-- Multiplies the color and alpha channels of the drawable with those of
-           the tint. [Sa * Da, Sc * Dc] -->
+      
       <enum name="multiply" value="14"/>
-      <!-- [Sa + Da - Sa * Da, Sc + Dc - Sc * Dc] -->
+      
       <enum name="screen" value="15"/>
     </attr>
     
     <attr format="dimension" name="startIconMinSize"/>
     
     <attr name="startIconScaleType">
-      <!-- Scale the image using {@link android.graphics.Matrix.ScaleToFit#FILL}. -->
+      
       <enum name="fitXY" value="0"/>
-      <!-- Scale the image using {@link android.graphics.Matrix.ScaleToFit#START}. -->
+      
       <enum name="fitStart" value="1"/>
-      <!-- Scale the image using {@link android.graphics.Matrix.ScaleToFit#CENTER}. -->
+      
       <enum name="fitCenter" value="2"/>
-      <!-- Scale the image using {@link android.graphics.Matrix.ScaleToFit#END}. -->
+      
       <enum name="fitEnd" value="3"/>
-      <!-- Center the image in the view, but perform no scaling. -->
+      
       <enum name="center" value="4"/>
-      <!-- Scale the image uniformly (maintain the image's aspect ratio) so both dimensions
-           (width and height) of the image will be equal to or larger than the corresponding
-           dimension of the view (minus padding). The image is then centered in the view. -->
+      
       <enum name="centerCrop" value="5"/>
-      <!-- Scale the image uniformly (maintain the image's aspect ratio) so that both
-           dimensions (width and height) of the image will be equal to or less than the
-           corresponding dimension of the view (minus padding). The image is then centered in
-           the view. -->
+      
       <enum name="centerInside" value="6"/>
     </attr>
     
     <attr name="endIconMode">
-      <!-- The view will display a custom icon specified by the user. -->
+      
       <enum name="custom" value="-1"/>
-      <!-- No end icon. -->
+      
       <enum name="none" value="0"/>
-      <!-- The view will display a toggle when the EditText has a password. -->
+      
       <enum name="password_toggle" value="1"/>
-      <!-- The view will display a clear text button while the EditText contains input. -->
+      
       <enum name="clear_text" value="2"/>
-      <!-- The view will display a toggle that displays/hides a dropdown menu. -->
+      
       <enum name="dropdown_menu" value="3"/>
     </attr>
     
@@ -13344,53 +13143,44 @@
     <attr format="color" name="endIconTint"/>
     
     <attr name="endIconTintMode">
-      <!-- The tint is drawn on top of the drawable.
-           [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc] -->
+      
       <enum name="src_over" value="3"/>
-      <!-- The tint is masked by the alpha channel of the drawable. The drawable’s
-           color channels are thrown out. [Sa * Da, Sc * Da] -->
+      
       <enum name="src_in" value="5"/>
-      <!-- The tint is drawn above the drawable, but with the drawable’s alpha
-           channel masking the result. [Da, Sc * Da + (1 - Sa) * Dc] -->
+      
       <enum name="src_atop" value="9"/>
-      <!-- Multiplies the color and alpha channels of the drawable with those of
-           the tint. [Sa * Da, Sc * Dc] -->
+      
       <enum name="multiply" value="14"/>
-      <!-- [Sa + Da - Sa * Da, Sc + Dc - Sc * Dc] -->
+      
       <enum name="screen" value="15"/>
     </attr>
     
     <attr format="dimension" name="endIconMinSize"/>
     
     <attr name="endIconScaleType">
-      <!-- Scale the image using {@link android.graphics.Matrix.ScaleToFit#FILL}. -->
+      
       <enum name="fitXY" value="0"/>
-      <!-- Scale the image using {@link android.graphics.Matrix.ScaleToFit#START}. -->
+      
       <enum name="fitStart" value="1"/>
-      <!-- Scale the image using {@link android.graphics.Matrix.ScaleToFit#CENTER}. -->
+      
       <enum name="fitCenter" value="2"/>
-      <!-- Scale the image using {@link android.graphics.Matrix.ScaleToFit#END}. -->
+      
       <enum name="fitEnd" value="3"/>
-      <!-- Center the image in the view, but perform no scaling. -->
+      
       <enum name="center" value="4"/>
-      <!-- Scale the image uniformly (maintain the image's aspect ratio) so both dimensions
-           (width and height) of the image will be equal to or larger than the corresponding
-           dimension of the view (minus padding). The image is then centered in the view. -->
+      
       <enum name="centerCrop" value="5"/>
-      <!-- Scale the image uniformly (maintain the image's aspect ratio) so that both
-           dimensions (width and height) of the image will be equal to or less than the
-           corresponding dimension of the view (minus padding). The image is then centered in
-           the view. -->
+      
       <enum name="centerInside" value="6"/>
     </attr>
 
     
     <attr name="boxBackgroundMode">
-      <!-- Specifies that there should be no box set on the text input area. -->
+      
       <enum name="none" value="0"/>
-      <!-- Filled box mode for the text input box. -->
+      
       <enum name="filled" value="1"/>
-      <!-- Outline box mode for the text input box. -->
+      
       <enum name="outline" value="2"/>
     </attr>
     
@@ -13429,19 +13219,15 @@
     <attr format="color" name="passwordToggleTint"/>
     
     <attr name="passwordToggleTintMode">
-      <!-- The tint is drawn on top of the drawable.
-           [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc] -->
+      
       <enum name="src_over" value="3"/>
-      <!-- The tint is masked by the alpha channel of the drawable. The drawable’s
-           color channels are thrown out. [Sa * Da, Sc * Da] -->
+      
       <enum name="src_in" value="5"/>
-      <!-- The tint is drawn above the drawable, but with the drawable’s alpha
-           channel masking the result. [Da, Sc * Da + (1 - Sa) * Dc] -->
+      
       <enum name="src_atop" value="9"/>
-      <!-- Multiplies the color and alpha channels of the drawable with those of
-           the tint. [Sa * Da, Sc * Dc] -->
+      
       <enum name="multiply" value="14"/>
-      <!-- [Sa + Da - Sa * Da, Sc + Dc - Sc * Dc] -->
+      
       <enum name="screen" value="15"/>
     </attr>
   </declare-styleable>
@@ -13479,11 +13265,11 @@
         <attr name="contentInsetEndWithActions"/>
         <attr format="dimension" name="maxButtonHeight"/>
         <attr name="buttonGravity">
-            <!-- Place object in the vertical center of its container, not changing its size. -->
+            
             <flag name="center_vertical" value="0x10"/>
-            <!-- Push object to the top of its container, not changing its size. -->
+            
             <flag name="top" value="0x30"/>
-            <!-- Push object to the bottom of its container, not changing its size. -->
+            
             <flag name="bottom" value="0x50"/>
         </attr>
         
@@ -13519,43 +13305,39 @@
     <attr format="color" name="backgroundTint"/>
   </declare-styleable>
     <declare-styleable name="Transform">
-        <!-- base z depth of the view. -->
+        
         <attr name="android:elevation"/>
 
-        <!-- rotation of the view, in degrees. -->
+        
         <attr name="android:rotation"/>
 
-        <!-- rotation of the view around the x axis, in degrees. -->
+        
         <attr name="android:rotationX"/>
 
-        <!-- rotation of the view around the y axis, in degrees. -->
+        
         <attr name="android:rotationY"/>
 
-        <!-- scale of the view in the x direction. -->
+        
         <attr name="android:scaleX"/>
 
-        <!-- scale of the view in the y direction. -->
+        
         <attr name="android:scaleY"/>
 
-        <!--  x location of the pivot point around which the view will rotate and scale.
-     This xml attribute sets the pivotX property of the View. -->
+        
         <attr name="android:transformPivotX"/>
 
-        <!--   y location of the pivot point around which the view will rotate and scale.
-             This xml attribute sets the pivotY property of the View. -->
+        
         <attr name="android:transformPivotY"/>
 
         <attr name="transformPivotTarget"/>
 
-        <!-- translation in x of the view. This value is added post-layout to the left
-           property of the view, which is set by its layout. -->
+        
         <attr format="dimension" name="android:translationX"/>
 
-        <!-- translation in y of the view. This value is added post-layout to the top
-       property of the view, which is set by its layout. -->
+        
         <attr format="dimension" name="android:translationY"/>
 
-        <!-- translation in z of the view. This value is added to its elevation. -->
+        
         <attr format="dimension" name="android:translationZ"/>
 
     </declare-styleable>
@@ -13620,22 +13402,17 @@
 
         
         <attr name="backgroundTintMode">
-            <!-- The tint is drawn on top of the drawable.
-                 [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc] -->
+            
             <enum name="src_over" value="3"/>
-            <!-- The tint is masked by the alpha channel of the drawable. The drawable’s
-                 color channels are thrown out. [Sa * Da, Sc * Da] -->
+            
             <enum name="src_in" value="5"/>
-            <!-- The tint is drawn above the drawable, but with the drawable’s alpha
-                 channel masking the result. [Da, Sc * Da + (1 - Sa) * Dc] -->
+            
             <enum name="src_atop" value="9"/>
-            <!-- Multiplies the color and alpha channels of the drawable with those of
-                 the tint. [Sa * Da, Sc * Dc] -->
+            
             <enum name="multiply" value="14"/>
-            <!-- [Sa + Da - Sa * Da, Sc + Dc - Sc * Dc] -->
+            
             <enum name="screen" value="15"/>
-            <!-- Combines the tint and icon color and alpha channels, clamping the
-                 result to valid color values. Saturate(S + D) -->
+            
             <enum name="add" value="16"/>
         </attr>
     </declare-styleable>

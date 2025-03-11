@@ -20,11 +20,12 @@ import android.os.Bundle;
 import android.os.Parcelable;
 import android.view.LayoutInflater;
 import android.view.View;
+
 import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
-import com.example.myapplication2.LatPast;
+
 import com.example.myapplication2.databinding.ActivityMateri2Binding;
-import com.example.myapplication2.tense;
+
 import kotlin.Metadata;
 import kotlin.jvm.internal.DefaultConstructorMarker;
 import kotlin.jvm.internal.Intrinsics;
@@ -56,6 +57,7 @@ public final class Materi2
         }
         this.setContentView((View)activityMateri2Binding3.getRoot());
         this.setData();
+
         ActivityMateri2Binding activityMateri2Binding4 = this.binding;
         if (activityMateri2Binding4 == null) {
             Intrinsics.throwUninitializedPropertyAccessException("binding");
@@ -75,6 +77,8 @@ public final class Materi2
             activityMateri2Binding = null;
         }
         activityMateri2Binding.btnLat.setOnClickListener(arg_0 -> Materi2.onCreate$lambda$0(this, arg_0));
+        activityMateri2Binding.imageView7.setOnClickListener(arg_0 -> Materi2.onCreate$lambda2$0(this, arg_0));
+        activityMateri2Binding.imageView8.setOnClickListener(arg_0 -> Materi2.onCreate$lambda3$0(this, arg_0));
     }
 
     public boolean onSupportNavigateUp() {
@@ -103,6 +107,16 @@ public final class Materi2
     private static final void onCreate$lambda$0(Materi2 this$0, View it) {
         Intrinsics.checkNotNullParameter((Object)this$0, "this$0");
         Intent intent = new Intent((Context)this$0, LatPast.class);
+        this$0.startActivity(intent);
+    }
+    private static final void onCreate$lambda2$0(Materi2 this$0, View it) {
+        Intrinsics.checkNotNullParameter((Object)this$0, "this$0");
+        Intent intent = new Intent((Context)this$0, AnimasiBelalang.class);
+        this$0.startActivity(intent);
+    }
+    private static final void onCreate$lambda3$0(Materi2 this$0, View it) {
+        Intrinsics.checkNotNullParameter((Object)this$0, "this$0");
+        Intent intent = new Intent((Context)this$0, AnimasiKecoa.class);
         this$0.startActivity(intent);
     }
 

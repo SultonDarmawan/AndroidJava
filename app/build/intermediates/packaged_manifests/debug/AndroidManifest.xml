@@ -27,6 +27,7 @@
         android:label="E-MORPH"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/Theme.MyApplication2" >
         <activity
             android:name="com.example.myapplication2.HistoryActivity"
@@ -64,6 +65,34 @@
         <activity
             android:name="com.example.myapplication2.Materi3"
             android:exported="false" />
+        <activity
+            android:name="com.example.myapplication2.AnimasiKupuKupu"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication2.AnimasiNyamuk"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication2.AnimasiKatak"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication2.AnimasiBelalang"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication2.AnimasiKecoa"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication2.AnimasiKucing"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication2.AnimasiSapi"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication2.AnimasiAyam"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication2.FullscreenVideoActivity"
+            android:exported="false"
+            android:screenOrientation="landscape" />
         <activity
             android:name="com.example.myapplication2.SplashActivity"
             android:exported="true" >

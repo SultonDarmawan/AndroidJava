@@ -16,6 +16,7 @@ package com.example.myapplication2;
 
 import android.content.Context;
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.os.Parcelable;
 import android.view.LayoutInflater;
@@ -30,6 +31,9 @@ import kotlin.jvm.internal.DefaultConstructorMarker;
 import kotlin.jvm.internal.Intrinsics;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
+
+import android.widget.MediaController;
+import android.widget.VideoView;
 
 @Metadata(mv={1, 8, 0}, k=1, xi=48, d1={"\u0000,\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\u000e\n\u0000\n\u0002\u0010\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\u000b\n\u0002\b\u0003\u0018\u0000 \u000e2\u00020\u0001:\u0001\u000eB\u0005\u00a2\u0006\u0002\u0010\u0002J\u0012\u0010\u0007\u001a\u00020\b2\b\u0010\t\u001a\u0004\u0018\u00010\nH\u0014J\b\u0010\u000b\u001a\u00020\fH\u0016J\b\u0010\r\u001a\u00020\bH\u0002R\u000e\u0010\u0003\u001a\u00020\u0004X\u0082.\u00a2\u0006\u0002\n\u0000R\u000e\u0010\u0005\u001a\u00020\u0006X\u0082.\u00a2\u0006\u0002\n\u0000\u00a8\u0006\u000f"}, d2={"Lcom/example/myapplication2/Materi;", "Landroidx/appcompat/app/AppCompatActivity;", "()V", "binding", "Lcom/example/myapplication2/databinding/ActivityMateriBinding;", "name", "", "onCreate", "", "savedInstanceState", "Landroid/os/Bundle;", "onSupportNavigateUp", "", "setData", "Companion", "app_debug"})
 public final class Materi
@@ -56,6 +60,8 @@ public final class Materi
         }
         this.setContentView((View)activityMateriBinding3.getRoot());
         this.setData();
+
+
         ActivityMateriBinding activityMateriBinding4 = this.binding;
         if (activityMateriBinding4 == null) {
             Intrinsics.throwUninitializedPropertyAccessException("binding");
@@ -75,6 +81,9 @@ public final class Materi
             activityMateriBinding = null;
         }
         activityMateriBinding.btnLat.setOnClickListener(arg_0 -> Materi.onCreate$lambda$0(this, arg_0));
+        activityMateriBinding.imageView8.setOnClickListener(arg_0 -> Materi.onCreate$lambda2$0(this, arg_0));
+        activityMateriBinding.imageView9.setOnClickListener(arg_0 -> Materi.onCreate$lambda3$0(this, arg_0));
+        activityMateriBinding.imageView10.setOnClickListener(arg_0 -> Materi.onCreate$lambda4$0(this, arg_0));
     }
 
     public boolean onSupportNavigateUp() {
@@ -103,6 +112,23 @@ public final class Materi
     private static final void onCreate$lambda$0(Materi this$0, View it) {
         Intrinsics.checkNotNullParameter((Object)this$0, "this$0");
         Intent intent = new Intent((Context)this$0, LatPast.class);
+        this$0.startActivity(intent);
+    }
+
+    private static final void onCreate$lambda2$0(Materi this$0, View it) {
+        Intrinsics.checkNotNullParameter((Object)this$0, "this$0");
+        Intent intent = new Intent((Context)this$0, AnimasiKupuKupu.class);
+        this$0.startActivity(intent);
+    }
+
+    private static final void onCreate$lambda3$0(Materi this$0, View it) {
+        Intrinsics.checkNotNullParameter((Object)this$0, "this$0");
+        Intent intent = new Intent((Context)this$0, AnimasiNyamuk.class);
+        this$0.startActivity(intent);
+    }
+    private static final void onCreate$lambda4$0(Materi this$0, View it) {
+        Intrinsics.checkNotNullParameter((Object)this$0, "this$0");
+        Intent intent = new Intent((Context)this$0, AnimasiKatak.class);
         this$0.startActivity(intent);
     }
 

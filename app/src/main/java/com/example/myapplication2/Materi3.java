@@ -20,11 +20,12 @@ import android.os.Bundle;
 import android.os.Parcelable;
 import android.view.LayoutInflater;
 import android.view.View;
+
 import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
-import com.example.myapplication2.LatFuture;
+
 import com.example.myapplication2.databinding.ActivityMateri3Binding;
-import com.example.myapplication2.tense;
+
 import kotlin.Metadata;
 import kotlin.jvm.internal.DefaultConstructorMarker;
 import kotlin.jvm.internal.Intrinsics;
@@ -56,6 +57,7 @@ public final class Materi3
         }
         this.setContentView((View)activityMateri3Binding3.getRoot());
         this.setData();
+
         ActivityMateri3Binding activityMateri3Binding4 = this.binding;
         if (activityMateri3Binding4 == null) {
             Intrinsics.throwUninitializedPropertyAccessException("binding");
@@ -75,6 +77,9 @@ public final class Materi3
             activityMateri3Binding = null;
         }
         activityMateri3Binding.btnLat.setOnClickListener(arg_0 -> Materi3.onCreate$lambda$0(this, arg_0));
+        activityMateri3Binding.imageView4.setOnClickListener(arg_0 -> Materi3.onCreate$lambda2$0(this, arg_0));
+        activityMateri3Binding.imageView5.setOnClickListener(arg_0 -> Materi3.onCreate$lambda3$0(this, arg_0));
+        activityMateri3Binding.imageView6.setOnClickListener(arg_0 -> Materi3.onCreate$lambda4$0(this, arg_0));
     }
 
     public boolean onSupportNavigateUp() {
@@ -103,6 +108,26 @@ public final class Materi3
     private static final void onCreate$lambda$0(Materi3 this$0, View it) {
         Intrinsics.checkNotNullParameter((Object)this$0, "this$0");
         Intent intent = new Intent((Context)this$0, LatFuture.class);
+        this$0.startActivity(intent);
+    }
+
+    private static final void onCreate$lambda2$0(Materi3 this$0, View it) {
+        Intrinsics.checkNotNullParameter((Object)this$0, "this$0");
+        Intent intent = new Intent((Context)this$0, AnimasiKucing.class);
+        this$0.startActivity(intent);
+    }
+
+
+    private static final void onCreate$lambda3$0(Materi3 this$0, View it) {
+        Intrinsics.checkNotNullParameter((Object)this$0, "this$0");
+        Intent intent = new Intent((Context)this$0, AnimasiSapi.class);
+        this$0.startActivity(intent);
+    }
+
+
+    private static final void onCreate$lambda4$0(Materi3 this$0, View it) {
+        Intrinsics.checkNotNullParameter((Object)this$0, "this$0");
+        Intent intent = new Intent((Context)this$0, AnimasiAyam.class);
         this$0.startActivity(intent);
     }
 

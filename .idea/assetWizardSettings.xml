@@ -79,8 +79,8 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="E:\New folder\logo.png" />
-                                                <entry key="scalingPercent" value="108" />
+                                                <entry key="imagePath" value="E:\fullscreen.png" />
+                                                <entry key="scalingPercent" value="35" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -108,6 +108,11 @@
                                           </PersistentState>
                                         </value>
                                       </entry>
+                                    </map>
+                                  </option>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="outputName" value="ic_fullscreen" />
                                     </map>
                                   </option>
                                 </PersistentState>

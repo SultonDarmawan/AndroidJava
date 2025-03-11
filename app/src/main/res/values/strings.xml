@@ -70,7 +70,7 @@
     </string-array>
 
 
-
+<!--materi satu -->
     <string name="materi1"><b>a. Fase telur.</b> \nFase telur menjadi fase pertama dari hasil perkembangbiakan pada hewan. Pada fase ini telur-telur-telur yang dihasilkan oleh betina berasal dari hasil fertilisasi yang terjadi pada hewan berkelamin jantan. Sel telur yang bertemu dengan sel sperma akan mengakibatkan terjadinya pembelahan. Pada proses pembelahan ini waktu yang dibutuhkan bervariasi tergantung dari jenis hewannya.</string>
     <string name="materi2"><b>b. Fase larva.</b> \nSetelah melewati fase telur, tahapan selanjutnya yang terjadi di metamorfosis sempurna adalah fase larva. Fase larva ini merupakan fase yang di mana hewan muda sudah mulai aktif untuk mencari makan. Makanan yang didapatkan sangat mudah karena sang induk sudah mempersiapkan jika anakannya berkembang tidak perlu repot-repot untuk mencari makanan</string>
     <string name="materi3"><b>c. Fase pupa.</b> \nFase pupa bisa dikatakan sebagai fase transisi karena terjadinya perubahan wujud dari larva menjadi wujud hewan yang lebih besar. Perubahan wujud yang lebih besar membuat hewan memiliki suatu rangka luar yang bisa melindungi tubuh dan rangka luar itu dinamakan kokon. Meskipun sudah terlindungi oleh kokon, tubuh pupa akan tetap melakukan pembentukan metabolisme dan melakukan pembentukan hewan menuju hewan yang dewasa.</string>
@@ -81,11 +81,41 @@
     <string name="contoh1"><b>1. Kupu-Kupu.</b></string>
     <string name="contoh2"><b>2. Nyamuk.</b></string>
     <string name="contoh3"><b>3. Katak.</b></string>
+    <string name="contoh4"><b>4. Lalat.</b></string>
+    <string name="contoh5"><b>5. Lebah Madu.</b></string>
+    <string name="contoh6"><b>6. Semut.</b></string>
+    <string name="contoh7"><b>7. Ngengat.</b></string>
 
     <string name="contoh11">Siapa yang tidak kenal dengan hewan kupu-kupu. Hewan ini sering kita temui pada bunga-bunga yang memiliki nektar. Kupu-kupu sering hinggap di bunga karena nektar bunga menjadi makanan utama dari kupu-kupu.\nKupu-kupu menjadi hewan yang tergolong ke dalam metamorfosis sempurna karena perubahan wujud dari hewan muda menuju ke dewasa sangat berbeda. Untuk lebih jelasnya mari kita simak gambar di bawah ini.\nBerdasarkan gambar di atas, metamorfosis pada kupu-kupu dimulai dari telur yang berasal dari perkawinan kupu-kupu jantan dengan kupu-kupu betina. Kemudian, telur itu berubah menjadi ulat yang biasa kita temukan pada dedaunan. Lalu, ulat berubah menjadi kepompong atau pupa dengan cangkang untuk melindungi tubuh. Setelah beberapa lama, kepompong akan berubah menjadi kupu-kupu muda dan beberapa hari kemudian akan berubah menjadi kupu-kupu dewasa.</string>
     <string name="contoh22">Contoh hewan berikutnya yang mengalami metamorfosis sempurna adalah nyamuk. Hewan ini sering kita temui pada malam hari dan terkadang nyamuk mengganggu tidur seseorang, baik itu karena suaranya atau karena gigitannya.\nMeskipun nyamuk sangat suka terbang, tetapi indukan nyamuk akan menyimpan telurnya di permukaan air yang tenang. Oleh sebab itu, kita harus rajin membersihkan bak mandi supaya tidak ada telur nyamuk.\nBerdasarkan gambar di atas, telur menjadi fase awal terjadinya metamorfosis sempurna pada nyamuk. Setelah telur menetas akan berubah menjadi seekor larva. Larva ini akan beradaptasi untuk mencari makan supaya bisa melanjutkan hidupnya ke fase pupa. Setelah fase larva sudah selesai, selanjutnya adalah fase pupa. Fase terakhir dari metamorfosis pada nyamuk adalah nyamuk menjadi</string>
     <string name="contoh33">Musim hujan menjadi musim yang sangat disenangi oleh hewan katak. Hal ini dikarenakan pada musim ini air banyak yang turun ke permukaan, sehingga katak akan bebas berloncat-loncat.\nKatak termasuk ke dalam kategori hewan yang mengalami metamorfosis sempurna. Hal itu dapat dilihat pada bentuk kecebong yang sangat berbeda dengan bentuk katak ketika dewasa. Perbedaan itulah yang menyebabkan katak menjadi hewan bermetamorfosis sempurna.\nBerdasarkan gambar di atas, telur menjadi fase awal dari metamorfosis sempurna katak. Kemudian dilanjutkan dengan telur yang berubah menjadi kecebong tanpa kaki. Setelah mengalami perkembangan, kecebong memiliki dua kaki. Kaki kecebong yang berjumlah semakin bertambah dibarengi tubuh kecebong yang ikut mengalami perubahan, sehingga menjadi katak muda. Katak muda pun berkembang menjadi katak dewasa yang kemudian berkembang biak dan menghasilkan telur-telur katak.</string>
+    <string name="contoh44">Lalat, seperti serangga lainnya, mengalami proses metamorfosis dalam siklus hidupnya. Lalat mengalami metamorfosis sempurna karena melalui empat tahap perkembangan, yakni telur, larva, pupa, dan dewasa. \nProses metamorfosis lalat
+        \n<b>Tahap 1: Telur</b>\nSetelah lalat jantan mengejar dan membuahi betinanya, betina pun siap untuk bertelur.  Lalat adalah makhluk soliter. Seperti serangga lainnya, jantan dan betina tidak bersatu setelah kawin dan, tidak seperti serangga yang bersarang, betina tidak merawat atau melindungi telur.
+        \n<b>Tahap 2: Larva</b> \nHanya dalam waktu sehari, larva pertama mulai muncul dari telur lalat.  Larva lalat, juga dikenal sebagai belatung, merupakan makhluk mirip cacing dengan bagian mulut bengkok yang digunakan untuk makan. Belatung tumbuh dengan cepat. Dalam waktu kurang dari dua hari, ukurannya menjadi dua kali lipat dan karena itu harus berganti kulit. Ganti kulit adalah proses yang umum terjadi pada banyak invertebrata, yakni ketika serangga yang tumbuh melepaskan eksoskeleton sebelumnya dan menumbuhkan yang baru.
+        \n<b>Tahap 3: Pupa </b> \nSetelah ganti kulit yang ketiga kali, larva lalat akan menggali jauh ke dalam zat yang telah mereka makan.  Kulit mereka akan menggelap dan mengeras saat memasuki tahap pupa atau kepompong.  Di dalam cangkang pelindung ini, larva akan sepenuhnya mengembangkan segmen tubuh dan pelengkap lalat dewasa.
+        \n<b>Tahap 4: Dewasa </b> \nSatu-satunya fitur tambahan yang terlihat pada lalat dewasa adalah benjolan bengkak di kepala, yang digunakan untuk menembus cangkang.  Karena lalat tidak memiliki gigi atau rahang untuk mengunyah, ia menggunakan kantong berisi cairan ini untuk menerobos cangkang kepompong.</string>
+    <string name="contoh55">Siklus hidup lebah terdiri dari empat fase, yaitu telur, larva, pupa, dan lebah dewasa. Berikut ini adalah penjelasan dari masing-masing siklus hidup lebah. \n1. Fase telur \nSebutir telur lebah berkembang menjadi macam-macam jenis lebah dalam waktu yang berbeda-beda. Telur menjadi lebah pekerja dewasa dalam waktu 18 sampai 22 hari. Sedangkan menjadi lebah ratu 16 hari dan lebah jantan 24 hari. Telur lebah berukuran sebesar butiran beras. Dalam sekali bertelur, lebah ratu bisa menghasilkan 2.000 hingga 3.000 butir telur per hari. Telur yang dibuahi akan menjadi lebah betina, bisa lebah pekerja atau lebah ratu. Sedangkan telur yang tidak dibuahi akan menjadi lebah jantan. \n2. Fase larva \nSetelah 3 hari sejak telur dihasilkan oleh lebah ratu, telur akan berubah menjadi larva. Larva lebah tidak memiliki kaki dan mata. Larva akan diberi makan oleh lebah pekerja selama 3 sampai 4 hari. Khusus larva lebah ratu hanya akan diberi makan royal jelly selama hidupnya. Royal jelly adalah zat yang diproduksi dari kelenjar di kepala dan kelenjar ludah lebah. Royal jelly diproduksi oleh lebah pekerja muda yang berusia 5 sampai 14 hari. Setelah 6 hari, larva akan memproduksi selapis kulit di luar tubuhnya dan selnya akan ditutupi oleh lebah pekerja dengan wax. Selanjutnya, larva berubah menjadi pupa.\n3. Fase pupa \nFase ini sama seperti fase kepompong pada hewan dengan metamorfosis sempurna lainnya, seperti kupu-kupu. Pada fase ini terjadi pembentukan tubuh lebah, lengkap dengan kepala dan sayapnya. \n4. Fase lebah dewasa \nSetelah menjadi pupa selama setidaknya 12 hari, pengeraman selesai. Lebah pekerja muda akan muncul dan menggerogoti sarang lebah agar lebah dewasa bisa muncul dan mulai bekerja menjalankan tugasnya masing-masing.</string>
+    <string name="contoh66">Semut adalah serangga yang mengalami metamorfosis sempurna. Tahapan metamorfosis semut ini, yaitu telur, lalu larva, berikutnya pupa (kepompong), kemudian imago (semut dewasa). Berikut uraian lengkapnya.
+        \n<b>1. Telur</b>\n
+        Setelah melakukan perkawinan, seorang ratu akan meletakkan telur yang dibuahi dan yang tida dibuahi olehnya. Telur yang tak dibuahi akan menjadi jantan, dan yang dibuahi akan menjadi betina.
+        Telur semut bentuknya oval dan kecil. Warnanya putih hampir transparan. Telur tersebut membutuhkan waktu seminggu hingga dua minggu untuk bisa menetas tergantung dengan jenis spesiesnya
+        \n<b>2. Larva</b>\n
+        Larva adalah semut kecil yang tak memiliki mata dan kaki. Larva akan menjalani moulting yang ditandai dengan tumbuhnya rambut berbentuk pengait. Bentuk ini akan memudahkan semut pekerja membawa larva ke sarangnya.
+        Larva dibawa oleh  para semut pekerja karena belum memiliki mata dan kaki. Pada tahap ini, larva akan berganti bulu beberapa kali, tergantung bagaimana semut pekerja memberinya makan.
+        \n<b>3. Pupa</b>\n
+        Saat larva telah cukup besar, ia lama-kelamaan akan berubah menjadi pupa. Tahap ini semut lebih dikenal dengan nama kepompong. Bentuk dari kepompong ini mirip dengan semut dewasa, hanya saja kaki dan antenanya terlipat.
+        \n<b>4.  Semut Dewasa</b>\n
+        Semut akan menetas dari pupa setelah mencapai 6 hingga 10 minggu. Proses perkembangan semut yang berawal dari telur sampai dewasa ini umumnya berlangsung beberapa minggu hingga beberapa bulan, tergantung dengan jenis spesiesnya.</string>
+    <string name="contoh77">Dalam buku Cari Tahu Hewan-Hewan Bertubuh Kecil oleh Fatiharifah (2019:58), ngengat adalah serangga yang sangat mirip dengan kupu-kupu. Memiliki sayap, memakan nextar dan cairan lainnya dengan warna yang bermacam-macam.
+        Ngengat dapat berkamuflase mengubah warna tubuh sesuai dengan lingkungannya sebagai cara mempertahankan diri dari musuh. Ciri lain dari hewan ini yaitu metamorfosis ngengat termasuk dalam metarmorfosis sempurna dengan tahapan sebagai berikut.
+        \n<b>1. Telur</b>\nSetelah kawin, betina akan bertelur pada tanaman yang akan menjadi makanan bagi keturunannya. Embrio berkembang di dalam telur selama 30 hari, dengan waktu 7 hingga 10 hari untuk larva berkembang di dalam telur.
+        \n<b>2. Larva</b>\nUlat atau larva yang baru menetas akan memakan cangkangnya sebagai nutrisi terbaik dan setelah itu ulat akan memakan tanaman inang. Seperti serangga lainnya, ulat juga mengalami berbagai tahap pergantian kulit. Untuk mempertahankan hidupnya ulat akan memakan cangkang yang tersisa agar bisa mendaur ulang nutrisi dan protein pada tubuhnya. Proses makan dan pergantian kulit ini berlanjut hingga memasuki tahap pupa.
+        \n<b>3. Pupa</b>\nPupa merupakan tahap istirahat setelah larva tumbuh sempurna dan berhenti makan. Saat menjadi ulat, ngengat memiliki kemampuan memintal sejenis sutra yang dihasilkan dari proteinnya sendiri yang disebut dengan kepompong. Di dalam kepompong, ulat berubah menjadi ngengat bersayap yang sudah berkembang sempurna. Penghancuran jaringan yang dikenal sebagai histolisis terjadi selama tahap ini. Setelah sekitar 2 minggu, ulat berubah menjadi ngengat bersayap dan keluar dari kepompong.
+        \n<b>4. Imago</b>\nImago dikenal juga sebagai ngengat dewasa. Tahap ini dimulai ketika ngengat keluar dari kepompong dengan kondisi sayap keriput dan kulit bengkak.
+        Selama jam-jam pertama kedewasaan, ngengat memompa cairan ke pembuluh darah sayapnya untuk melebarkan sayap tersebut. Setelah bagian tubuh ngengat kokoh dan kaku, ngengat tersebut terbang keluar untuk mencari makan dan kawin.
+        </string>
 
+<!--materi dua-->
     <string name="materi11"><b>a. Fase telur.</b> \nFase telur ini merupakan fase yang sama seperti hewan dengan metamorfosis sempurna. Telur yang dihasilkan dari hasil perkawinan antara hewan jantan dan betina akan diletakkan di habitat aslinya. Bukan hanya diletakkan di habitat aslinya, tetapi sang induk akan memastikan apakah telur yang diletakkan sudah aman dari serangan predator atau belum. Jika belum aman dari serangan predator, maka sang induk akan mencari tempat yang baru.</string>
     <string name="materi22"><b>b. Fase nimfa.</b> \nFae kdua dari metamorfosis tidak sempurna adalah fase nimfa. Fase nimfa ini berbeda dengan fase larva yang ada di metamorfosisi sempurna. Fase larva wujud hewan muda akan berbeda dengan wujud hewan yang sudah dewasa. Sementera itu, fase nimfa wujud hewan muda akan sama dengan wujud hewan dewasa hanya saja ukurannya berbeda.</string>
     <string name="materi33"><b>c. Fase imago.</b> \nFase imago menandakan bahwa hewan bermetamorfosis tidak sempurna sudah melewati fase nimfa. Jika dilihat dengan saksama, maka tubuh atau wujud (tampak dari luar) dari fase nimfa ke imago hanya mengalami perubahan ukuran tubuh saja.
@@ -100,11 +130,11 @@
     <string name="contohMater22">ewan kecoak termasuk ke dalam jenis hewan yang suka hidup di tempat-tempat yang lembab, seperti kamar mandi. Meskipun hewan ini berukuran kecil, tetapi ia bisa terbang. Bahkan, bagi sebagian orang, hewan ini sangat menakutkan terutama pada saat terbang, apakah kamu salah satunya?\nKecoak menjadi hewan yang bermetamorfosis tidak sempurna karena bentuk tubuhnya saat muda hingga dewasa hanya berubah pada ukuran saja. Dengan kata lain, wujud dari kecoak muda hingga dewasa tidak mengalami perubahan.\nDari gambar di atas, metamorfosis tidak sempurna kecoak bermula dari telur. Lalu berubah menjadi nimfa atau kecoak muda. Setelah kecoak muda berkembang, ia akan menjadi kecoak dewasa yang memiliki tubuh yang sama dengan kecoak muda.</string>
 
 
-
+<!--materi tiga-->
     <string name="contohMet"><b>Contoh Hewan Metamorfosis Tanpa Perubahan</b></string>
     <string name="contohMet1"><b>a. Kucing.</b></string>
     <string name="contohMet2"><b>b. Sapi.</b></string>
-    <string name="contohMet3"><b>c. Kambing.</b></string>
+    <string name="contohMet3"><b>c. Ayam.</b></string>
 
     <string name="materi111">Kucing tidak mengalami metamorfosis. Metamorfosis adalah perubahan bentuk tubuh yang signifikan pada hewan, sedangkan kucing hanya mengalami pertumbuhan ukuran dan kekuatan tulang.
         \n<b>Penjelasan</b>
@@ -125,18 +155,17 @@
         \n5. Sapi kecil akan tumbuh menjadi sapi dewasa tanpa mengalami perubahan bentuk fisik.
         \n6. Daur siklus hidup sapi dimulai dari anak sapi, sapi muda, sapi dewasa hingga melahirkan anak sapi lagi.
         \n7. Sapi berkembang biak untuk menjaga kelangsungan hidup sapi.</string>
-    <string name="materi333">Kambing tidak mengalami metamorfosis. Metamorfosis adalah proses perkembangan biologi pada hewan yang melibatkan perubahan penampilan fisik atau struktur setelah kelahiran. Sedangkan, kambing mengalami daur hidup tanpa metamorfosis, atau disebut ametamorfosis.
-        \n<b>Daur hidup kambing</b>
-        \n1. Anak kambing lahir dengan bentuk tubuh yang mirip induknya
-        \n2. Anak kambing menyusui dari induknya
-        \n3. Anak kambing tumbuh menjadi kambing dewasa
-        \n4. Kambing dewasa bergabung dengan kambing lainnya
-        \n5. Kambing betina birahi pada usia 6–8 bulan
-        \n6. Kambing betina dikawinkan setelah dewasa tubuh pada usia 10–12
-        \n7. Kambing jantan dikawinkan setelah usia 12 bulan
-        \n8. Kambing betina mengalami ovulasi setelah pembuahan sel sperma dan sel telur berhasil
-        \n9. Kambing betina mengalami kehamilan
-        \n10. Kambing betina melahirkan</string>
+    <string name="materi333">Siklus hidup ayam terdiri dari empat tahap, yaitu inkubasi dan penetasan, anak ayam, ayam remaja, dan ayam dewasa.
+        \nTahapan siklus hidup ayam
+        \nInkubasi dan penetasan: Telur yang telah dibuahi dierami selama 21 hari sebelum menetas.
+        \nAnak ayam: Setelah menetas, anak ayam akan menghabiskan hari-hari pertama hidup di bawah sayap induknya.
+        \nAyam remaja: Pada tahap ini, ayam terlihat kurus, tubuhnya lebih dominan kaki, dan terlihat agak tidak proporsional dibandingkan dengan ayam dewasa.
+        \nAyam dewasa: Ayam dewasa telah dapat bertelur dan siklus ini berulang terus.
+        \n\nPerkembangbiakan ayam
+        \nAyam betina kawin dengan ayam jantan pada musim semi dan musim panas.
+        \nSetelah bertelur, ayam betina siap untuk membentuk telur baru.
+        \nSisa sperma ayam jantan masih cukup untuk memfertilisasi telur hingga seminggu kemudian.
+        \nSuhu yang dibutuhkan untuk mengerami telur adalah suhu tubuh induknya. </string>
 
 </resources>
 

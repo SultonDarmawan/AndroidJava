@@ -51,6 +51,36 @@
             android:name=".Materi3"
             android:exported="false" />
         <activity
+            android:name=".AnimasiKupuKupu"
+            android:exported="false" />
+        <activity
+            android:name=".AnimasiNyamuk"
+            android:exported="false" />
+        <activity
+            android:name=".AnimasiKatak"
+            android:exported="false" />
+        <activity
+            android:name=".AnimasiBelalang"
+            android:exported="false" />
+        <activity
+            android:name=".AnimasiKecoa"
+            android:exported="false" />
+        <activity
+            android:name=".AnimasiKucing"
+            android:exported="false" />
+
+        <activity
+            android:name=".AnimasiSapi"
+            android:exported="false" />
+        <activity
+            android:name=".AnimasiAyam"
+            android:exported="false" />
+
+        <activity android:name=".FullscreenVideoActivity"
+            android:screenOrientation="landscape"
+            android:exported="false"/>
+
+        <activity
             android:name=".SplashActivity"
             android:exported="true">
             <intent-filter>

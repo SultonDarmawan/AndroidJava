@@ -30,6 +30,18 @@ public final class ActivityMateriBinding implements ViewBinding {
   public final ImageView imageView10;
 
   @NonNull
+  public final ImageView imageView11;
+
+  @NonNull
+  public final ImageView imageView12;
+
+  @NonNull
+  public final ImageView imageView13;
+
+  @NonNull
+  public final ImageView imageView14;
+
+  @NonNull
   public final ImageView imageView3;
 
   @NonNull
@@ -69,7 +81,31 @@ public final class ActivityMateriBinding implements ViewBinding {
   public final TextView materi13;
 
   @NonNull
+  public final TextView materi14;
+
+  @NonNull
+  public final TextView materi15;
+
+  @NonNull
+  public final TextView materi16;
+
+  @NonNull
+  public final TextView materi17;
+
+  @NonNull
+  public final TextView materi18;
+
+  @NonNull
+  public final TextView materi19;
+
+  @NonNull
   public final TextView materi2;
+
+  @NonNull
+  public final TextView materi20;
+
+  @NonNull
+  public final TextView materi21;
 
   @NonNull
   public final TextView materi3;
@@ -102,18 +138,26 @@ public final class ActivityMateriBinding implements ViewBinding {
   public final TextView tvTitle;
 
   private ActivityMateriBinding(@NonNull LinearLayout rootView, @NonNull Button btnLat,
-      @NonNull ImageView imageView10, @NonNull ImageView imageView3, @NonNull ImageView imageView4,
+      @NonNull ImageView imageView10, @NonNull ImageView imageView11,
+      @NonNull ImageView imageView12, @NonNull ImageView imageView13,
+      @NonNull ImageView imageView14, @NonNull ImageView imageView3, @NonNull ImageView imageView4,
       @NonNull ImageView imageView5, @NonNull ImageView imageView6, @NonNull ImageView imageView7,
       @NonNull ImageView imageView8, @NonNull ImageView imageView9, @NonNull TextView materi,
       @NonNull TextView materi1, @NonNull TextView materi10, @NonNull TextView materi11,
-      @NonNull TextView materi12, @NonNull TextView materi13, @NonNull TextView materi2,
-      @NonNull TextView materi3, @NonNull TextView materi4, @NonNull TextView materi5,
-      @NonNull TextView materi6, @NonNull TextView materi7, @NonNull TextView materi8,
-      @NonNull TextView materi9, @NonNull CardView startMateri, @NonNull Toolbar toolbar,
-      @NonNull TextView tvTitle) {
+      @NonNull TextView materi12, @NonNull TextView materi13, @NonNull TextView materi14,
+      @NonNull TextView materi15, @NonNull TextView materi16, @NonNull TextView materi17,
+      @NonNull TextView materi18, @NonNull TextView materi19, @NonNull TextView materi2,
+      @NonNull TextView materi20, @NonNull TextView materi21, @NonNull TextView materi3,
+      @NonNull TextView materi4, @NonNull TextView materi5, @NonNull TextView materi6,
+      @NonNull TextView materi7, @NonNull TextView materi8, @NonNull TextView materi9,
+      @NonNull CardView startMateri, @NonNull Toolbar toolbar, @NonNull TextView tvTitle) {
     this.rootView = rootView;
     this.btnLat = btnLat;
     this.imageView10 = imageView10;
+    this.imageView11 = imageView11;
+    this.imageView12 = imageView12;
+    this.imageView13 = imageView13;
+    this.imageView14 = imageView14;
     this.imageView3 = imageView3;
     this.imageView4 = imageView4;
     this.imageView5 = imageView5;
@@ -127,7 +171,15 @@ public final class ActivityMateriBinding implements ViewBinding {
     this.materi11 = materi11;
     this.materi12 = materi12;
     this.materi13 = materi13;
+    this.materi14 = materi14;
+    this.materi15 = materi15;
+    this.materi16 = materi16;
+    this.materi17 = materi17;
+    this.materi18 = materi18;
+    this.materi19 = materi19;
     this.materi2 = materi2;
+    this.materi20 = materi20;
+    this.materi21 = materi21;
     this.materi3 = materi3;
     this.materi4 = materi4;
     this.materi5 = materi5;
@@ -176,6 +228,30 @@ public final class ActivityMateriBinding implements ViewBinding {
       id = R.id.imageView10;
       ImageView imageView10 = ViewBindings.findChildViewById(rootView, id);
       if (imageView10 == null) {
+        break missingId;
+      }
+
+      id = R.id.imageView11;
+      ImageView imageView11 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView11 == null) {
+        break missingId;
+      }
+
+      id = R.id.imageView12;
+      ImageView imageView12 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView12 == null) {
+        break missingId;
+      }
+
+      id = R.id.imageView13;
+      ImageView imageView13 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView13 == null) {
+        break missingId;
+      }
+
+      id = R.id.imageView14;
+      ImageView imageView14 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView14 == null) {
         break missingId;
       }
 
@@ -257,9 +333,57 @@ public final class ActivityMateriBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.materi14;
+      TextView materi14 = ViewBindings.findChildViewById(rootView, id);
+      if (materi14 == null) {
+        break missingId;
+      }
+
+      id = R.id.materi15;
+      TextView materi15 = ViewBindings.findChildViewById(rootView, id);
+      if (materi15 == null) {
+        break missingId;
+      }
+
+      id = R.id.materi16;
+      TextView materi16 = ViewBindings.findChildViewById(rootView, id);
+      if (materi16 == null) {
+        break missingId;
+      }
+
+      id = R.id.materi17;
+      TextView materi17 = ViewBindings.findChildViewById(rootView, id);
+      if (materi17 == null) {
+        break missingId;
+      }
+
+      id = R.id.materi18;
+      TextView materi18 = ViewBindings.findChildViewById(rootView, id);
+      if (materi18 == null) {
+        break missingId;
+      }
+
+      id = R.id.materi19;
+      TextView materi19 = ViewBindings.findChildViewById(rootView, id);
+      if (materi19 == null) {
+        break missingId;
+      }
+
       id = R.id.materi2;
       TextView materi2 = ViewBindings.findChildViewById(rootView, id);
       if (materi2 == null) {
+        break missingId;
+      }
+
+      id = R.id.materi20;
+      TextView materi20 = ViewBindings.findChildViewById(rootView, id);
+      if (materi20 == null) {
+        break missingId;
+      }
+
+      id = R.id.materi21;
+      TextView materi21 = ViewBindings.findChildViewById(rootView, id);
+      if (materi21 == null) {
         break missingId;
       }
 
@@ -323,10 +447,12 @@ public final class ActivityMateriBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityMateriBinding((LinearLayout) rootView, btnLat, imageView10, imageView3,
-          imageView4, imageView5, imageView6, imageView7, imageView8, imageView9, materi, materi1,
-          materi10, materi11, materi12, materi13, materi2, materi3, materi4, materi5, materi6,
-          materi7, materi8, materi9, startMateri, toolbar, tvTitle);
+      return new ActivityMateriBinding((LinearLayout) rootView, btnLat, imageView10, imageView11,
+          imageView12, imageView13, imageView14, imageView3, imageView4, imageView5, imageView6,
+          imageView7, imageView8, imageView9, materi, materi1, materi10, materi11, materi12,
+          materi13, materi14, materi15, materi16, materi17, materi18, materi19, materi2, materi20,
+          materi21, materi3, materi4, materi5, materi6, materi7, materi8, materi9, startMateri,
+          toolbar, tvTitle);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
