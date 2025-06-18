@@ -1,130 +1,106 @@
 [
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_fullscreen_video.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_fullscreen_video.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\activity_animasi_kupu.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_animasi_kupu.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_material.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\item_material.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_home.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_materi.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_materi.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\activity_materi3.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_materi3.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_home.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\item_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\item_material.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_history.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_history.xml"
+        "merged": "com.example.myapplication2.app-mergeDebugResources-29:/layout/activity_login.xml",
+        "source": "com.example.myapplication2.app-main-32:/layout/activity_login.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_lat_present.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_lat_present.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\activity_history.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_history.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_about.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_about.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\activity_fullscreen_video.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_fullscreen_video.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_animasi_kucing.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi_kucing.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\item_history.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\item_history.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_result.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_result.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\activity_lat_past.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_lat_past.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_animasi3.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi3.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\activity_animasi_kecoa.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_animasi_kecoa.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_animasi_ayam.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi_ayam.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\activity_animasi_belalang.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_animasi_belalang.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_materi3.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_materi3.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\activity_animasi_kucing.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_animasi_kucing.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_animasi.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\activity_animasi_sapi.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_animasi_sapi.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_animasi_belalang.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi_belalang.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\activity_result.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_result.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_animasi_kecoa.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi_kecoa.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\activity_lat_present.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_lat_present.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_question.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_question.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_login.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_history.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\item_history.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_main.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_animasi2.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi2.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\activity_animasi_katak.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_animasi_katak.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_materi2.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_materi2.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\activity_materi2.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_materi2.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_animasi33.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi33.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\activity_animasi_nyamuk.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_animasi_nyamuk.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_animasi11.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi11.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\activity_materi.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_materi.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_animasi333.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi333.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\activity_question.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_question.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\activity_about.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_about.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_lat_future.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_lat_future.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_splash.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_animasi1.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi1.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\activity_lat_future.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_lat_future.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_animasi_kupu.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi_kupu.xml"
-    },
-    {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_animasi_katak.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi_katak.xml"
-    },
-    {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_animasi_sapi.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi_sapi.xml"
-    },
-    {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_animasi22.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi22.xml"
-    },
-    {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_animasi_nyamuk.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi_nyamuk.xml"
-    },
-    {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_splash.xml"
-    },
-    {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_lat_past.xml",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_lat_past.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-mergeDebugResources-29:\\layout\\activity_animasi_ayam.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_animasi_ayam.xml"
     }
 ]

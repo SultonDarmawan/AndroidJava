@@ -23,15 +23,29 @@ public final class ItemHistoryBinding implements ViewBinding {
   public final TextView textViewDate;
 
   @NonNull
+  public final TextView textViewKelas;
+
+  @NonNull
+  public final TextView textViewNama;
+
+  @NonNull
+  public final TextView textViewNis;
+
+  @NonNull
   public final TextView textViewNoUrut;
 
   @NonNull
   public final TextView textViewScore;
 
   private ItemHistoryBinding(@NonNull CardView rootView, @NonNull TextView textViewDate,
-      @NonNull TextView textViewNoUrut, @NonNull TextView textViewScore) {
+      @NonNull TextView textViewKelas, @NonNull TextView textViewNama,
+      @NonNull TextView textViewNis, @NonNull TextView textViewNoUrut,
+      @NonNull TextView textViewScore) {
     this.rootView = rootView;
     this.textViewDate = textViewDate;
+    this.textViewKelas = textViewKelas;
+    this.textViewNama = textViewNama;
+    this.textViewNis = textViewNis;
     this.textViewNoUrut = textViewNoUrut;
     this.textViewScore = textViewScore;
   }
@@ -69,6 +83,24 @@ public final class ItemHistoryBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.textViewKelas;
+      TextView textViewKelas = ViewBindings.findChildViewById(rootView, id);
+      if (textViewKelas == null) {
+        break missingId;
+      }
+
+      id = R.id.textViewNama;
+      TextView textViewNama = ViewBindings.findChildViewById(rootView, id);
+      if (textViewNama == null) {
+        break missingId;
+      }
+
+      id = R.id.textViewNis;
+      TextView textViewNis = ViewBindings.findChildViewById(rootView, id);
+      if (textViewNis == null) {
+        break missingId;
+      }
+
       id = R.id.textViewNoUrut;
       TextView textViewNoUrut = ViewBindings.findChildViewById(rootView, id);
       if (textViewNoUrut == null) {
@@ -81,8 +113,8 @@ public final class ItemHistoryBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ItemHistoryBinding((CardView) rootView, textViewDate, textViewNoUrut,
-          textViewScore);
+      return new ItemHistoryBinding((CardView) rootView, textViewDate, textViewKelas, textViewNama,
+          textViewNis, textViewNoUrut, textViewScore);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

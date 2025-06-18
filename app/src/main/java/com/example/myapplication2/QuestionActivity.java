@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Typeface;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 
@@ -29,6 +30,8 @@ public class QuestionActivity extends AppCompatActivity implements View.OnClickL
     private int mCorrectAnswers = 0;
     private ArrayList<Questions> mQuestionList;
 
+    private static final String TAG = "QuestionActivity";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -47,6 +50,15 @@ public class QuestionActivity extends AppCompatActivity implements View.OnClickL
             getSupportActionBar().hide();
         }
 
+        // Debug: cek apakah nis sudah ada di SharedPreferences
+        SharedPreferences userPref = getSharedPreferences("user_data", Context.MODE_PRIVATE);
+        String nisCheck = userPref.getString("nis", null);
+        if (nisCheck == null) {
+            Log.w(TAG, "NIS belum disimpan di SharedPreferences user_data");
+        } else {
+            Log.d(TAG, "NIS saat onCreate: " + nisCheck);
+        }
+
         setQuestion();
     }
 
@@ -55,21 +67,15 @@ public class QuestionActivity extends AppCompatActivity implements View.OnClickL
         binding.btnSubmit.setVisibility(View.GONE);
         canSelectOption = true;
 
-        Questions questionPackage = mQuestionList.get(mCurrentPosition - 1);
-        binding.tvQuestion.setText(questionPackage.getQuestion());
-
+        Questions question = mQuestionList.get(mCurrentPosition - 1);
+        binding.tvQuestion.setText(question.getQuestion());
         binding.progressBar.setProgress(mCurrentPosition);
         binding.tvProgress.setText(mCurrentPosition + "/" + binding.progressBar.getMax());
-        binding.tvOptionOne.setText(questionPackage.getOptionOne());
-        binding.tvOptionTwo.setText(questionPackage.getOptionTwo());
-        binding.tvOptionThree.setText(questionPackage.getOptionThree());
-        binding.tvOptionFour.setText(questionPackage.getOptionFour());
-
-        if (mCurrentPosition == mQuestionList.size()) {
-            binding.btnSubmit.setText("Finish");
-        } else {
-            binding.btnSubmit.setText("Submit");
-        }
+        binding.tvOptionOne.setText(question.getOptionOne());
+        binding.tvOptionTwo.setText(question.getOptionTwo());
+        binding.tvOptionThree.setText(question.getOptionThree());
+        binding.tvOptionFour.setText(question.getOptionFour());
+        binding.btnSubmit.setText(mCurrentPosition == mQuestionList.size() ? "Finish" : "Submit");
     }
 
     private void defaultOptionView() {
@@ -166,12 +172,7 @@ public class QuestionActivity extends AppCompatActivity implements View.OnClickL
                     }
 
                     answerView(question.getAnswer(), R.drawable.correct_option_bg);
-
-                    if (mCurrentPosition == mQuestionList.size()) {
-                        binding.btnSubmit.setText("Finish");
-                    } else {
-                        binding.btnSubmit.setText("Go To Next Question");
-                    }
+                    binding.btnSubmit.setText(mCurrentPosition == mQuestionList.size() ? "Finish" : "Go To Next Question");
 
                     mSelectedOptionPosition = 0;
                     canSelectOption = false;
@@ -188,11 +189,21 @@ public class QuestionActivity extends AppCompatActivity implements View.OnClickL
         List<QuizResult> quizHistory = jsonQuizHistory != null ?
                 new Gson().fromJson(jsonQuizHistory, new TypeToken<List<QuizResult>>() {}.getType()) : new ArrayList<>();
 
+        SharedPreferences userPref = context.getSharedPreferences("user_data", Context.MODE_PRIVATE);
+        String nis = userPref.getString("nis", null);
+
+        if (nis == null) {
+            nis = "UNKNOWN";
+            Log.w(TAG, "NIS belum disimpan di SharedPreferences user_data");
+        } else {
+            Log.d(TAG, "NIS didapat dari SharedPreferences: " + nis);
+        }
+
         long currentTime = System.currentTimeMillis();
         SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd", Locale.getDefault());
         SimpleDateFormat timeFormat = new SimpleDateFormat("HH:mm:ss", Locale.getDefault());
 
-        QuizResult quizResult = new QuizResult(score, dateFormat.format(currentTime), timeFormat.format(currentTime));
+        QuizResult quizResult = new QuizResult(score, dateFormat.format(currentTime), timeFormat.format(currentTime), nis);
         quizHistory.add(quizResult);
 
         editor.putString("quiz_history", new Gson().toJson(quizHistory));

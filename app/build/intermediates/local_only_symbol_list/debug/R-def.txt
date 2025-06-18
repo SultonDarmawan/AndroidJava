@@ -89,8 +89,11 @@ drawable baseline_library_books_150
 drawable belalang
 drawable bg_btn_auth_color_primary
 drawable bg_circle_radius
-drawable bg_gradient
+drawable bg_ic
+drawable bg_menuutama
 drawable bg_overlay
+drawable bg_result
+drawable bgquis
 drawable btn_3d_background
 drawable btn_3d_selector
 drawable btn_image_background
@@ -107,7 +110,6 @@ drawable ic_arrow
 drawable ic_back
 drawable ic_bg
 drawable ic_fullscreen_background
-drawable ic_launcher_background
 drawable ic_tropy
 drawable kambing
 drawable katak
@@ -145,11 +147,13 @@ id btnAbout
 id btnFinish
 id btnFullscreen
 id btnHistory
+id btnLogin
 id btnMateri
 id btnQuiz
 id btnSubmit
 id btn_Lat
 id card_iv_course
+id editNis
 id grid_layout
 id guideline_end_vertical
 id guideline_start_vertical
@@ -194,8 +198,12 @@ id progressBar
 id recyclerViewHistory
 id startMateri
 id textViewDate
+id textViewKelas
+id textViewNama
+id textViewNis
 id textViewNoUrut
 id textViewScore
+id text_view_tag_emorph
 id text_view_tag_line
 id toolbar
 id tvOptionFour
@@ -225,6 +233,7 @@ layout activity_home
 layout activity_lat_future
 layout activity_lat_past
 layout activity_lat_present
+layout activity_login
 layout activity_main
 layout activity_materi
 layout activity_materi2
@@ -237,9 +246,6 @@ layout item_material
 mipmap ic_fullscreen
 mipmap ic_fullscreen_foreground
 mipmap ic_fullscreen_round
-mipmap ic_launcher
-mipmap ic_launcher_foreground
-mipmap ic_launcher_round
 raw metamorfosis
 raw metamorfosis1
 raw metamorfosis11

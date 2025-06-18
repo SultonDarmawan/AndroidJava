@@ -37,17 +37,22 @@ public final class ActivityHomeBinding implements ViewBinding {
   public final GridLayout gridLayout;
 
   @NonNull
+  public final TextView textViewTagEmorph;
+
+  @NonNull
   public final TextView textViewTagLine;
 
   private ActivityHomeBinding(@NonNull ConstraintLayout rootView, @NonNull ImageView btnAbout,
       @NonNull ImageView btnHistory, @NonNull ImageView btnMateri, @NonNull ImageView btnQuiz,
-      @NonNull GridLayout gridLayout, @NonNull TextView textViewTagLine) {
+      @NonNull GridLayout gridLayout, @NonNull TextView textViewTagEmorph,
+      @NonNull TextView textViewTagLine) {
     this.rootView = rootView;
     this.btnAbout = btnAbout;
     this.btnHistory = btnHistory;
     this.btnMateri = btnMateri;
     this.btnQuiz = btnQuiz;
     this.gridLayout = gridLayout;
+    this.textViewTagEmorph = textViewTagEmorph;
     this.textViewTagLine = textViewTagLine;
   }
 
@@ -108,6 +113,12 @@ public final class ActivityHomeBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.text_view_tag_emorph;
+      TextView textViewTagEmorph = ViewBindings.findChildViewById(rootView, id);
+      if (textViewTagEmorph == null) {
+        break missingId;
+      }
+
       id = R.id.text_view_tag_line;
       TextView textViewTagLine = ViewBindings.findChildViewById(rootView, id);
       if (textViewTagLine == null) {
@@ -115,7 +126,7 @@ public final class ActivityHomeBinding implements ViewBinding {
       }
 
       return new ActivityHomeBinding((ConstraintLayout) rootView, btnAbout, btnHistory, btnMateri,
-          btnQuiz, gridLayout, textViewTagLine);
+          btnQuiz, gridLayout, textViewTagEmorph, textViewTagLine);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

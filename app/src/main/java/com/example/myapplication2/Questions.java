@@ -7,19 +7,21 @@ public class Questions {
     private String optionTwo;
     private String optionThree;
     private String optionFour;
+    private String nis;
     private int answer;
 
     // Constructor
     public Questions() {
     }
 
-    public Questions(int id, String question, String optionOne, String optionTwo, String optionThree, String optionFour, int answer) {
+    public Questions(int id, String question, String optionOne, String optionTwo, String optionThree, String optionFour, String nis, int answer) {
         this.id = id;
         this.question = question;
         this.optionOne = optionOne;
         this.optionTwo = optionTwo;
         this.optionThree = optionThree;
         this.optionFour = optionFour;
+        this.nis = nis;
         this.answer = answer;
     }
 
@@ -70,6 +72,14 @@ public class Questions {
 
     public void setOptionFour(String optionFour) {
         this.optionFour = optionFour;
+    }
+
+    public String getNis() {
+        return nis;
+    }
+
+    public void setNis(String nis) {
+        this.nis = nis;
     }
 
     public int getAnswer() {

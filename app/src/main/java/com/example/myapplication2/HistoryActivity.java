@@ -1,65 +1,63 @@
-/*
- * Decompiled with CFR 0.150.
- *
- * Could not load the following classes:
- *  android.content.Context
- *  android.content.SharedPreferences
- *  android.os.Bundle
- *  android.view.View
- *  androidx.appcompat.app.AppCompatActivity
- *  androidx.recyclerview.widget.LinearLayoutManager
- *  androidx.recyclerview.widget.RecyclerView
- *  androidx.recyclerview.widget.RecyclerView$Adapter
- *  androidx.recyclerview.widget.RecyclerView$LayoutManager
- */
 package com.example.myapplication2;
 
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.view.View;
+
+import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
-import com.example.myapplication2.HistoryAdapter;
-import com.example.myapplication2.QuizResult;
+
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-import java.util.List;
-import kotlin.Metadata;
-import kotlin.collections.CollectionsKt;
-import kotlin.jvm.internal.Intrinsics;
-import org.jetbrains.annotations.NotNull;
-import org.jetbrains.annotations.Nullable;
 
-@Metadata(mv={1, 8, 0}, k=1, xi=48, d1={"\u0000(\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0010 \n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0010\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\u0018\u00002\u00020\u0001B\u0005\u00a2\u0006\u0002\u0010\u0002J\u0014\u0010\u0003\u001a\b\u0012\u0004\u0012\u00020\u00050\u00042\u0006\u0010\u0006\u001a\u00020\u0007J\u0012\u0010\b\u001a\u00020\t2\b\u0010\n\u001a\u0004\u0018\u00010\u000bH\u0014\u00a8\u0006\f"}, d2={"Lcom/example/myapplication2/HistoryActivity;", "Landroidx/appcompat/app/AppCompatActivity;", "()V", "getQuizHistory", "", "Lcom/example/myapplication2/QuizResult;", "context", "Landroid/content/Context;", "onCreate", "", "savedInstanceState", "Landroid/os/Bundle;", "app_debug"})
-public final class HistoryActivity
-        extends AppCompatActivity {
+import java.util.ArrayList;
+import java.util.List;
+
+public class HistoryActivity extends AppCompatActivity {
+
+    private RecyclerView recyclerView;
+    private HistoryAdapter historyAdapter;
+    private List<QuizResult> allQuizHistory;
+
+    @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        this.setContentView(R.layout.activity_history);
-        List<QuizResult> quizHistoryData = this.getQuizHistory((Context)this);
-        View view = this.findViewById(R.id.recyclerViewHistory);
-        Intrinsics.checkNotNullExpressionValue((Object)view, "findViewById(R.id.recyclerViewHistory)");
-        RecyclerView recyclerViewHistory = (RecyclerView)view;
-        recyclerViewHistory.setLayoutManager((RecyclerView.LayoutManager)new LinearLayoutManager((Context)this));
-        HistoryAdapter historyAdapter = new HistoryAdapter(quizHistoryData);
-        recyclerViewHistory.setAdapter((RecyclerView.Adapter)historyAdapter);
-    }
+        setContentView(R.layout.activity_history);  // Buat layout ini dengan RecyclerView
 
-    @NotNull
-    public final List<QuizResult> getQuizHistory(@NotNull Context context) {
-        List list;
-        Intrinsics.checkNotNullParameter((Object)context, "context");
-        SharedPreferences sharedPref = context.getSharedPreferences("quiz_history", 0);
-        String jsonQuizHistory = sharedPref.getString("quiz_history", null);
-        if (jsonQuizHistory != null) {
-            Object t = new Gson().fromJson(jsonQuizHistory, new TypeToken<List<? extends QuizResult>>(){}.getType());
-            Intrinsics.checkNotNullExpressionValue(t, "{\n            Gson().fro\u2026lt>>() {}.type)\n        }");
-            list = (List)t;
-        } else {
-            list = CollectionsKt.emptyList();
+        recyclerView = findViewById(R.id.recyclerViewHistory);
+        recyclerView.setLayoutManager(new LinearLayoutManager(this));
+
+        // Ambil NIS user yang login dari SharedPreferences user_data
+        SharedPreferences userPref = getSharedPreferences("user_data", Context.MODE_PRIVATE);
+        String nisLogin = userPref.getString("nis", null);
+
+        if (nisLogin == null) {
+            // Jika NIS belum ada, bisa tampilkan pesan atau handle error
+            nisLogin = "";  // default kosong
         }
-        return list;
+
+        // Ambil semua quiz history dari SharedPreferences quiz_history
+        SharedPreferences quizPref = getSharedPreferences("quiz_history", Context.MODE_PRIVATE);
+        String jsonQuizHistory = quizPref.getString("quiz_history", null);
+
+        if (jsonQuizHistory != null) {
+            allQuizHistory = new Gson().fromJson(jsonQuizHistory, new TypeToken<List<QuizResult>>() {}.getType());
+        } else {
+            allQuizHistory = new ArrayList<>();
+        }
+
+        // Filter data hanya yang sesuai nisLogin
+        List<QuizResult> filteredQuizHistory = new ArrayList<>();
+        for (QuizResult quizResult : allQuizHistory) {
+            if (nisLogin.equals(quizResult.getNis())) {
+                filteredQuizHistory.add(quizResult);
+            }
+        }
+
+        // Set adapter dengan data yang sudah difilter
+        historyAdapter = new HistoryAdapter(this, filteredQuizHistory);
+        recyclerView.setAdapter(historyAdapter);
     }
 }

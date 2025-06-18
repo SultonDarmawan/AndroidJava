@@ -2990,8 +2990,11 @@ drawable baseline_library_books_150
 drawable belalang
 drawable bg_btn_auth_color_primary
 drawable bg_circle_radius
-drawable bg_gradient
+drawable bg_ic
+drawable bg_menuutama
 drawable bg_overlay
+drawable bg_result
+drawable bgquis
 drawable btn_3d_background
 drawable btn_3d_selector
 drawable btn_checkbox_checked_mtrl
@@ -3031,7 +3034,6 @@ drawable ic_clear_black_24
 drawable ic_clock_black_24dp
 drawable ic_fullscreen_background
 drawable ic_keyboard_black_24dp
-drawable ic_launcher_background
 drawable ic_m3_chip_check
 drawable ic_m3_chip_checked_circle
 drawable ic_m3_chip_close
@@ -3249,6 +3251,7 @@ id btnAbout
 id btnFinish
 id btnFullscreen
 id btnHistory
+id btnLogin
 id btnMateri
 id btnQuiz
 id btnSubmit
@@ -3327,6 +3330,7 @@ id easeInOut
 id easeOut
 id east
 id edge
+id editNis
 id edit_query
 id elastic
 id embed
@@ -3646,11 +3650,15 @@ id textSpacerNoTitle
 id textStart
 id textTop
 id textViewDate
+id textViewKelas
+id textViewNama
+id textViewNis
 id textViewNoUrut
 id textViewScore
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
+id text_view_tag_emorph
 id text_view_tag_line
 id textinput_counter
 id textinput_error
@@ -3838,6 +3846,7 @@ layout activity_home
 layout activity_lat_future
 layout activity_lat_past
 layout activity_lat_present
+layout activity_login
 layout activity_main
 layout activity_materi
 layout activity_materi2
@@ -3927,9 +3936,6 @@ layout support_simple_spinner_dropdown_item
 mipmap ic_fullscreen
 mipmap ic_fullscreen_foreground
 mipmap ic_fullscreen_round
-mipmap ic_launcher
-mipmap ic_launcher_foreground
-mipmap ic_launcher_round
 plurals mtrl_badge_content_description
 raw metamorfosis
 raw metamorfosis1

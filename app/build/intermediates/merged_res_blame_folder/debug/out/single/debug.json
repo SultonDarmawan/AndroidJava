@@ -1,510 +1,458 @@
 [
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_item_material.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\item_material.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_lebah_madu.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\lebah_madu.png"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\mipmap-mdpi_ic_fullscreen.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\mipmap-mdpi\\ic_fullscreen.webp"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_ayam.png.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\ayam.png"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_about.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\about.png"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_animasi_nyamuk.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi_nyamuk.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\rounded_button.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_lalat.png.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\lalat.png"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\mipmap-xxxhdpi_ic_fullscreen.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\mipmap-xxxhdpi\\ic_fullscreen.webp"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_overlay.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\bg_overlay.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_activity_lat_future.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_lat_future.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_fullscreen.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\fullscreen.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\mipmap-xxhdpi_ic_fullscreen_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\mipmap-xxhdpi\\ic_fullscreen_round.webp"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_item_history.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\item_history.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\mipmap-hdpi_ic_fullscreen_foreground.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\mipmap-hdpi\\ic_fullscreen_foreground.webp"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_telur2.jpg.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\telur2.jpg"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_quiz.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\quiz.png"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_circle_radius.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\bg_circle_radius.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_kepompong.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\kepompong.jpg"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_3d_selector.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\btn_3d_selector.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\mipmap-hdpi_ic_fullscreen.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\mipmap-hdpi\\ic_fullscreen.webp"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\raw_metamorfosis2.mp4.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\raw\\metamorfosis2.mp4"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\mipmap-xxhdpi_ic_fullscreen.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\mipmap-xxhdpi\\ic_fullscreen.webp"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_fullscreen_round.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-mdpi\\ic_fullscreen_round.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_container.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\container.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_past_tense.png.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\past_tense.png"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_activity_animasi_ayam.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_animasi_ayam.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_ulat.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\ulat.jpg"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_materi2.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_materi2.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\font_daily.ttf.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\font\\daily.ttf"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_container.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\container.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\mipmap-xxhdpi_ic_fullscreen_foreground.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\mipmap-xxhdpi\\ic_fullscreen_foreground.webp"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_fullscreen_round.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_fullscreen_round.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_correct_option_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\correct_option_bg.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_kepompong.jpg.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\kepompong.jpg"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\mipmap-anydpi-v26_ic_fullscreen_round.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\mipmap-anydpi-v26\\ic_fullscreen_round.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\font_game.ttf.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\font\\game.ttf"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_activity_animasi_katak.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_animasi_katak.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_fullscreen_round.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fullscreen_round.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_activity_animasi_kecoa.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_animasi_kecoa.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_metamorfosis.jpg.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\metamorfosis.jpg"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\mipmap-xhdpi_ic_fullscreen.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\mipmap-xhdpi\\ic_fullscreen.webp"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_background.jpeg.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\background.jpeg"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\raw_metamorfosis22.mp4.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\raw\\metamorfosis22.mp4"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\mipmap-mdpi_ic_fullscreen_foreground.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\mipmap-mdpi\\ic_fullscreen_foreground.webp"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_default_option_border_bg.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\default_option_border_bg.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_btn_image_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\btn_image_background.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_kambing.png.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\kambing.png"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\ic_back.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\raw_metamorfosis.mp4.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\raw\\metamorfosis.mp4"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_activity_materi.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_materi.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\mipmap-anydpi-v26_ic_fullscreen.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\mipmap-anydpi-v26\\ic_fullscreen.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_animasi_kucing.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi_kucing.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_btn_3d_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\btn_3d_selector.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_about.png.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\about.png"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_home.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_animasi_ayam.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi_ayam.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_activity_lat_present.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_lat_present.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_fullscreen_foreground.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-mdpi\\ic_fullscreen_foreground.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_bg_overlay.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\bg_overlay.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_animasi_kupu.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi_kupu.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_bg_menuutama.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\bg_menuutama.png"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_metamorfosis.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\metamorfosis.jpg"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\raw_metamorfosis22.mp4.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\raw\\metamorfosis22.mp4"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_ic_arrow.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\ic_arrow.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_result.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_result.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_activity_animasi_nyamuk.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_animasi_nyamuk.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_3d_background.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\btn_3d_background.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_activity_animasi_belalang.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_animasi_belalang.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_materi3.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_materi3.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_bg_result.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\bg_result.jpg"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_nyamuk.jpg.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\nyamuk.jpg"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_fullscreen.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_fullscreen.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\mipmap-xhdpi_ic_fullscreen_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\mipmap-xhdpi\\ic_fullscreen_round.webp"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_lat_present.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_lat_present.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_splash.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_present_tense.png.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\present_tense.png"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_activity_fullscreen_video.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_fullscreen_video.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\xml_data_extraction_rules.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_btn_3d_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\btn_3d_background.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_btn_auth_color_primary.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\bg_btn_auth_color_primary.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_activity_animasi_kucing.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_animasi_kucing.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_materi.png.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\materi.png"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_metamorfosis2.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\metamorfosis2.jpg"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_kupu.jpg.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\kupu.jpg"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_download.jpeg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\download.jpeg"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_fullscreen.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fullscreen.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_past_tense.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\past_tense.png"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_fullscreen.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-mdpi\\ic_fullscreen.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\raw_metamorfosis33.mp4.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\raw\\metamorfosis33.mp4"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_kecoa.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\kecoa.jpg"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_lat_future.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_lat_future.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_materi.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\materi.png"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_ulat.jpg.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\ulat.jpg"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_present_tense.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\present_tense.png"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo.png.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\logo.png"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_kupu_kupu.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\kupu_kupu.jpg"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_fullscreen_video.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_fullscreen_video.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_activity_lat_past.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_lat_past.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_ngengat.png.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\ngengat.png"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\font_bitshow.otf.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\font\\bitshow.otf"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_animasi_katak.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi_katak.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_activity_materi2.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_materi2.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_wrong_option_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\wrong_option_bg.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_kupu_kupu.jpg.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\kupu_kupu.jpg"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_background.jpeg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\background.jpeg"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_foto_about.png.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\foto_about.png"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_activity_animasi_kupu.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_animasi_kupu.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\raw_metamorfosis1.mp4.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\raw\\metamorfosis1.mp4"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_fullscreen_round.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_fullscreen_round.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_baseline_library_books_150.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\baseline_library_books_150.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_selected_option_border_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\selected_option_border_bg.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\mipmap-xhdpi_ic_fullscreen_foreground.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\mipmap-xhdpi\\ic_fullscreen_foreground.webp"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_back.png.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\back.png"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_bg_btn_auth_color_primary.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\bg_btn_auth_color_primary.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_fullscreen_foreground.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_fullscreen_foreground.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_kupu.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\kupu.jpg"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_question.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_question.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_activity_animasi_sapi.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_animasi_sapi.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_belalang.jpg.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\belalang.jpg"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\mipmap-xxxhdpi_ic_fullscreen_foreground.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\mipmap-xxxhdpi\\ic_fullscreen_foreground.webp"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\raw_metamorfosis11.mp4.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\raw\\metamorfosis11.mp4"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\logo.png"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\raw_metamorfosis3.mp4.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\raw\\metamorfosis3.mp4"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_telur.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\telur.jpg"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_metamorfosis3.jpg.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\metamorfosis3.jpg"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_sapi.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\sapi.png"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_gradient.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\bg_gradient.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_item_material.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\item_material.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_capture.jpeg.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\capture.jpeg"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\raw_metamorfosis2.mp4.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\raw\\metamorfosis2.mp4"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_correct_option_bg.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\correct_option_bg.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\mipmap-xxxhdpi_ic_fullscreen_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\mipmap-xxxhdpi\\ic_fullscreen_round.webp"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_tropy.png.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\ic_tropy.png"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_activity_materi3.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_materi3.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_login.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_animasi_kecoa.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi_kecoa.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_bgquis.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\bgquis.jpg"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_bg.jpg.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\ic_bg.jpg"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_fullscreen.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\fullscreen.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_item_history.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\item_history.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\raw_metamorfosis333.mp4.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\raw\\metamorfosis333.mp4"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\raw_metamorfosis11.mp4.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\raw\\metamorfosis11.mp4"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_fullscreen_round.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-hdpi\\ic_fullscreen_round.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_metamorfosis3.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\metamorfosis3.jpg"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_future_tense.png.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\future_tense.png"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_telur2.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\telur2.jpg"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\font_daily.ttf.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\font\\daily.ttf"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\raw_metamorfosis333.mp4.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\raw\\metamorfosis333.mp4"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_fullscreen_foreground.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-hdpi\\ic_fullscreen_foreground.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_kambing.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\kambing.png"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_telur.jpg.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\telur.jpg"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_ayam.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\ayam.png"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_kecoa.jpg.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\kecoa.jpg"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\font_game.ttf.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\font\\game.ttf"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_history.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\history.png"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_fullscreen_foreground.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_fullscreen_foreground.webp"
+        "merged": "com.example.myapplication2.app-merged_res-30:/layout_activity_login.xml.flat",
+        "source": "com.example.myapplication2.app-main-32:/layout/activity_login.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\font_bitshow.otf.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\font\\bitshow.otf"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_main.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_katak.jpg.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\katak.jpg"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_activity_result.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_result.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_history.png.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\history.png"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_nyamuk.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\nyamuk.jpg"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_animasi_belalang.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi_belalang.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_back.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\back.png"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_button.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\rounded_button.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\raw_metamorfosis3.mp4.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\raw\\metamorfosis3.mp4"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_semut.png.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\semut.png"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_activity_question.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_question.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\raw_metamorfosis.mp4.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\raw\\metamorfosis.mp4"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_metamorfosis2.jpg.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\metamorfosis2.jpg"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_bg_ic.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\bg_ic.jpg"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_fullscreen.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_fullscreen.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\mipmap-mdpi_ic_fullscreen_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\mipmap-mdpi\\ic_fullscreen_round.webp"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_fullscreen.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-hdpi\\ic_fullscreen.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_capture.jpeg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\capture.jpeg"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_home.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_home.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_ic_tropy.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\ic_tropy.png"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_nimfa.jpg.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\nimfa.jpg"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_default_option_border_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\default_option_border_bg.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_fullscreen_round.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_fullscreen_round.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_ic_bg.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\ic_bg.jpg"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_arrow.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\ic_arrow.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\font_grow.ttf.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\font\\grow.ttf"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_sapi.png.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\sapi.png"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_semut.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\semut.png"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_lat_past.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_lat_past.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_bg_circle_radius.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\bg_circle_radius.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_quiz.png.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\quiz.png"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_future_tense.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\future_tense.png"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_fullscreen_background.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\ic_fullscreen_background.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\mipmap-hdpi_ic_fullscreen_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\mipmap-hdpi\\ic_fullscreen_round.webp"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_image_background.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\btn_image_background.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_katak.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\katak.jpg"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_lebah_madu.png.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\lebah_madu.png"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_about.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_foto_about.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\foto_about.png"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_ic_fullscreen_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\ic_fullscreen_background.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\raw_metamorfosis1.mp4.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\raw\\metamorfosis1.mp4"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_lalat.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\lalat.png"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_download.jpeg.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\download.jpeg"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_belalang.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\belalang.jpg"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_fullscreen.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_fullscreen.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_nimfa.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\nimfa.jpg"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\layout\\activity_history.xml"
     },
     {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\font_grow.ttf.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\font\\grow.ttf"
-    },
-    {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_materi.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_materi.xml"
-    },
-    {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_selected_option_border_bg.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\selected_option_border_bg.xml"
-    },
-    {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_back.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\ic_back.xml"
-    },
-    {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_splash.xml"
-    },
-    {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_library_books_150.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\baseline_library_books_150.xml"
-    },
-    {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\drawable_wrong_option_bg.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\drawable\\wrong_option_bg.xml"
-    },
-    {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\xml_backup_rules.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\xml\\backup_rules.xml"
-    },
-    {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_about.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_about.xml"
-    },
-    {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_animasi_sapi.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_animasi_sapi.xml"
-    },
-    {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\raw_metamorfosis33.mp4.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\raw\\metamorfosis33.mp4"
-    },
-    {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_fullscreen_foreground.webp.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\mipmap-xhdpi\\ic_fullscreen_foreground.webp"
-    },
-    {
-        "merged": "E:\\New folder\\AndroidJava\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_history.xml.flat",
-        "source": "E:\\New folder\\AndroidJava\\app\\src\\main\\res\\layout\\activity_history.xml"
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-merged_res-30:\\drawable_ngengat.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.example.myapplication2.app-main-32:\\drawable\\ngengat.png"
     }
 ]

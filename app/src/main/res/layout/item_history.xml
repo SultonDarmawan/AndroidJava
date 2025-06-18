@@ -24,6 +24,34 @@
             android:textStyle="bold"
             android:textColor="@color/black" />
 
+
+        <TextView
+            android:id="@+id/textViewNis"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Score: "
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimary" />
+
+        <TextView
+            android:id="@+id/textViewNama"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Score: "
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimary" />
+
+        <TextView
+            android:id="@+id/textViewKelas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Score: "
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimary" />
+
         <TextView
             android:id="@+id/textViewScore"
             android:layout_width="wrap_content"

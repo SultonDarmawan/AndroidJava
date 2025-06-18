@@ -27,7 +27,7 @@
                     android:id="@+id/tvTitle"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:fontFamily="@font/game"
+                    android:fontFamily="@font/bitshow"
                     android:layerType="software"
                     android:shadowDx="4"
                     android:shadowDy="4"
@@ -51,8 +51,7 @@
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            tools:context=".MainActivity"
-            android:background="@drawable/bg_gradient">
+            tools:context=".MainActivity">
 
 
             <androidx.recyclerview.widget.RecyclerView
